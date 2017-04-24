@@ -14,6 +14,10 @@ body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 au
 #content{width:100%!important}
 .full-image-block img{  width: 100%;}
 #content a img{width:auto}
+.horizontalNavigationBar .module a {
+    
+    color: red;
+}
 
 @media (max-width:992px){
   #navigationBottom .content-navigation{display: flex;
