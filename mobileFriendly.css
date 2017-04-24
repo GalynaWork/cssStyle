@@ -14,6 +14,12 @@ body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 au
 #navigationBottom .horizontalNavigationBar{padding-left:0;padding-right:0}
 #content{width:100%!important}
 .full-image-block img{  width: 100%;}
+#navigationBottom .horizontalNavigationBar .content-navigation{width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.horizontalNavigationBar .module a{     margin-left: 0px; }
  /****end digitaler-nomade*****/
 /****head-office-london****/
 #content a img{width:auto}
