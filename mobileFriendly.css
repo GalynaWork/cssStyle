@@ -1,3 +1,4 @@
+/****digitaler-nomade*****/
 body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 auto;background-position:50% 50%!important}
 #canvasWrapper{max-width:981px;width:100%;padding:0}
 #navigationBottom .horizontalNavigationBar {
@@ -13,10 +14,13 @@ body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 au
 #navigationBottom .horizontalNavigationBar{padding-left:0;padding-right:0}
 #content{width:100%!important}
 .full-image-block img{  width: 100%;}
+ /****end digitaler-nomade*****/
+/****head-office-london****/
 #content a img{width:auto}
-
+/****end head-office-london****/
 
 @media (max-width:992px){
+     /****digitaler-nomade*****/
   #navigationBottom .content-navigation{display: flex;
     flex-direction: column;align-items: center;}
   .horizontalNavigationBar .module a{font-size: 18px;margin-left: 0px;}
@@ -33,21 +37,23 @@ body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 au
   .requestPA{    font-size: 16px;}
   #content p,#content li {  font-size: 15px;    }
   .onThisPage{font-size: 15px;}
+     /****end digitaler-nomade*****/
 }
 @media (max-width:767px){
-  /*#pageFooter div:first-child{text-align: center;
-    display: flex;
-    flex-direction: column;}*/
+  /****digitaler-nomade*****/
   #pageFooter div{font-size:16px;text-align:center}
   #content a img{width:65%}
+     /****end digitaler-nomade*****/
 }
 @media (max-width:500px){
-  
+  /****digitaler-nomade*****/
   #content a img{width:80%}
   .horizontalNavigationBar .module a {
     font-size: 15px;}
-  
+   /****end digitaler-nomade*****/
 }
 @media (max-width:400px){
+    /****digitaler-nomade*****/
   #content a img{width:100%}
+    /****end digitaler-nomade*****/
 }
