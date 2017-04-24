@@ -19,6 +19,17 @@ body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 au
 #content a img{width:auto}
 /****end head-office-london****/
 
+
+/****home page****/
+#modulePage8187337 #content a img {
+    width: 100%;
+}
+#modulePage8187337 #content a{display:block}
+#modulePage8187337 #content table{display:flex}
+/****end home page****/
+
+
+
 @media (max-width:992px){
      /****digitaler-nomade*****/
   #navigationBottom .content-navigation{display: flex;
