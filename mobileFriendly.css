@@ -25,7 +25,7 @@ body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 au
     width: 100%;
 }
 #modulePage8187337 #content a{display:block}
-#modulePage8187337 #content table{display:flex}
+
 /****end home page****/
 
 
@@ -55,6 +55,10 @@ body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 au
   #pageFooter div{font-size:16px;text-align:center}
   #content a img{width:65%}
      /****end digitaler-nomade*****/
+    /****home page****/
+   #modulePage8187337 #content table{display:flex}
+/****end home page****/ 
+    
 }
 @media (max-width:500px){
   /****digitaler-nomade*****/
