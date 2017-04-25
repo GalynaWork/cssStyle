@@ -107,7 +107,8 @@ width: 34%;
          margin-left: 40px;}
    #content .bottomTeasers tbody tr td img{width:100%}
     iframe{width:100%!important}
-    p:first-child{height:500px}
+    #content .full-image-block.ssNonEditable img{width:100%}
+    #content div .full-image-block.ssNonEditable img{width:100%}
  /****end texas-c-corporation & same****/
     
     
