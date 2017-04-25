@@ -136,6 +136,14 @@ width: 34%;
   .horizontalNavigationBar .module a {
     font-size: 15px;}
    /****end digitaler-nomade*****/
+    
+     /**** texas-c-corporation & same****/
+    .exampleTable2{display: flex;}
+    .exampleTable2 tr{    display: flex;
+    flex-direction: column;
+    width: 100%;}
+    .exampleTable2 tr td{text-align:center}
+     /****end texas-c-corporation & same****/
 }
 @media (max-width:400px){
     /****digitaler-nomade*****/
