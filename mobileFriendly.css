@@ -108,7 +108,7 @@ width: 34%;
    #content .bottomTeasers tbody tr td img{width:100%}
     iframe{width:100%!important}
     #content .full-image-block.ssNonEditable img{width:100%}
-    #content div .full-image-block.ssNonEditable img{width:100%}
+    #content div .full-image-block.ssNonEditable img{width:auto}
  /****end texas-c-corporation & same****/
     
     
