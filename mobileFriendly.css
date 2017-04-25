@@ -79,7 +79,8 @@ body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 au
 /****texas-c-corporation & same****/
     .infoDIVleft,.infoDIVright {width:100%;    padding-left: 0;
     padding-right: 0;
-    margin-right: 0;}  
+    margin-right: 0;} 
+    .infoDIVleft ul,.infoDIVright ul{margin-right:20px}
     .infoDIVleft strong,.infoDIVright strong{padding-left:20px}
     .infoDIVright{margin-bottom:20px}
     .thumbnail-image-float-left.ssNonEditable{    width: 100%;}
