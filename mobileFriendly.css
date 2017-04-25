@@ -88,6 +88,13 @@ body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 au
        justify-content: space-between;}
     .sectionMainPageTable a{display:block}
     #content span a{display:block}
+    .bottomTeasers{display:flex;}
+    .bottomTeasers tbody{display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+
  /****end texas-c-corporation & same****/
     
     
