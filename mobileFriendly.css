@@ -130,6 +130,21 @@ width: 34%;
     
   /****end texas-c-corporation & same****/  
 }
+@media (max-width:556px){
+/****texas-c-corporation & same****/ 
+    .bottomTeasers tbody tr {
+    
+    justify-content: space-around;
+}
+    .bottomTeasers tbody tr td {
+    width: 45%;
+     margin-right: 0px; 
+     margin-left: 0px; 
+}
+ /****end texas-c-corporation & same****/
+}
+
+
 @media (max-width:500px){
   /****digitaler-nomade*****/
   #content a img{width:80%}
@@ -149,4 +164,18 @@ width: 34%;
     /****digitaler-nomade*****/
   #content a img{width:100%}
     /****end digitaler-nomade*****/
+    
+    
+     /****texas-c-corporation & same****/
+    
+    .sectionMainPageTable tbody tr {
+        flex-direction: column;}
+    .sectionMainPageTable tbody tr a {
+           text-align: center;}
+    #content .sectionMainPageTable img {
+    width: 55%;
+}
+    
+     /****end texas-c-corporation & same****/
+    
 }
