@@ -164,7 +164,7 @@ width: 34%;
     width: 100%;}
     .exampleTable2 tr td{text-align:center;}
     .exampleTable2 tr td:last-child{border-top:none;padding-top:0}
-    .exampleTable2 tr td:last-child h3{margin-top: -57px;}
+    .exampleTable2 tr td:last-child h3{margin-top: -37px;}
     .exampleTable2 tr td:first-child{padding-bottom:0;    padding-top: 23px;}
      /****end texas-c-corporation & same****/
 }
