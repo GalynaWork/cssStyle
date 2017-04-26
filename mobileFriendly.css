@@ -162,7 +162,7 @@ width: 34%;
     .exampleTable2 tr{    display: flex;
     flex-direction: column;
     width: 100%;}
-    .exampleTable2 tr td{text-align:center}
+    .exampleTable2 tr td{text-align:center;border-bottom:none}
      /****end texas-c-corporation & same****/
 }
 @media (max-width:400px){
