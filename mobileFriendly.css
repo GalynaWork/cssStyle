@@ -272,6 +272,21 @@ width: 34%;
   #modulePage3794294 .exampleTable img {
     border: none; 
 }
+ /**leistungen******/  
+   #modulePage19605403 table tbody tr {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+   #modulePage19605403 table tbody .promoted-service {
+    padding-right: 0;
+}
+   #modulePage19605403 table tbody .promoted-service img {
+    width: auto;
+}
+   /****end leistungen****/
 
 }
 @media (max-width:400px){
