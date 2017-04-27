@@ -175,7 +175,15 @@ width: 34%;
    /**head-office-london***/
    #modulePage3794294 .thumbnail-image-float-left.ssNonEditable img{width:100%}
    /**end head-office-london***/
+   /**leistungen***/
+   #modulePage19605403 table{display: flex;}
+   #modulePage19605403 table tbody{    width: 100%;}
+    #modulePage19605403 table tbody tr{      width: 100%;
+    display: flex;
+    justify-content: space-between;}
+   #modulePage19605403 table tbody .promoted-service{    padding-right: 5px;}
    
+   /**end leistungen***/
    
 }
 @media (max-width:767px){
