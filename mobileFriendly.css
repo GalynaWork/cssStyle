@@ -196,6 +196,9 @@ width: 34%;
     .exampleTable2 tr td:last-child h3,.exampleTable tr td:last-child h3{margin-top: -37px;}
     .exampleTable2 tr td:first-child,..exampleTable tr td:first-child{padding-bottom:0;    padding-top: 23px;}
      /****end texas-c-corporation & same****/
+  /**head-office-london**/
+   #modulePage3794294 .thumbnail-image-float-left.ssNonEditable img{width:auto}
+   .exampleTable tr td:last-child h3{margin-top: -17px;}
 }
 @media (max-width:400px){
     /****digitaler-nomade*****/
