@@ -215,7 +215,7 @@ width: 34%;
     bottom: 0;
     margin-bottom: 20px;}
    #content .container .npost-sec {
-      border-top: 2px solid #c0c0c0;}
+     border:none; border-top: 2px solid #c0c0c0;}
   /** end uk-leistungsangebot & same (table)***/ 
 }
 @media (max-width:556px){
