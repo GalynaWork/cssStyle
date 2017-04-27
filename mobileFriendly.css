@@ -233,7 +233,7 @@ width: 34%;
 }
   #modulePage3806752  .section ul li,#modulePage3806752 #moduleContent8204875,#modulePage5644014 #moduleContent8204875,
    #modulePage3780154 #moduleContent8204875,#modulePage3780154 #moduleContent8204875, #modulePage3780380 #moduleContent8204875,
-   #modulePage3780380 .section ul li{
+   #modulePage3780380 .section ul li,#modulePage3810862 #moduleContent8204875{
     
       text-align: center;}
  #modulePage3806752 p:first-child .full-image-block img {
@@ -242,6 +242,8 @@ width: 34%;
    #modulePage3806752 #moduleContent8204875 img {
     width: auto!important;
 }
+   #modulePage3810862 .content-passthrough{margin-top:0px}
+   #modulePage3810862 #content{text-align:center}
   
 /*******end die-kanzlei********/
    /*******aktuelles********/
