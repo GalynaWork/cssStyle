@@ -282,5 +282,11 @@ width: 34%;
    /**uk-leistungsangebot & same (table)***/
    #content .container .npost-right-sec h3{    font-size: 23px;}
       /**end uk-leistungsangebot & same (table)***/
+      
+  /*** uk-gesellschaften**/
+   
+ #modulePage19646824  #content .sectionMainPageTable img {
+    width: 100%;}
+   /***end uk-gesellschaften**/
     
 }
