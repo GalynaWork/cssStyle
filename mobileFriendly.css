@@ -142,7 +142,11 @@ width: 34%;
     #content .serviceMainHeader + p + p .full-image-block.ssNonEditable img{width:100%}
    .exampleTable2 .full-image-block img{width: auto;}
  /****end texas-c-corporation & same****/
-    
+   /****head-office-london****/
+     #modulePage3794294 .thumbnail-image-float-left {
+    float: none;
+    margin: 0;
+} 
     
 }
 @media (max-width:767px){
@@ -203,6 +207,7 @@ width: 34%;
   #modulePage3794294 .exampleTable img {
     border: none; 
 }
+
 }
 @media (max-width:400px){
     /****digitaler-nomade*****/
