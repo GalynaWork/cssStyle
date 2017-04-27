@@ -289,6 +289,9 @@ width: 34%;
     #modulePage19605403 table tbody tr:last-child .promoted-service {
     padding-top:0;
 }
+    #modulePage19605403 table tbody tr:last-child .promoted-service:first-child {
+    padding-top:20px;
+}
    /****end leistungen****/
 
 }
