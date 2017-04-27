@@ -1,6 +1,4 @@
-
-@media (max-width:992px){
-    .fw-image{width:100%!important}
+   .fw-image{width:100%!important}
 
 /****digitaler-nomade*****/
 body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 auto;background-position:50% 50%!important}
@@ -24,6 +22,35 @@ body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 au
 }
 
 .horizontalNavigationBar .module a{     margin-left: 0px; }
+ /****end digitaler-nomade*****/
+
+
+
+@media (max-width:992px){
+ /*   .fw-image{width:100%!important}
+
+/****digitaler-nomade*****/
+/*body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 auto;background-position:50% 50%!important}
+#canvasWrapper{max-width:981px;width:100%;padding:0}
+#navigationBottom .horizontalNavigationBar {
+    max-width: 961px;
+    width: 100%;
+}
+#bannerWrapper #banner{    max-width: 100%;
+  width: 100%;}
+#contentWrapper{max-width:881px;width:100%;    margin: 0 auto;
+    margin-top: 15px;}
+#pageHeader{padding:0 50px}
+#navigationBottom .content-navigation{display:block}
+#navigationBottom .horizontalNavigationBar{padding-left:0;padding-right:0}
+#content{width:100%!important}
+.full-image-block img{  width: 100%;}
+#navigationBottom .horizontalNavigationBar .content-navigation{width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.horizontalNavigationBar .module a{     margin-left: 0px; }*/
  /****end digitaler-nomade*****/
 /****head-office-london****/
 #content a img{width:auto}
