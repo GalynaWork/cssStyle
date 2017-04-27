@@ -181,8 +181,8 @@ width: 34%;
     #modulePage19605403 table tbody tr{      width: 100%;
     display: flex;
     justify-content: space-between;}
-   #modulePage19605403 table tbody .promoted-service{    padding-right: 5px;}
-   
+   #modulePage19605403 table tbody .promoted-service{    padding-right:10px;}
+    #modulePage19605403 table tbody .promoted-service img{ width:100%}
    /**end leistungen***/
    
 }
