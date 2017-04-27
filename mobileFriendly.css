@@ -28,9 +28,9 @@ body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 au
 .full-image-block.ssNonEditable img{width:auto}
 /****end texas-c-corporation & same****/
 
-/*******die-kanzlei** news-archiv**aktuelles*kontakt***/
+/*******die-kanzlei** news-archiv**aktuelles*kontakt*rechnung-bezahlen**/
 #modulePage3806752 #pageBodyWrapper,#modulePage5644014 #pageBodyWrapper,#modulePage3780154 #pageBodyWrapper,
-#modulePage3780380 #pageBodyWrapper{
+#modulePage3780380 #pageBodyWrapper,#modulePage3810862 #pageBodyWrapper{
     position: relative;
     overflow: hidden;
     display: flex;
@@ -38,7 +38,7 @@ body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 au
     justify-content: space-around;
 }
 #modulePage3806752 #contentWrapper,#modulePage5644014 #contentWrapper,#modulePage3780154 #contentWrapper,
-#modulePage3780380 #contentWrapper
+#modulePage3780380 #contentWrapper,#modulePage3810862 #contentWrapper
 {    width: 656px;
     margin-right: 10px;
     margin-left: 35px;}
@@ -212,17 +212,18 @@ width: 34%;
    #modulePage19626760 img{width:100%}
    /*****end beratung****/
    
-   /*******die-kanzlei****news-archiv**aktuelles*kontakt*/
-   #modulePage3806752 #pageBody,#modulePage5644014  #pageBody,#modulePage3780154 #pageBody,#modulePage3780380 #pageBody
+   /*******die-kanzlei****news-archiv**aktuelles*kontakt*rechnung-bezahlen*/
+   #modulePage3806752 #pageBody,#modulePage5644014  #pageBody,#modulePage3780154 #pageBody,#modulePage3780380 #pageBody,
+   #modulePage3810862 #pageBody
    {    display: flex;
     flex-direction: column-reverse;width:100%}
    #modulePage3806752 #contentWrapper,#modulePage5644014 #contentWrapper,#modulePage3780154 #contentWrapper,
-   #modulePage3780380 #contentWrapper{
+   #modulePage3780380 #contentWrapper,#modulePage3810862 #contentWrapper{
     width: 100%;
       margin-right: 0;margin-left:0}
 
  #modulePage3806752  #sidebar1Wrapper, #modulePage5644014  #sidebar1Wrapper,#modulePage3780154 #sidebar1Wrapper,
-  #modulePage3780380 #sidebar1Wrapper{
+  #modulePage3780380 #sidebar1Wrapper,#modulePage3810862 #sidebar1Wrapper {
     display: block;
     float: none;
     width: 100%;
