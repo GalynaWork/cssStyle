@@ -28,20 +28,20 @@ body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 au
 .full-image-block.ssNonEditable img{width:auto}
 /****end texas-c-corporation & same****/
 
-/*******die-kanzlei********/
-#modulePage3806752 #pageBodyWrapper{
+/*******die-kanzlei** news-archiv******/
+#modulePage3806752 #pageBodyWrapper,#modulePage5644014 #pageBodyWrapper{
     position: relative;
     overflow: hidden;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
 }
-#modulePage3806752 #contentWrapper{    width: 701px;    margin-right: 10px;}
+#modulePage3806752 #contentWrapper,#modulePage5644014 #contentWrapper{    width: 701px;    margin-right: 10px;}
 #modulePage3806752 p:first-child {
     text-align: center;
 }
 #modulePage3806752 #content img{width:88%!important}
-/*******end die-kanzlei********/
+/*******end die-kanzlei*** news-archiv*****/
 
 @media (max-width:992px){
  /*   .fw-image{width:100%!important}
