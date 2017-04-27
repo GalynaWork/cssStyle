@@ -212,20 +212,20 @@ width: 34%;
    #modulePage19626760 img{width:100%}
    /*****end beratung****/
    
-   /*******die-kanzlei****news-archiv****/
-   #modulePage3806752 #pageBody,#modulePage5644014  #pageBody{    display: flex;
+   /*******die-kanzlei****news-archiv**aktuelles**/
+   #modulePage3806752 #pageBody,#modulePage5644014  #pageBody,#modulePage3780154 #pageBody{    display: flex;
     flex-direction: column-reverse;width:100%}
-   #modulePage3806752 #contentWrapper,#modulePage5644014 #contentWrapper {
+   #modulePage3806752 #contentWrapper,#modulePage5644014 #contentWrapper,#modulePage3780154 #contentWrapper {
     width: 100%;
       margin-right: 0;margin-left:0}
 
- #modulePage3806752  #sidebar1Wrapper, #modulePage5644014  #sidebar1Wrapper {
+ #modulePage3806752  #sidebar1Wrapper, #modulePage5644014  #sidebar1Wrapper,#modulePage3780154 #sidebar1Wrapper{
     display: block;
     float: none;
     width: 100%;
     padding: 0;
 }
-  #modulePage3806752  .section ul li,#modulePage3806752 #moduleContent8204875,#modulePage5644014 #moduleContent8204875,#modulePage3780154 #moduleContent8204875 {
+  #modulePage3806752  .section ul li,#modulePage3806752 #moduleContent8204875,#modulePage5644014 #moduleContent8204875,#modulePage3780154 #moduleContent8204875,#modulePage3780154 #moduleContent8204875 {
     
       text-align: center;}
  #modulePage3806752 p:first-child .full-image-block img {
