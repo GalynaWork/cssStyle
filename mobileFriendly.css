@@ -238,8 +238,12 @@ width: 34%;
 /*******end die-kanzlei********/
    /*******aktuelles********/
  #modulePage3780154 .journal-entry-tag-post-body-line1{display: flex;    font-size: 15px;}
-  #modulePage3780154 .journal-entry-tag-post-body-line2{display: flex;font-size: 14px;} 
-   #modulePage3780154 .journal-entry-tag-post-body-line2 .tagged-with{display: flex;}
+  #modulePage3780154 .journal-entry-tag-post-body-line2{    display: flex;
+    font-size: 14px;
+    flex-direction: column;} 
+   #modulePage3780154 .journal-entry-tag-post-body-line2 .tagged-with{    display: flex;
+    flex-flow: row wrap;
+    flex-direction: row;}
    #modulePage3780154 .journal-entry-tag-post-body-line2 .tagged-with span:first-child{margin-left:10px}
    /*******aktuelles********/
 }
