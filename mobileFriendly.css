@@ -376,5 +376,10 @@ width: 34%;
  #modulePage19646824  #content .sectionMainPageTable img,#modulePage19645981  #content .sectionMainPageTable img {
     width: 100%;}
    /***end uk-gesellschaften**/
+   /****england-insolvenz****/
+   #modulePage19647040 #content .sectionMainPageTable img {
+     width: 100%; 
+}
+    /****end england-insolvenz****/
     
 }
