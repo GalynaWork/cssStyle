@@ -24,7 +24,7 @@ body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 au
 .horizontalNavigationBar .module a{     margin-left: 0px; }
  /****end digitaler-nomade*****/
 /****texas-c-corporation & same****/
- .exampleTable2 .full-image-block img{width: auto;}
+ .exampleTable2 .full-image-block img,.exampleTable .full-image-block img{width: auto;}
 .full-image-block.ssNonEditable img{width:auto}
 /****end texas-c-corporation & same****/
 
@@ -186,15 +186,15 @@ width: 34%;
     font-size: 15px;}
    /****end digitaler-nomade*****/
     
-     /**** texas-c-corporation & same****/
-    .exampleTable2{display: flex;}
-    .exampleTable2 tr{    display: flex;
+     /**** texas-c-corporation & same**head-office-london**/
+    .exampleTable2,.exampleTable{display: flex;}
+    .exampleTable2 tr,.exampleTable tr{    display: flex;
     flex-direction: column;
     width: 100%;}
-    .exampleTable2 tr td{text-align:center;}
-    .exampleTable2 tr td:last-child{border-top:none;padding-top:0}
-    .exampleTable2 tr td:last-child h3{margin-top: -37px;}
-    .exampleTable2 tr td:first-child{padding-bottom:0;    padding-top: 23px;}
+    .exampleTable2 tr td,.exampleTable tr td{text-align:center;}
+    .exampleTable2 tr td:last-child,.exampleTable tr td:last-child{border-top:none;padding-top:0}
+    .exampleTable2 tr td:last-child h3,.exampleTable tr td:last-child h3{margin-top: -37px;}
+    .exampleTable2 tr td:first-child,..exampleTable tr td:first-child{padding-bottom:0;    padding-top: 23px;}
      /****end texas-c-corporation & same****/
 }
 @media (max-width:400px){
