@@ -150,7 +150,13 @@ width: 34%;
   /** uk-leistungsangebot & same (table)***/
    .container { max-width: 870px; margin: 0 auto;  width: 100%;}
    .container .npost-left-sec img{width:100%}
-   
+ .container .npost-right-sec .read-more-btn {
+    
+    padding: 8px 26px 0;
+    position: relative;
+    right: 0;
+    float: right;
+    bottom: 0;}
    
    /**end uk-leistungsangebot & same (table)***/
     
