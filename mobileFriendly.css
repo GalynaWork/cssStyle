@@ -272,6 +272,10 @@ width: 34%;
     #content .sectionMainPageTable img {
     width: 55%;
 }
+   #content .sectionMainPageTable td {
+   
+    margin-right: 0px;
+}
     
      /****end texas-c-corporation & same****/
    /**uk-leistungsangebot & same (table)***/
