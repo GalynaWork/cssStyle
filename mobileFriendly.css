@@ -272,6 +272,12 @@ width: 34%;
    #modulePage19601193 .full-image-block.ssNonEditable{text-align:center}
    #modulePage19601193 .thumbnail-image-float-left.ssNonEditable img{width:99%}
       /****end wohnsitzverlagerung-ausland***/
+    /*** steuergestaltung***/
+   
+    #modulePage19643085 .requestPA + h2 + p .full-image-block.ssNonEditable img{width:100%}
+   /***end steuergestaltung***/
+   
+   
 }
 @media (max-width:767px){
   /****digitaler-nomade*****/
@@ -442,9 +448,9 @@ width: 34%;
 }
    #modulePage3780154 .journal-entry-tag.journal-entry-tag-post-body img{width:auto}
    /*******end aktuelles********/
-   #modulePage19643085 .sectionMainPageTable img{width:100%}
+  
    /*** steuergestaltung***/
    
-   
+    #modulePage19643085 .sectionMainPageTable img{width:100%}
    /***end steuergestaltung***/
 }
