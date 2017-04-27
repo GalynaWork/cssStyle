@@ -151,13 +151,20 @@ width: 34%;
    .container { max-width: 870px; margin: 0 auto;  width: 100%;}
   #content .container .npost-left-sec img{width:100%}
  .container .npost-right-sec .read-more-btn {
-    
-    padding: 8px 26px 0;
+      
     position: relative;
     right: 0;
     float: right;
     bottom: 0;}
-   
+ #content .container .npost-left-sec {
+    float: left;
+    width: auto;
+    margin-right: 22px;
+}
+  #content .container.npost-right-sec {
+    float: none;
+    padding: 10px;
+      width: auto;}
    /**end uk-leistungsangebot & same (table)***/
     
 }
