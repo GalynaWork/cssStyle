@@ -135,7 +135,7 @@ width: 34%;
     iframe{width:100%!important}
     #content .serviceMainHeader + p .full-image-block.ssNonEditable img{width:100%}
     #content .serviceMainHeader + p + p .full-image-block.ssNonEditable img{width:100%}
-   
+   .exampleTable2 .full-image-block img{width: auto;}
  /****end texas-c-corporation & same****/
     
     
