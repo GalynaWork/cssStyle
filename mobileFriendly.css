@@ -231,6 +231,10 @@ width: 34%;
  #modulePage3806752 p:first-child .full-image-block img {
     width: 100%!important;
 }
+   #modulePage3806752 #moduleContent8204875 img {
+    width: auto%!important;
+}
+  
 /*******end die-kanzlei********/
    
 }
