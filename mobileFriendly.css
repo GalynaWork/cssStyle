@@ -279,7 +279,11 @@ width: 34%;
     width: 100%;
 }
    /***end steuergestaltung***/
-   
+   /***us-corporation***/
+   #modulePage19185498 .requestPA + div + h2 + p + p .full-image-block.ssNonEditable img {
+    width: 100%;
+}
+   /***end us-corporation***/
    
 }
 @media (max-width:767px){
