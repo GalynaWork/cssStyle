@@ -207,14 +207,14 @@ width: 34%;
    #modulePage19626760 img{width:100%}
    /*****end beratung****/
    
-   /*******die-kanzlei********/
-   #modulePage3806752 #pageBody{    display: flex;
+   /*******die-kanzlei****news-archiv****/
+   #modulePage3806752 #pageBody,#modulePage5644014  #pageBody{    display: flex;
     flex-direction: column-reverse;}
-   #modulePage3806752 #contentWrapper {
+   #modulePage3806752 #contentWrapper,#modulePage5644014 #contentWrapper {
     width: 100%;
-    margin-right: 0;
+      margin-right: 0;margin-left:0}
 }
- #modulePage3806752  #sidebar1Wrapper {
+ #modulePage3806752  #sidebar1Wrapper, #modulePage5644014  #sidebar1Wrapper {
     display: block;
     float: none;
     width: 100%;
