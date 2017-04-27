@@ -45,7 +45,9 @@ body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 au
 #modulePage3806752 p:first-child {
     text-align: center;
 }
-#modulePage3806752 #content img{width:88%!important}
+##modulePage3806752 p:first-child .full-image-block img {
+    width: 88%!important;
+}
 /*******end die-kanzlei*** news-archiv*****/
 
 @media (max-width:992px){
