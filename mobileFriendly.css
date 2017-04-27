@@ -180,7 +180,18 @@ width: 34%;
     
   #content .thumbnail-image-float-left.ssNonEditable img{    width: 99%;}
     
-  /****end texas-c-corporation & same****/  
+  /****end texas-c-corporation & same****/ 
+      /** uk-leistungsangebot & same (table)***/
+   #content .container .npost-left-sec{display: flex;
+    float: none;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    margin-top: 20px;
+      margin-bottom: 3px;}
+   #content .container .npost-left-sec img{width:auto}
+   #content .container .read-more-btn{position:relative;float:right}
+  /** end uk-leistungsangebot & same (table)***/ 
 }
 @media (max-width:556px){
 /****texas-c-corporation & same****/ 
@@ -194,16 +205,7 @@ width: 34%;
      margin-left: 0px; 
 }
  /****end texas-c-corporation & same****/
-   /** uk-leistungsangebot & same (table)***/
-   #content .container .npost-left-sec{display: flex;
-    float: none;
-    align-items: center;
-    justify-content: center;
-    margin: 0;
-    margin-top: 20px;
-      margin-bottom: 3px;}
-   #content .container .read-more-btn{position:relative;float:right}
-  /** end uk-leistungsangebot & same (table)***/ 
+
 }
 
 
