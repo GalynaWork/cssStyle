@@ -418,7 +418,12 @@ width: 34%;
    
    #modulePage3780154 .journal-entry-tag-post-body-line1 {
     
-    font-size: 14px;
+    font-size: 13px;
+}
+   #modulePage3780154 .journal-entry-tag-post-body-line2 {
+    
+    font-size: 12px;
+   
 }
    #modulePage3780154 .journal-entry-tag.journal-entry-tag-post-body img{width:auto}
    /*******end aktuelles********/
