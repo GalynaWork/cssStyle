@@ -36,7 +36,9 @@ body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 au
     flex-direction: row;
     justify-content: space-around;
 }
-#modulePage3806752 #contentWrapper,#modulePage5644014 #contentWrapper{    width: 701px;    margin-right: 10px;}
+#modulePage3806752 #contentWrapper,#modulePage5644014 #contentWrapper{    width: 656px;
+    margin-right: 10px;
+    margin-left: 35px;}
 #modulePage3806752 p:first-child {
     text-align: center;
 }
