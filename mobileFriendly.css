@@ -147,6 +147,12 @@ width: 34%;
     float: none;
     margin: 0;
 } 
+  /** uk-leistungsangebot & same (table)***/
+   .container { max-width: 870px; margin: 0 auto;  width: 100%;}
+   .container .npost-left-sec img{width:100%}
+   
+   
+   /**end uk-leistungsangebot & same (table)***/
     
 }
 @media (max-width:767px){
