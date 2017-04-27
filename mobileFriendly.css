@@ -118,7 +118,7 @@ body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 au
     .thumbnail-image-float-left.ssNonEditable span:first-child{text-align:center;display:block}
     .thumbnail-image-float-left.ssNonEditable span a{display:block}
     .sectionMainPageTable{width:100%}
-   #content .sectionMainPageTable img{width:95%}
+  /* #content .sectionMainPageTable img{width:95%}*/
    .sectionMainPageTable tbody tr{     display: flex;
        justify-content: space-between;}
     .sectionMainPageTable a{display:block}
@@ -162,11 +162,11 @@ width: 34%;
       width: auto;}
    /**end uk-leistungsangebot & same (table)***/
  /**uk-gesellschaften***/
-   #modulePage19646824 #content .sectionMainPageTable img {
+    #content .sectionMainPageTable img {
     width: 100%;
 }
    
-   #modulePage19646824 #content .sectionMainPageTable td{margin:right:10px}
+    #content .sectionMainPageTable td{margin:right:10px}
    
    
     /**end uk-gesellschaften***/
