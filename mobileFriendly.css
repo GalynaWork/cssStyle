@@ -190,7 +190,17 @@ width: 34%;
     margin-top: 20px;
       margin-bottom: 3px;}
    #content .container .npost-left-sec img{width:auto}
-   #content .container .read-more-btn{position:relative;float:right}
+   #content .container .read-more-btn{    position: relative;
+    
+    margin: 0 auto;
+   
+    width: 178px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    right: 0;
+    bottom: 0;
+    margin-bottom: 20px;}
   /** end uk-leistungsangebot & same (table)***/ 
 }
 @media (max-width:556px){
