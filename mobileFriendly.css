@@ -23,8 +23,9 @@ body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 au
 
 .horizontalNavigationBar .module a{     margin-left: 0px; }
  /****end digitaler-nomade*****/
-
-
+/****texas-c-corporation & same****/
+ .exampleTable2 .full-image-block img{width: auto;}
+/****end texas-c-corporation & same****/
 
 @media (max-width:992px){
  /*   .fw-image{width:100%!important}
