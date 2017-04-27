@@ -160,6 +160,7 @@ width: 34%;
     float: none;
     padding: 10px;text-decoration: none;
       width: auto;}
+   #content .container a{text-decoration:none}
    /**end uk-leistungsangebot & same (table)***/
  /**uk-gesellschaften***/
     #content .sectionMainPageTable img {
