@@ -299,6 +299,15 @@ width: 34%;
    #content .container .npost-sec {
      border:none; border-top: 2px solid #c0c0c0;}
   /** end uk-leistungsangebot & same (table)***/ 
+   /*******aktuelles********/
+   
+   
+   #modulePage3780154 .journal-entry-tag.journal-entry-tag-post-body img{width:auto}
+   /*******end aktuelles********/
+   
+   
+   
+   
 }
 @media (max-width:556px){
 /****texas-c-corporation & same****/ 
@@ -364,7 +373,11 @@ width: 34%;
        padding-top: 25px;
 }
    /****end leistungen****/
-
+ /*******aktuelles********/
+   
+   
+   #modulePage3780154 .journal-entry-tag.journal-entry-tag-post-body img{width:auto}
+   /*******end aktuelles********/
 }
 @media (max-width:400px){
     /****digitaler-nomade*****/
@@ -401,5 +414,10 @@ width: 34%;
      width: 100%; 
 }
     /****end england-insolvenz*brexit***/
+    /*******aktuelles********/
+   
+   
+   #modulePage3780154 .journal-entry-tag.journal-entry-tag-post-body img{width:auto}
+   /*******end aktuelles********/
     
 }
