@@ -198,8 +198,11 @@ width: 34%;
      /****end texas-c-corporation & same****/
   /**head-office-london**/
    #modulePage3794294 .thumbnail-image-float-left.ssNonEditable img{width:auto}
-   .exampleTable tr td:last-child h3{margin-top: -17px;}
+   .exampleTable tr td:last-child h3{margin-top: 0px;}
    #modulePage3794294 .full-image-float-left{float:none}
+  #modulePage3794294 .exampleTable img {
+    border: none; 
+}
 }
 @media (max-width:400px){
     /****digitaler-nomade*****/
