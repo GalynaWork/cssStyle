@@ -1,4 +1,6 @@
-.fw-image{width:100%!important}
+
+@media (max-width:992px){
+    .fw-image{width:100%!important}
 
 /****digitaler-nomade*****/
 body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 auto;background-position:50% 50%!important}
@@ -41,11 +43,6 @@ body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 au
 
 .full-image-block.ssNonEditable img{width:auto}
 /****end us-corporation****/
-
-
-
-
-@media (max-width:992px){
      /****digitaler-nomade*****/
   #navigationBottom .content-navigation{display: flex;
     flex-direction: column;align-items: center;}
