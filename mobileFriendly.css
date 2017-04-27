@@ -212,7 +212,7 @@ width: 34%;
    
    /*******die-kanzlei****news-archiv****/
    #modulePage3806752 #pageBody,#modulePage5644014  #pageBody{    display: flex;
-    flex-direction: column-reverse;}
+    flex-direction: column-reverse;width:100%}
    #modulePage3806752 #contentWrapper,#modulePage5644014 #contentWrapper {
     width: 100%;
       margin-right: 0;margin-left:0}
