@@ -281,7 +281,7 @@ width: 34%;
     align-items: center;
 }
    #modulePage19605403 table tbody .promoted-service {
-    padding-right: 0;
+    padding-right: 0;    padding-top: 25px;
 }
    #modulePage19605403 table tbody .promoted-service img {
     width: auto;
@@ -290,7 +290,7 @@ width: 34%;
     padding-top:0;
 }
     #modulePage19605403 table tbody tr:last-child .promoted-service:first-child {
-    padding-top:20px;
+       padding-top: 25px;
 }
    /****end leistungen****/
 
