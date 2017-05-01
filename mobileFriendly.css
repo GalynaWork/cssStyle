@@ -379,7 +379,14 @@ width: 34%;
     /*******end uk-public-limited-company*uk-limited-by-guarantee*scottish-limited-partnership*limited-co-kg*ruhende-limited
    *llp-mit-niederlassung*llp-ohne-niederlassung*limited-in-der-schweiz*limited-gruendung-schweiz***/
    
+   /**limited-gruendung-schweiz****/
+   #modulePage19445056 .full-image-float-left.ssNonEditable{width: 100%;
+    text-align: center;
+    float: none;
+    display: block;}
+   #modulePage19445056 .thumbnail-caption{width: 100%;}
    
+    /**end limited-gruendung-schweiz****/
 }
 @media (max-width:556px){
 /****texas-c-corporation & same****/ 
