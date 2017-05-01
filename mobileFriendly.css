@@ -379,16 +379,19 @@ width: 34%;
     /*******end uk-public-limited-company*uk-limited-by-guarantee*scottish-limited-partnership*limited-co-kg*ruhende-limited
    *llp-mit-niederlassung*llp-ohne-niederlassung*limited-in-der-schweiz*limited-gruendung-schweiz***/
    
-   /**limited-gruendung-schweiz****/
-   #modulePage19445056 .full-image-float-left.ssNonEditable,#modulePage19445056 .full-image-float-right.ssNonEditable{width: 100%;
+   /**limited-gruendung-schweiz*limited-gruendung-oesterreich***/
+   #modulePage19445056 .full-image-float-left.ssNonEditable,#modulePage19445056 .full-image-float-right.ssNonEditable,
+   #modulePage11739451 .full-image-float-left.ssNonEditable,#modulePage11739451 .full-image-float-right.ssNonEditable
+   {width: 100%;
     text-align: center;
     float: none;margin:0;
     display: block;}
-   #modulePage19445056 .thumbnail-caption{width: 100%!important;text-align:center}
-  #modulePage19445056 .full-image-block {     text-align: center;}
-    #modulePage19445056 .full-image-float-left.ssNonEditable img,#modulePage19445056 .full-image-float-right.ssNonEditable img
+   #modulePage19445056 .thumbnail-caption,#modulePage11739451 .thumbnail-caption{width: 100%!important;text-align:center}
+  #modulePage19445056 .full-image-block,#modulePage11739451 .full-image-block {     text-align: center;}
+    #modulePage19445056 .full-image-float-left.ssNonEditable img,#modulePage19445056 .full-image-float-right.ssNonEditable img,
+    #modulePage11739451 .full-image-float-left.ssNonEditable img,#modulePage11739451 .full-image-float-right.ssNonEditable img
    {width:100%}
-    /**end limited-gruendung-schweiz****/
+    /**end limited-gruendung-schweiz*limited-gruendung-oesterreich***/
 }
 @media (max-width:556px){
 /****texas-c-corporation & same****/ 
