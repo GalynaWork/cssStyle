@@ -386,7 +386,8 @@ width: 34%;
     display: block;}
    #modulePage19445056 .thumbnail-caption{width: 100%!important;text-align:center}
   #modulePage19445056 .full-image-block {     text-align: center;}
-   
+    #modulePage19445056 .full-image-float-left.ssNonEditable img,#modulePage19445056 .full-image-float-right.ssNonEditable img
+   {width:100%}
     /**end limited-gruendung-schweiz****/
 }
 @media (max-width:556px){
