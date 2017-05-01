@@ -307,6 +307,11 @@ width: 34%;
     margin-right: 0;
     margin: 0 auto;
 }
+   .lpRight {
+    height: auto;
+    float: none;
+    width: 100%;
+}
 /******end eu-vat*expansion-in-den-uk***/
    
 }
