@@ -382,7 +382,7 @@ width: 34%;
    /**limited-gruendung-schweiz****/
    #modulePage19445056 .full-image-float-left.ssNonEditable,#modulePage19445056 .full-image-float-right.ssNonEditable{width: 100%;
     text-align: center;
-    float: none;
+    float: none;margin:0;
     display: block;}
    #modulePage19445056 .thumbnail-caption{width: 100%!important;text-align:center}
   #modulePage19445056 .full-image-block {     text-align: center;}
