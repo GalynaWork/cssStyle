@@ -315,6 +315,11 @@ width: 34%;
    .lpRight .full-image-block.ssNonEditable{text-align:center}
 /******end eu-vat*expansion-in-den-uk***/
    
+   /***head-office-london-gallerie*****/
+   #gallery1153523{display: flex;
+    flex-direction: column;}
+   /***end head-office-london-gallerie*****/
+   
 }
 @media (max-width:767px){
   /****digitaler-nomade*****/
