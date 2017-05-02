@@ -493,6 +493,10 @@ width: 34%;
 }
    .thumbnail-image-float-left img, .thumbnail-image-float-right img, .thumbnail-image-float-none img {
       border: none; }
+   #modulePage4264096 .full-image-float-left.ssNonEditable{    margin: 0;
+    width: 100%;
+    text-align: center;}
+   #modulePage4264096 .thumbnail-caption{    width: 100%!important;}
    
 }
 @media (max-width:400px){
