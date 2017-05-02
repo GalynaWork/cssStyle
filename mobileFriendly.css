@@ -323,9 +323,11 @@ width: 34%;
    /**ablauf-ltd-co-kg-gruendung****/
    #modulePage5072253 #content{text-align:center}
    /**end ablauf-ltd-co-kg-gruendung****/
-   /*beratung-international-tax*******/
-   #modulePage19626773 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img{    width: 100%;}
-   /*end beratung-international-tax*******/
+   /*beratung-international-tax*beratung-uk******/
+   #modulePage19626773 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img,
+   #modulePage19626834 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img
+   {    width: 100%;}
+   /*end beratung-international-tax*beratung-uk******/
    
 }
 @media (max-width:767px){
