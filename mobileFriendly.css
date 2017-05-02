@@ -480,7 +480,7 @@ width: 34%;
    #gallery1153523 li{    border-top: 1px solid #cacaca;
     padding-top: 20px;
     margin-bottom: 20px;}
-   #gallery1153523 .thumbnail-container-with-description{width: 100%;
+   #gallery1153523 .thumbnail-container-with-description{width: 100%!important;
     float: none;
     text-align: center;}
    #gallery1153523 a img{width:auto;margin:0px}
