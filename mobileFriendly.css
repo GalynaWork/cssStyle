@@ -320,6 +320,10 @@ width: 34%;
     flex-direction: column;}
    /***end head-office-london-gallerie*****/
    
+   /**ablauf-ltd-co-kg-gruendung****/
+   #modulePage5072253 #content{text-align:center}
+   /**end ablauf-ltd-co-kg-gruendung****/
+   
 }
 @media (max-width:767px){
   /****digitaler-nomade*****/
@@ -500,6 +504,12 @@ width: 34%;
     text-align: center;}
    #modulePage4264096 .thumbnail-caption{    width: 100%!important;}
     /**end 300-millionen-inder***/
+   
+    /**ablauf-ltd-co-kg-gruendung****/
+   #modulePage5072253 .full-image-block.ssNonEditable img{    width: 100%;}
+   /**end ablauf-ltd-co-kg-gruendung****/
+   
+   
 }
 @media (max-width:400px){
     /****digitaler-nomade*****/
