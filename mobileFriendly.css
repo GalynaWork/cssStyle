@@ -488,7 +488,11 @@ width: 34%;
    #gallery1153523 .description h3{ font-size: 20px;}
    
    /***end head-office-london-gallerie*****/
-   
+   .exampleTable img {
+     border: none;/
+}
+   .thumbnail-image-float-left img, .thumbnail-image-float-right img, .thumbnail-image-float-none img {
+      border: none; }
    
 }
 @media (max-width:400px){
