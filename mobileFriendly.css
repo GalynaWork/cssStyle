@@ -396,6 +396,9 @@ width: 34%;
   #modulePage19445056 #content .thumbnail-image-float-left.ssNonEditable img,#modulePage11739451 #content .thumbnail-image-float-left.ssNonEditable img
    {width:auto}
     /**end limited-gruendung-schweiz*limited-gruendung-oesterreich***/
+   /***head-office-london-gallerie*****/
+   #gallery1153523 a img{width:auto;margin-right:20px}
+   /***end head-office-london-gallerie*****/
 }
 @media (max-width:556px){
 /****texas-c-corporation & same****/ 
@@ -409,10 +412,7 @@ width: 34%;
      margin-left: 0px; 
 }
  /****end texas-c-corporation & same****/
-/***head-office-london-gallerie*****/
-   #gallery1153523 a img{width: auto;
-    margin-right: 20px;}
-   /***end head-office-london-gallerie*****/
+
 }
 
 
