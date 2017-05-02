@@ -476,6 +476,19 @@ width: 34%;
    {width:100%}
     /**end limited-gruendung-schweiz*limited-gruendung-oesterreich***/
    
+   /***head-office-london-gallerie*****/
+   #gallery1153523 li{    border-top: 1px solid #cacaca;
+    padding-top: 20px;
+    margin-bottom: 20px;}
+   #gallery1153523 .thumbnail-container-with-description{width: 100%;
+    float: none;
+    text-align: center;}
+   #gallery1153523 a img{width:auto;margin:0px}
+   #gallery1153523 .description{    text-align: center;}
+   #gallery1153523 .description h3{ font-size: 20px;}
+   
+   /***end head-office-london-gallerie*****/
+   
    
 }
 @media (max-width:400px){
