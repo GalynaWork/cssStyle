@@ -361,8 +361,19 @@ width: 34%;
    /**uk-limited-splash-page-at***/
    #modulePage11739575 h1{text-align:center}
    #modulePage11739575 table{display: flex;
-    flex-direction: column;}
- #modulePage11739575 a img {   width: 317px;}
+    flex-direction: column;position: relative;}
+   #modulePage11739575 table tr{display: flex;
+    flex-direction: column;
+    text-align: center;}
+   #modulePage11739575 table tr:first-child td{   height: 435px;}
+   #modulePage11739575 table tr:last-child td{   position: absolute;
+    top: 271px;
+    right: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+        align-items: center;}
+ #modulePage11739575 a img {      width: 357px;}
    /**end uk-limited-splash-page-at***/
    
 }
