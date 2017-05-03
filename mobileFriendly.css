@@ -657,7 +657,11 @@ width: 34%;
     #modulePage19644138 a img{width:100%}
    
    /**end 9-fakten-zum-offshorefirma-tod****/
-   
+   /**kontaktformular*****/
+  fieldset.captcha{ display: flex;
+        padding-left: 5px;
+     padding-right: 5px;}
+   /**end kontaktformular*****/
 }
 @media (max-width:400px){
     /****digitaler-nomade*****/
