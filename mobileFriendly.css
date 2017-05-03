@@ -358,6 +358,14 @@ width: 34%;
     #modulePage11932573 h2 + p + p + p + p + p .full-image-block.ssNonEditable span a img {
      width:auto; }
     /*****end holding****/
+   /**uk-limited-splash-page-at***/
+   #modulePage11739575 h3{text-align:center}
+   #modulePage11739575 table{display: flex;
+    flex-direction: column;}
+  #modulePage11739575 table tr{  display: flex;
+    flex-direction: row;
+     justify-content: space-around;}
+   /**end uk-limited-splash-page-at***/
    
 }
 @media (max-width:767px){
