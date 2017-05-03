@@ -526,6 +526,12 @@ width: 34%;
    /**kontaktformular**/
    .wForm select{width:202px}
     /**end kontaktformular**/
+   /**9-groessten-boersengang-luegen**/
+   #modulePage19226951 .thumbnail-image-float-left.ssNonEditable img {
+    width: auto;}
+   /**end 9-groessten-boersengang-luegen**/
+   
+   
 }
 @media (max-width:558px){
    /**kontaktformular**/
