@@ -377,10 +377,12 @@ width: 34%;
    #modulePage11739575 table tr:last-child td:last-child{   position: absolute;
     top: 740px;
     right: 0;text-align: left;
-    left: 36px;
-    display: flex;
+    left: 0px;
+    display: flex; width: 100%;
     flex-direction: column;
         align-items: center;}
+  #modulePage11739575 strong   {   width: 100%;      text-align: center;}
+   #modulePage11739575 table tr:last-child td:last-child ul{ margin-left: 36px}
  #modulePage11739575 a img {      width: 357px;}
    /**end uk-limited-splash-page-at***/
    
