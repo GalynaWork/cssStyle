@@ -362,20 +362,21 @@ width: 34%;
    #modulePage11739575 h1{text-align:center}
    #modulePage11739575 table{display: flex;
     flex-direction: column;position: relative;}
-   #modulePage11739575 table tr{display: flex;
+   #modulePage11739575 table tr{display: flex;    height: 732px;
     flex-direction: column;
     text-align: center;}
+   #modulePage11739575 table tr:last-child{    height: 233px;}
    #modulePage11739575 table tr:first-child td{   height: 435px;}
    #modulePage11739575 table tr:last-child td:first-child{   position: absolute;
-    top: 271px;
+    top: 271px;    text-align: left;
     right: 0;
     left: 0;
     display: flex;
     flex-direction: column;
         align-items: center;}
    #modulePage11739575 table tr:last-child td:last-child{   position: absolute;
-    top: 871px;
-    right: 0;
+    top: 740px;
+    right: 0;text-align: left;
     left: 0;
     display: flex;
     flex-direction: column;
