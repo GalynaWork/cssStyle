@@ -675,4 +675,15 @@ width: 34%;
  #modulePage11932573 h2 + p + p + p + p + p .full-image-block.ssNonEditable span a img {
      width:100%; }
      /**end holding***/
+   
+   /**uk-limited-splash-page-at***/
+   #modulePage11739575 table tr:last-child td:first-child {   top: 216px;}
+   #modulePage11739575 a img { width: 300px;}
+   #modulePage11739575 table tr:last-child td:last-child {
+    position: absolute;
+    top: 707px;
+      left: 0px;}
+   /**end uk-limited-splash-page-at***/
+   
+   
 }
