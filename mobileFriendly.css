@@ -515,6 +515,10 @@ width: 34%;
    /**boersengang-gxg-london**/
    #modulePage19184644 a img{width:auto}
     /**end boersengang-gxg-london**/
+   
+   /**kontaktformular**/
+   .wForm select{width:200px}
+    /**end kontaktformular**/
 }
 @media (max-width:556px){
 /****texas-c-corporation & same****/ 
