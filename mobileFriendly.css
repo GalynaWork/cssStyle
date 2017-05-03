@@ -384,6 +384,12 @@ width: 34%;
  #modulePage11739575 a img {      width: 357px;}
    /**end uk-limited-splash-page-at***/
    
+   
+   /**malta-strategieberatung**/
+   #modulePage19646163 .serviceMainHeader + p + p + p img{width:100%} 
+   
+    /**end malta-strategieberatung**/
+   
 }
 @media (max-width:767px){
   /****digitaler-nomade*****/
