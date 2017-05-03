@@ -403,7 +403,10 @@ width: 34%;
     #modulePage19644138 a img{width:100%}
    #modulePage19644138 .thumbnail-caption{width:100%!important;text-align:center}
    /**end 9-fakten-zum-offshorefirma-tod****/
-   
+   /**boersengang-gxg-london**/
+   #modulePage19184644 .lpRight {
+    height: auto;}
+  /**end boersengang-gxg-london**/ 
 }
 @media (max-width:767px){
   /****digitaler-nomade*****/
