@@ -498,6 +498,11 @@ width: 34%;
   
  #modulePage11739575 a img {      width: 357px;}
    /**end uk-limited-splash-page-at***/ 
+   /**9-fakten-zum-offshorefirma-tod****/
+   #modulePage19644138 img{width:100%}
+    #modulePage19644138 a img{width:100%}
+   
+   /**end 9-fakten-zum-offshorefirma-tod****/
    
 }
 @media (max-width:556px){
@@ -627,7 +632,11 @@ width: 34%;
    #modulePage11739575 a img {  width: 357px;}
    
     /**end uk-limited-splash-page-at***/
+    /**9-fakten-zum-offshorefirma-tod****/
+   #modulePage19644138 img{width:100%}
+    #modulePage19644138 a img{width:100%}
    
+   /**end 9-fakten-zum-offshorefirma-tod****/
    
 }
 @media (max-width:400px){
@@ -707,6 +716,10 @@ width: 34%;
       left: 0px;}
    #modulePage11739575 table tr:last-child td:last-child ul{ margin-left: 0px}
    /**end uk-limited-splash-page-at***/
+    /**9-fakten-zum-offshorefirma-tod****/
+   #modulePage19644138 img{width:100%}
+    #modulePage19644138 a img{width:100%}
    
+   /**end 9-fakten-zum-offshorefirma-tod****/
    
 }
