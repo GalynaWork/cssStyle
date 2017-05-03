@@ -362,9 +362,7 @@ width: 34%;
    #modulePage11739575 h1{text-align:center}
    #modulePage11739575 table{display: flex;
     flex-direction: column;}
-  #modulePage11739575 table tr{  display: flex;
-    flex-direction: row;
-     justify-content: space-around;}
+  #modulePage11739575 table tr{  }
    /**end uk-limited-splash-page-at***/
    
 }
