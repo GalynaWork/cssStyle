@@ -459,8 +459,11 @@ width: 34%;
      margin-left: 0px; 
 }
  /****end texas-c-corporation & same****/
-   
- 
+   /****** limited-gruendung-betreuung********/
+ #headerDIV {
+    min-height: 566px;}
+   #modulePage5652115 a img{width:auto}
+   /******end limited-gruendung-betreuung********/
 }
 
 
@@ -617,4 +620,8 @@ width: 34%;
    /***head-office-london-gallerie*****/
       #gallery1153523 a img{width:auto;}
     /***end head-office-london-gallerie*****/
+   
+     /****** limited-gruendung-betreuung********/
+    #modulePage5652115 a img{width:auto}
+   /******end limited-gruendung-betreuung********/
 }
