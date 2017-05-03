@@ -346,8 +346,10 @@ width: 34%;
       font-size: 20px;}
   #modulePage5652115 .serviceMainHeader{text-align:center}
    /******end limited-gruendung-betreuung********/
-   
-   
+   /*****holding****/
+   #modulePage11932573 .full-image-block.ssNonEditable img {
+     width: 100%; }
+    /*****end holding****/
    
 }
 @media (max-width:767px){
