@@ -577,7 +577,7 @@ width: 34%;
    /******end limited-gruendung-betreuung********/
    /**holding***/
  #modulePage11932573 h2 + p + p + p + p + p .full-image-block.ssNonEditable span a img {
-     width:100%; }
+     width:80%; }
      /**end holding***/
 }
 @media (max-width:400px){
@@ -643,4 +643,8 @@ width: 34%;
      /****** limited-gruendung-betreuung********/
     #modulePage5652115 a img{width:auto}
    /******end limited-gruendung-betreuung********/
+    /**holding***/
+ #modulePage11932573 h2 + p + p + p + p + p .full-image-block.ssNonEditable span a img {
+     width:100%; }
+     /**end holding***/
 }
