@@ -410,6 +410,9 @@ width: 34%;
    /**9-groessten-boersengang-luegen***/
    #modulePage19226951 .thumbnail-caption{    width: 100%!important;
     text-align: center;}
+   #modulePage19226951 .thumbnail-image-float-right.ssNonEditable{width: 100%;
+    text-align: center;
+    margin: 0;}
    /**end 9-groessten-boersengang-luegen***/
 }
 @media (max-width:767px){
