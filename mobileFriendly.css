@@ -355,6 +355,8 @@ width: 34%;
      width: 100%; }
     #modulePage11932573 h2 + p + p + p + p + p .full-image-block.ssNonEditable img {
      width: 100%; }
+    #modulePage11932573 h2 + p + p + p + p + p .full-image-block.ssNonEditable span img {
+     width:auto; }
     /*****end holding****/
    
 }
