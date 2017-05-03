@@ -355,7 +355,7 @@ width: 34%;
      width: 100%; }
     #modulePage11932573 h2 + p + p + p + p + p .full-image-block.ssNonEditable img {
      width: 100%; }
-    #modulePage11932573 h2 + p + p + p + p + p .full-image-block.ssNonEditable span img {
+    #modulePage11932573 h2 + p + p + p + p + p .full-image-block.ssNonEditable span a img {
      width:auto; }
     /*****end holding****/
    
@@ -575,7 +575,10 @@ width: 34%;
     min-height: 566px;}
    #modulePage5652115 a img{width:auto}
    /******end limited-gruendung-betreuung********/
-
+   /**holding***/
+ #modulePage11932573 h2 + p + p + p + p + p .full-image-block.ssNonEditable span a img {
+     width:100%; }
+     /**end holding***/
 }
 @media (max-width:400px){
     /****digitaler-nomade*****/
