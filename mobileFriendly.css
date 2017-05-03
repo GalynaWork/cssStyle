@@ -462,7 +462,7 @@ width: 34%;
  /****end texas-c-corporation & same****/
    /****** limited-gruendung-betreuung********/
  #headerDIV {
-    min-height: 566px;}
+    min-height: 455px;}
    #modulePage5652115 a img{width:auto}
    /******end limited-gruendung-betreuung********/
 }
@@ -560,7 +560,12 @@ width: 34%;
    /***was-taxibelege-usw***/
    #modulePage19631621 .full-image-block.ssNonEditable img { width: 100%;}
    /***end was-taxibelege-usw***/
-   
+    /****** limited-gruendung-betreuung********/
+ #headerDIV {
+    min-height: 566px;}
+   #modulePage5652115 a img{width:auto}
+   /******end limited-gruendung-betreuung********/
+
 }
 @media (max-width:400px){
     /****digitaler-nomade*****/
