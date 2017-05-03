@@ -407,6 +407,10 @@ width: 34%;
    #modulePage19184644 .lpRight {
     height: auto;}
   /**end boersengang-gxg-london**/ 
+   /**9-groessten-boersengang-luegen***/
+   #modulePage19226951 .thumbnail-caption{    width: 100%!important;
+    text-align: center;}
+   /**end 9-groessten-boersengang-luegen***/
 }
 @media (max-width:767px){
   /****digitaler-nomade*****/
