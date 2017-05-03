@@ -362,7 +362,7 @@ width: 34%;
    #modulePage11739575 h1{text-align:center}
    #modulePage11739575 table{display: flex;
     flex-direction: column;}
-  
+ #modulePage11739575 a img {   width: 317px;}
    /**end uk-limited-splash-page-at***/
    
 }
@@ -461,7 +461,10 @@ width: 34%;
         height: 402px;}
    #modulePage5652115 a img{width:auto}
 /******end limited-gruendung-betreuung********/
-   
+  /**uk-limited-splash-page-at***/
+  
+ #modulePage11739575 a img {   width: 250px;}
+   /**end uk-limited-splash-page-at***/ 
    
 }
 @media (max-width:556px){
