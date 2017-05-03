@@ -366,8 +366,15 @@ width: 34%;
     flex-direction: column;
     text-align: center;}
    #modulePage11739575 table tr:first-child td{   height: 435px;}
-   #modulePage11739575 table tr:last-child td{   position: absolute;
+   #modulePage11739575 table tr:last-child td:first-child{   position: absolute;
     top: 271px;
+    right: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+        align-items: center;}
+   #modulePage11739575 table tr:last-child td:last-child{   position: absolute;
+    top: 871px;
     right: 0;
     left: 0;
     display: flex;
