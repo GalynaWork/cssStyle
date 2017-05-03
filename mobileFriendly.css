@@ -349,7 +349,7 @@ width: 34%;
    /*****holding****/
    #modulePage11932573 h2 + p + p .full-image-block.ssNonEditable img {
      width: 100%; }
-   #modulePage11932573 .thumbnail-caption{    width: 100%;
+   #modulePage11932573 .thumbnail-caption{    width: 100%!important;
     text-align: center;}
   /*  #modulePage11932573 h2 + p + p + p +p + p .full-image-block.ssNonEditable img {
      width: 100%; }*/
