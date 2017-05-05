@@ -477,6 +477,9 @@ width: 34%;
    /**uk-unternehmensbewertung***/
 #modulePage19434643 .onThisPage{    margin-top: 20px;}
 /**end uk-unternehmensbewertung***/
+   /**fachgebiete**/
+   #modulePage19647015 img {  width: 100%;}
+   /**end fachgebiete**/
 }
 @media (max-width:767px){
   /****digitaler-nomade*****/
