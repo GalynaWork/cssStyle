@@ -583,6 +583,12 @@ width: 34%;
    #modulePage19595664 .serviceMainHeader + p + p + p + p + p + p + p .full-image-block.ssNonEditable img{width: 100%;}
     /**end kooperationsanfrage****/
 }
+@media (max-width:600px){
+   /***die-kanzlei**/
+   #modulePage3806752 .full-image-block.ssNonEditable img{width:100%}
+   /**end die-kanzlei***/
+}
+
 @media (max-width:558px){
    /**kontaktformular**/
    .wForm select{margin-top:15px}
