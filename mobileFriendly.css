@@ -445,6 +445,10 @@ width: 34%;
    /*dutch-sandwich-double-irish*****/
 #modulePage19184653 .onThisPage{margin-top: 20px;}
 /*end dutch-sandwich-double-irish*****/
+   
+   /**beratungsgespraech-buchen***/
+   #modulePage10281592 h1 + p + p .full-image-block.ssNonEditable img{width:100%}
+   /**end beratungsgespraech-buchen***/
 }
 @media (max-width:767px){
   /****digitaler-nomade*****/
