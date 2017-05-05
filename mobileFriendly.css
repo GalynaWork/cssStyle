@@ -563,9 +563,11 @@ width: 34%;
    /**end 9-groessten-boersengang-luegen**/
    /***sebastian-sauerborn***/
    #modulePage19596584 .serviceMainHeader + p + p .full-image-block.ssNonEditable img{    width: 100%;}
+      /***end sebastian-sauerborn***/
    
-   /***end sebastian-sauerborn***/
-   
+   /**kooperationsanfrage****/
+   #modulePage19595664 .full-image-block.ssNonEditable img{width: 100%;}
+    /**end kooperationsanfrage****/
 }
 @media (max-width:558px){
    /**kontaktformular**/
