@@ -89,6 +89,13 @@ honorarsaetze*vat-registrierung*gruendungsdokumente*fragen-und-antworten****/
 /**uk-unternehmensbewertung***/
 #modulePage19434643 .onThisPage{    margin-top: 60px;}
 /**end uk-unternehmensbewertung***/
+
+/**wohnsitz-london-firma-in-malta***/
+   #modulePage19434641 .thumbnail-caption{width:100%!important;text-align:center}
+   /**end wohnsitz-london-firma-in-malta***/
+
+
+
 @media (max-width:992px){
  /*   .fw-image{width:100%!important}
 
@@ -480,6 +487,10 @@ width: 34%;
    /**fachgebiete**/
    #modulePage19647015 img {  width: 100%;}
    /**end fachgebiete**/
+   
+   /**wohnsitz-london-firma-in-malta***/
+   #modulePage19434641 h3 + p + p + p .full-image-block.ssNonEditable img{width:100%}
+   /**end wohnsitz-london-firma-in-malta***/
 }
 @media (max-width:767px){
   /****digitaler-nomade*****/
