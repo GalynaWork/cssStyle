@@ -594,6 +594,11 @@ width: 34%;
    /**kooperationsanfrage****/
    #modulePage19595664 .serviceMainHeader + p + p + p + p + p + p + p .full-image-block.ssNonEditable img{width: 100%;}
     /**end kooperationsanfrage****/
+   /**gmbh-sitzverlegung-ins-ausland***/
+
+   #modulePage11540639 .lpRight a img{width:65%}  
+    #modulePage11540639 a img{width:100%}  
+/**end gmbh-sitzverlegung-ins-ausland***/
 }
 @media (max-width:600px){
    /***die-kanzlei**/
