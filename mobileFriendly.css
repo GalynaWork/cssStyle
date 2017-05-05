@@ -460,9 +460,10 @@ width: 34%;
    #modulePage3806752 .adminLinkTableWrapper + p .full-image-block.ssNonEditable img{width: 100%!important;}
    /**end die-kanzlei****/
    
-   /**beratungsgespraech-startup****/
-   #modulePage19640479 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img{width: 100%}
-   /**end beratungsgespraech-startup****/
+   /**beratungsgespraech-startup*digitaler-nomade-beratung***/
+   #modulePage19640479 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img,
+   #modulePage19653842 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img{width: 100%}
+   /**end beratungsgespraech-startup*digitaler-nomade-beratung***/
 }
 @media (max-width:767px){
   /****digitaler-nomade*****/
