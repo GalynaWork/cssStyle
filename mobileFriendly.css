@@ -455,6 +455,10 @@ width: 34%;
    /**beratungsgespraech-buchen***/
    #modulePage10281592 h1 + p + p .full-image-block.ssNonEditable img{width:100%}
    /**end beratungsgespraech-buchen***/
+   
+   /**die-kanzlei*****/
+   #modulePage3806752 .adminLinkTableWrapper + p .full-image-block.ssNonEditable img{width: 100%;}
+   /**end die-kanzlei****/
 }
 @media (max-width:767px){
   /****digitaler-nomade*****/
