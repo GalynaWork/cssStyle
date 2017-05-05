@@ -752,6 +752,11 @@ width: 34%;
    #modulePage19596584 .full-image-block.ssNonEditable img{    width:100%;}
    
    /***end sebastian-sauerborn***/
+    /**gmbh-sitzverlegung-ins-ausland***/
+
+   #modulePage11540639 .lpRight a img{width:80%}  
+   
+/**end gmbh-sitzverlegung-ins-ausland***/
 }
 @media (max-width:400px){
     /****digitaler-nomade*****/
@@ -839,6 +844,11 @@ width: 34%;
    #modulePage19226951 .thumbnail-image-float-left.ssNonEditable img {
       width: 100%; }
     /**end 9-groessten-boersengang-luegen****/
+   /**gmbh-sitzverlegung-ins-ausland***/
+
+   #modulePage11540639 .lpRight a img{width:100%}  
+   
+/**end gmbh-sitzverlegung-ins-ausland***/
 
    
 }
