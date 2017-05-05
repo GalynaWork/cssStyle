@@ -29,11 +29,11 @@ body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 au
 /****end texas-c-corporation & same****/
 
 /*******die-kanzlei** news-archiv**aktuelles*kontakt*rechnung-bezahlen*kanzlei-geschichte*companies-house*mandantenmeinungen*name*
-honorarsaetze***/
+honorarsaetze*vat-registrierung**/
 #modulePage3806752 #pageBodyWrapper,#modulePage5644014 #pageBodyWrapper,#modulePage3780154 #pageBodyWrapper,
 #modulePage3780380 #pageBodyWrapper,#modulePage3810862 #pageBodyWrapper,#modulePage3810605 #pageBodyWrapper,
 #modulePage5653760 #pageBodyWrapper,#modulePage19439151 #pageBodyWrapper,#modulePage3818344 #pageBodyWrapper,
-#modulePage19604768 #pageBodyWrapper{
+#modulePage19604768 #pageBodyWrapper,#modulePage4015597 #pageBodyWrapper{
     position: relative;
     overflow: hidden;
     display: flex;
@@ -43,7 +43,7 @@ honorarsaetze***/
 #modulePage3806752 #contentWrapper,#modulePage5644014 #contentWrapper,#modulePage3780154 #contentWrapper,
 #modulePage3780380 #contentWrapper,#modulePage3810862 #contentWrapper,#modulePage3810605 #contentWrapper,
 #modulePage5653760 #contentWrapper,#modulePage19439151 #contentWrapper,#modulePage3818344 #contentWrapper,
-#modulePage19604768 #contentWrapper
+#modulePage19604768 #contentWrapper,#modulePage4015597 #contentWrapper
 {    width: 656px;
     margin-right: 10px;
     margin-left: 35px;}
@@ -239,23 +239,23 @@ width: 34%;
    /*****end beratung****/
    
    /*******die-kanzlei****news-archiv**aktuelles*kontakt*rechnung-bezahlen*kanzlei-geschichte*companies-house*mandantenmeinungen*name*
-   *honorarsaetze****/
+   *honorarsaetze*vat-registrierung***/
    #modulePage3806752 #pageBody,#modulePage5644014  #pageBody,#modulePage3780154 #pageBody,#modulePage3780380 #pageBody,
    #modulePage3810862 #pageBody,#modulePage3810605 #pageBody,#modulePage5653760 #pageBody,#modulePage19439151 #pageBody,
-   #modulePage3818344 #pageBody,#modulePage19604768 #pageBody
+   #modulePage3818344 #pageBody,#modulePage19604768 #pageBody,#modulePage4015597 #pageBody
    {    display: flex;
     flex-direction: column-reverse;width:100%}
    #modulePage3806752 #contentWrapper,#modulePage5644014 #contentWrapper,#modulePage3780154 #contentWrapper,
    #modulePage3780380 #contentWrapper,#modulePage3810862 #contentWrapper,#modulePage3810605 #contentWrapper,
    #modulePage5653760 #contentWrapper,#modulePage19439151 #contentWrapper,#modulePage3818344 #contentWrapper,
-   #modulePage19604768 #contentWrapper{
+   #modulePage19604768 #contentWrapper,#modulePage4015597 #contentWrapper{
     width: 100%;
       margin-right: 0;margin-left:0}
 
  #modulePage3806752  #sidebar1Wrapper, #modulePage5644014  #sidebar1Wrapper,#modulePage3780154 #sidebar1Wrapper,
   #modulePage3780380 #sidebar1Wrapper,#modulePage3810862 #sidebar1Wrapper,#modulePage3810605 #sidebar1Wrapper,
    #modulePage5653760 #sidebar1Wrapper,#modulePage19439151 #sidebar1Wrapper,#modulePage3818344 #sidebar1Wrapper,
-   #modulePage19604768 #sidebar1Wrapper{
+   #modulePage19604768 #sidebar1Wrapper,#modulePage4015597 #sidebar1Wrapper{
     display: block;
     float: none;
     width: 100%;
@@ -265,7 +265,8 @@ width: 34%;
    #modulePage3780154 #moduleContent8204875,#modulePage3780154 #moduleContent8204875, #modulePage3780380 #moduleContent8204875,
    #modulePage3780380 .section ul li,#modulePage3810862 #moduleContent8204875,#modulePage3810605 #moduleContent8204875,
    #modulePage3810605 .section ul li,#modulePage5653760 .section ul li,#modulePage5653760 #moduleContent8204875,
-   #modulePage19439151 #moduleContent8204875,#modulePage3818344 #moduleContent8204875,#modulePage19604768 #moduleContent8204875{
+   #modulePage19439151 #moduleContent8204875,#modulePage3818344 #moduleContent8204875,#modulePage19604768 #moduleContent8204875,
+   #modulePage4015597 #moduleContent8204875{
     
       text-align: center;}
  #modulePage3806752 p:first-child .full-image-block img {
