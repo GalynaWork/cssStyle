@@ -856,9 +856,9 @@ width: 34%;
    
 /**end gmbh-sitzverlegung-ins-ausland***/
    
-   /***eu-insolvenz***/
-   #modulePage19683927 .sectionMainPageTable img{width: 100%;}
-   /***end eu-insolvenz***/
+   /***eu-insolvenz*fachgebiete**/
+   #modulePage19683927 .sectionMainPageTable img,#modulePage19647015 .sectionMainPageTable img{width: 100%;}
+   /***end eu-insolvenz**fachgebiete*/
 
    
 }
