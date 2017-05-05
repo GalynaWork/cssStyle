@@ -493,7 +493,7 @@ width: 34%;
    /**end wohnsitz-london-firma-in-malta***/
    
    /***vermoegensplanung-nach-inso***/
-   #modulePage19647062 .serviceMainHeader + p + p + p + p .full-image-block.ssNonEditable img{width:100%}
+   #modulePage19647062 .serviceMainHeader + p + div + p + p + p .full-image-block.ssNonEditable img{width:100%}
    /***end vermoegensplanung-nach-inso***/
 }
 @media (max-width:767px){
