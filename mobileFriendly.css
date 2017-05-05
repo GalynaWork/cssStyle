@@ -73,7 +73,7 @@ honorarsaetze***/
 /***end boersengang-gxg-london***/
 
 /***uk-lohnbuchhaltung****/
-#modulePage19185454 .lpRight + h2{ margin-top: 68px;}
+#modulePage19185454 .lpRight + div + h2{ margin-top: 68px;}
 /***end uk-lohnbuchhaltung****/
 
 @media (max-width:992px){
