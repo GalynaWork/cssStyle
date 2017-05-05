@@ -86,6 +86,9 @@ honorarsaetze*vat-registrierung*gruendungsdokumente*fragen-und-antworten****/
 #modulePage11540639 .onThisPage{    margin-top: 110px;}
 /**end gmbh-sitzverlegung-ins-ausland***/
 
+/**uk-unternehmensbewertung***/
+#modulePage19434643 .onThisPage{    margin-top: 60px;}
+/**end uk-unternehmensbewertung***/
 @media (max-width:992px){
  /*   .fw-image{width:100%!important}
 
@@ -471,6 +474,9 @@ width: 34%;
    #modulePage11540639 .lpRight a img{width:auto}  
     #modulePage11540639 a img{width:100%}  
 /**end gmbh-sitzverlegung-ins-ausland***/
+   /**uk-unternehmensbewertung***/
+#modulePage19434643 .onThisPage{    margin-top: 20px;}
+/**end uk-unternehmensbewertung***/
 }
 @media (max-width:767px){
   /****digitaler-nomade*****/
