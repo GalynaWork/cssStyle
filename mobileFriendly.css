@@ -491,6 +491,10 @@ width: 34%;
    /**wohnsitz-london-firma-in-malta***/
    #modulePage19434641 h3 + p + p + p .full-image-block.ssNonEditable img{width:100%}
    /**end wohnsitz-london-firma-in-malta***/
+   
+   /***vermoegensplanung-nach-inso***/
+   #modulePage19647062 .serviceMainHeader + p + p + p + p .full-image-block.ssNonEditable img{width:100%}
+   /***end vermoegensplanung-nach-inso***/
 }
 @media (max-width:767px){
   /****digitaler-nomade*****/
