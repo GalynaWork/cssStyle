@@ -492,9 +492,10 @@ width: 34%;
    #modulePage19434641 h3 + p + p + p .full-image-block.ssNonEditable img{width:100%}
    /**end wohnsitz-london-firma-in-malta***/
    
-   /***vermoegensplanung-nach-inso***/
-   #modulePage19647062 .serviceMainHeader + p + div + p + p + p .full-image-block.ssNonEditable img{width:100%}
-   /***end vermoegensplanung-nach-inso***/
+   /***vermoegensplanung-nach-inso*7-england-insolvenz-fakten**/
+   #modulePage19647062 .serviceMainHeader + p + div + p + p + p .full-image-block.ssNonEditable img,
+   #modulePage3780401 h3 + p + p + p .full-image-block.ssNonEditable img{width:100%}
+   /***end vermoegensplanung-nach-inso*7-england-insolvenz-fakten**/
 }
 @media (max-width:767px){
   /****digitaler-nomade*****/
