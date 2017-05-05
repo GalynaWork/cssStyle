@@ -430,7 +430,9 @@ width: 34%;
    #modulePage19596584 .serviceMainHeader + p + p .full-image-block.ssNonEditable img{    width: auto;}
    
    /***end sebastian-sauerborn***/
-   
+   /***uk-lohnbuchhaltung****/
+#modulePage19185454 .lpRight + div + h2{ margin-top: 30px;}
+/***end uk-lohnbuchhaltung****/
 }
 @media (max-width:767px){
   /****digitaler-nomade*****/
