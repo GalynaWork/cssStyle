@@ -459,6 +459,10 @@ width: 34%;
    /**die-kanzlei*****/
    #modulePage3806752 .adminLinkTableWrapper + p .full-image-block.ssNonEditable img{width: 100%!important;}
    /**end die-kanzlei****/
+   
+   /**beratungsgespraech-startup****/
+   #modulePage19640479 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img{width: 100%}
+   /**end beratungsgespraech-startup****/
 }
 @media (max-width:767px){
   /****digitaler-nomade*****/
