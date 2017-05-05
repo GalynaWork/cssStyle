@@ -619,6 +619,11 @@ width: 34%;
    #modulePage11540639 .lpRight a img{width:65%}  
     #modulePage11540639 a img{width:100%}  
 /**end gmbh-sitzverlegung-ins-ausland***/
+   /**wohnsitz-london-firma-in-malta***/
+   #modulePage19434641 .full-image-float-right {float: none; margin: 0; text-align: center; width: 100%;  display: block;}
+   #modulePage19434641 .full-image-float-right img {width: 100%!important; }
+   /**end wohnsitz-london-firma-in-malta***/
+   
 }
 @media (max-width:600px){
    /***die-kanzlei**/
