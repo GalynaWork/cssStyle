@@ -77,6 +77,12 @@ honorarsaetze*vat-registrierung*gruendungsdokumente*/
 #modulePage19185454 .lpRight + div + h2{ margin-top: 68px;}
 /***end uk-lohnbuchhaltung****/
 
+/*dutch-sandwich-double-irish*****/
+#modulePage19184653 .onThisPage{margin-top: 60px;}
+/*end dutch-sandwich-double-irish*****/
+
+
+
 @media (max-width:992px){
  /*   .fw-image{width:100%!important}
 
@@ -435,6 +441,10 @@ width: 34%;
    /***uk-lohnbuchhaltung****/
 #modulePage19185454 .lpRight + div + h2{ margin-top: 30px;}
 /***end uk-lohnbuchhaltung****/
+   
+   /*dutch-sandwich-double-irish*****/
+#modulePage19184653 .onThisPage{margin-top: 20px;}
+/*end dutch-sandwich-double-irish*****/
 }
 @media (max-width:767px){
   /****digitaler-nomade*****/
