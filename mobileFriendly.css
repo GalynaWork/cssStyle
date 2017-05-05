@@ -82,8 +82,9 @@ honorarsaetze*vat-registrierung*gruendungsdokumente*fragen-und-antworten****/
 /*dutch-sandwich-double-irish*****/
 #modulePage19184653 .onThisPage{margin-top: 60px;}
 /*end dutch-sandwich-double-irish*****/
-
-
+/**gmbh-sitzverlegung-ins-ausland***/
+#modulePage11540639 .onThisPage{    margin-top: 110px;}
+/**end gmbh-sitzverlegung-ins-ausland***/
 
 @media (max-width:992px){
  /*   .fw-image{width:100%!important}
@@ -464,6 +465,10 @@ width: 34%;
    #modulePage19640479 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img,
    #modulePage19653842 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img{width: 100%}
    /**end beratungsgespraech-startup*digitaler-nomade-beratung***/
+   
+   /**gmbh-sitzverlegung-ins-ausland***/
+#modulePage11540639 .onThisPage{    margin-top: 20px;}
+/**end gmbh-sitzverlegung-ins-ausland***/
 }
 @media (max-width:767px){
   /****digitaler-nomade*****/
