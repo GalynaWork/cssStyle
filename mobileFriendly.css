@@ -457,7 +457,7 @@ width: 34%;
    /**end beratungsgespraech-buchen***/
    
    /**die-kanzlei*****/
-   #modulePage3806752 .adminLinkTableWrapper + p .full-image-block.ssNonEditable img{width: 100%;}
+   #modulePage3806752 .adminLinkTableWrapper + p .full-image-block.ssNonEditable img{width: 100%!important;}
    /**end die-kanzlei****/
 }
 @media (max-width:767px){
