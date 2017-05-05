@@ -416,6 +416,12 @@ width: 34%;
     text-align: center;
     margin: 0;}
    /**end 9-groessten-boersengang-luegen***/
+   
+   /***sebastian-sauerborn***/
+   #modulePage19596584 .serviceMainHeader + p + p .full-image-block.ssNonEditable img{    width: auto;}
+   
+   /***end sebastian-sauerborn***/
+   
 }
 @media (max-width:767px){
   /****digitaler-nomade*****/
