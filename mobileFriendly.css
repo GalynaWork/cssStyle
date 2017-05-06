@@ -850,6 +850,9 @@ width: 34%;
     #modulePage11551793 .imgTable tr {    display: flex;flex-direction: column; width: 100%;border-top: 1px solid silver;text-align: center;}
    #modulePage11551793 .imgTable td:last-child {  margin-bottom: 18px;}
    /***end irland-gesellschaft**/
+      /*llc***/
+   #modulePage19646369 img {width:100%}
+    /*end llc***/
 }
 @media (max-width:400px){
     /****digitaler-nomade*****/
