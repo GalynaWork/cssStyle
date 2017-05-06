@@ -678,6 +678,9 @@ width: 34%;
    
    /****jochen-und-seine-uk-insolvenz***/
    #modulePage7152818 .thumbnail-image-float-left.ssNonEditable img { width: auto;}
+   #modulePage7152818 h2 + p + p + p + p + p + p .full-image-block.ssNonEditable img,
+    #modulePage7152818 h2 + p + p + p + p + p + p + p + p .full-image-block.ssNonEditable img
+   {width:100%}
     /****end jochen-und-seine-uk-insolvenz***/
    
 }
