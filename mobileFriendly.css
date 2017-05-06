@@ -526,6 +526,16 @@ width: 34%;
    #modulePage19596091 p + p + p + h3 + p + p .full-image-block.ssNonEditable img{width:100%}
 /**end oecd-crs-informationsaustausch***/
    
+   /**inso-unternehmer-freiberufler***/
+   #modulePage19647060 h2 + p + p + p .full-image-block.ssNonEditable img,
+   #modulePage19647060 h2 + p + p + p + p + p + p + p .full-image-block.ssNonEditable img,
+   #modulePage19647060 h2 + p + p + p + p + p + p + p + p + p + p + p + p + p .full-image-block.ssNonEditable img,
+   #modulePage19647060 h2 + p + p .full-image-block.ssNonEditable img {width:100%}
+   
+   #modulePage19647060 ul + p + p + h2 + p + p .full-image-block.ssNonEditable img{width:auto}
+   
+    /**end inso-unternehmer-freiberufler***/
+   
    
 }
 @media (max-width:767px){
@@ -659,6 +669,10 @@ width: 34%;
    #modulePage19434641 .full-image-float-right {float: none; margin: 0; text-align: center; width: 100%;  display: block;}
    #modulePage19434641 .full-image-float-right img {width: 100%!important; }
    /**end wohnsitz-london-firma-in-malta***/
+   
+   /**inso-unternehmer-freiberufler***/
+        #modulePage19647060 ul + p + p + h2 + p + p .full-image-block.ssNonEditable img{width:65%}
+    /**end inso-unternehmer-freiberufler***/
    
 }
 @media (max-width:600px){
