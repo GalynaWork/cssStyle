@@ -541,6 +541,12 @@ width: 34%;
    /***9-fakten-zur-limited-gruendung***/
    #modulePage19639357 .thumbnail-caption{ width: 100%!important;text-align: center;}
    /***end 9-fakten-zur-limited-gruendung***/
+   
+   /***virtual-office-auckland-old***/
+   #gallery1154199{display: flex; flex-direction: row; flex-flow: row wrap; justify-content: center;}
+   /***virtual-office-auckland-old***/
+   
+   
 }
 
 
