@@ -719,6 +719,7 @@ width: 34%;
    #modulePage11671633 .thumbnail-image-float-right.ssNonEditable{display: flex; flex-direction: column; float: none; justify-content: center; margin: 0;
     align-items: center;}
    #modulePage11671633 .thumbnail-caption{    width: 100%!important; text-align: center;}
+  #modulePage11671633 .thumbnail-image-float-left.ssNonEditable img{ width:auto}
    /**end 7-malta-limited-steuerfallen***/
    
 }
