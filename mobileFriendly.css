@@ -715,6 +715,12 @@ width: 34%;
    #gallery1154199 a img, #gallery1154209 a img,#gallery1154258  a img,#gallery1154199  a img{width: auto;}
     /***end virtual-office-auckland-old*virtual-office-toronto-old**/
    
+   /**7-malta-limited-steuerfallen***/
+   #modulePage11671633 .thumbnail-image-float-right.ssNonEditable{display: flex; flex-direction: column; float: none; justify-content: center; margin: 0;
+    align-items: center;}
+   #modulePage11671633 .thumbnail-caption{    width: 100%!important; text-align: center;}
+   /**end 7-malta-limited-steuerfallen***/
+   
 }
 
 
