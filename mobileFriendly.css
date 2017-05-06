@@ -683,6 +683,10 @@ width: 34%;
    {width:100%}
     /****end jochen-und-seine-uk-insolvenz***/
    
+   /***irland-gesellschaft**/
+   #modulePage11551793 .thumbnail-image-float-left.ssNonEditable img {width: auto;}
+   /***end irland-gesellschaft**/
+   
 }
 @media (max-width:600px){
    /***die-kanzlei**/
@@ -841,6 +845,10 @@ width: 34%;
    #modulePage11540639 .lpRight a img{width:80%}  
    #modulePage11540639 a img{width:100%}  
 /**end gmbh-sitzverlegung-ins-ausland***/
+   /***irland-gesellschaft**/
+   #modulePage11551793 .imgTable {    display: flex;}
+    #modulePage11551793 .imgTable tr {    display: flex;flex-direction: column; width: 100%;border-top: 1px solid silver}
+   /***end irland-gesellschaft**/
 }
 @media (max-width:400px){
     /****digitaler-nomade*****/
@@ -937,6 +945,7 @@ width: 34%;
    /***eu-insolvenz*fachgebiete**/
    #modulePage19683927 .sectionMainPageTable img,#modulePage19647015 .sectionMainPageTable img{width: 100%;}
    /***end eu-insolvenz**fachgebiete*/
+   
 
    
 }
