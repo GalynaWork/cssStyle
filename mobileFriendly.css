@@ -847,7 +847,7 @@ width: 34%;
 /**end gmbh-sitzverlegung-ins-ausland***/
    /***irland-gesellschaft**/
    #modulePage11551793 .imgTable {    display: flex;}
-    #modulePage11551793 .imgTable tr {    display: flex;flex-direction: column; width: 100%;border-top: 1px solid silver}
+    #modulePage11551793 .imgTable tr {    display: flex;flex-direction: column; width: 100%;border-top: 1px solid silver;text-align: center;}
    /***end irland-gesellschaft**/
 }
 @media (max-width:400px){
