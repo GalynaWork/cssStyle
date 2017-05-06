@@ -893,7 +893,9 @@ width: 34%;
 /***9-fakten-zur-limited-gruendung**/
    #modulePage19639357 img{width:100%}
 /**9-fakten-zur-limited-gruendung***/
-
+/***virtual-office-auckland-old***/
+   #gallery1154199 a img{width: auto;}
+    /***end virtual-office-auckland-old***/
 
 }
 
@@ -1003,6 +1005,9 @@ width: 34%;
    /**irland**/
    #modulePage19683959 .sectionMainPageTable img { width: 100%; }
    /**end irland**/
+   /***virtual-office-auckland-old***/
+   #gallery1154199 a img{width: auto;}
+    /***end virtual-office-auckland-old***/
 
    
 }
