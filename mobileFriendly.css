@@ -96,6 +96,21 @@ honorarsaetze*vat-registrierung*gruendungsdokumente*fragen-und-antworten****/
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media (max-width:992px){
  /*   .fw-image{width:100%!important}
 
@@ -502,6 +517,13 @@ width: 34%;
    #modulePage4246729 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img{width:100%}
     #modulePage4246729 h2 + p + p .full-image-block.ssNonEditable img{width:100%}
    /**end uk-steuersystem-steuerrecht****/
+   
+   /**oecd-crs-informationsaustausch***/
+#modulePage19596091 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img,
+ #modulePage19596091 h2 + p + p .full-image-block.ssNonEditable img,
+ #modulePage19596091  .thumbnail-image-float-left.ssNonEditable{width:100%}
+/**end oecd-crs-informationsaustausch***/
+   
    
 }
 @media (max-width:767px){
