@@ -535,7 +535,9 @@ width: 34%;
    #modulePage19647060 ul + p + p + h2 + p + p .full-image-block.ssNonEditable img{width:auto}
    
     /**end inso-unternehmer-freiberufler***/
-   
+   /****jochen-und-seine-uk-insolvenz***/
+   #modulePage7152818 .thumbnail-caption{ width: 100%!important;text-align:center}
+    /****end jochen-und-seine-uk-insolvenz***/
    
 }
 @media (max-width:767px){
@@ -673,6 +675,10 @@ width: 34%;
    /**inso-unternehmer-freiberufler***/
         #modulePage19647060 ul + p + p + h2 + p + p .full-image-block.ssNonEditable img{width:65%}
     /**end inso-unternehmer-freiberufler***/
+   
+   /****jochen-und-seine-uk-insolvenz***/
+   #modulePage7152818 .thumbnail-image-float-left.ssNonEditable img { width: auto;}
+    /****end jochen-und-seine-uk-insolvenz***/
    
 }
 @media (max-width:600px){
