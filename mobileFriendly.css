@@ -224,8 +224,10 @@ width: 34%;
     #content .serviceMainHeader + p .full-image-block.ssNonEditable img{width:100%}
     #content .serviceMainHeader + p + p .full-image-block.ssNonEditable img{width:100%}
    .exampleTable2 .full-image-block img{width: auto;}
-   iframe{width:100%!important;position:relative}
-   iframe #document html{position: fixed; top: 0;    right: 0; bottom: 0;    left: 0;    overflow-y: scroll;-webkit-overflow-scrolling: touch;}
+   iframe{    min-width: 100%;
+    width: 100px;
+    *width: 100%;;position:relative}
+
  /****end texas-c-corporation & same****/
    /****head-office-london****/
      #modulePage3794294 .thumbnail-image-float-left {
