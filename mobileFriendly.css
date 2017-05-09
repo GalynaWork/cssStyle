@@ -921,8 +921,8 @@ width: 34%;
    
    /**leitfaden-firmengruendung-usa***/
    
-   #modulePage12263899 .jurisdictionTable td:nth-child(3){    flex-grow: 3;}
-   #modulePage12263899 .jurisdictionTable td{font-size:70%}
+   #modulePage12263899 .jurisdictionTable td:nth-child(3){    flex-grow: 2.1;}
+   #modulePage12263899 .jurisdictionTable td{font-size:65%}
    /**end leitfaden-firmengruendung-usa***/
 
 }
