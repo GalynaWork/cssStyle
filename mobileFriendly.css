@@ -221,9 +221,7 @@ width: 34%;
          margin-left: 40px;}
    #content .bottomTeasers tbody tr td img{width:100%}
     iframe{width:100%!important;position:relative}
-   iframe html{position: fixed;
-    top: 0;
-    right: 0;
+   iframe html{position: fixed; top: 0;    right: 0;
     bottom: 0;
     left: 0;
     overflow-y: scroll;
