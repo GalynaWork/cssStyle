@@ -935,7 +935,7 @@ width: 34%;
     /**end leitfaden-firmengruendung-usa*us-corporation-besteuerung**/
    
      /**us-corporation-virtual-office****/
-   #modulePage19651007 .thumbnail-container{width: 100%!important;
+   #modulePage19651007 .thumbnail-container,#modulePage19651865 .thumbnail-container{width: 100%!important;
     text-align: center;
     margin-bottom: 10px;
     border-top: 1px solid #cacaca;
