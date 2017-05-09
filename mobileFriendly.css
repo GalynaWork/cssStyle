@@ -552,6 +552,16 @@ width: 34%;
    #gallery1154199,#gallery1154209,#gallery1154258,#gallery1154199{display: flex; flex-direction: row; flex-flow: row wrap; justify-content: center;}
    /***virtual-office-auckland-old*virtual-office-toronto-old*virtual-office-auckland-old*/
   
+   /**leitfaden-firmengruendung-usa***/
+   #modulePage12263899 tbody,#modulePage12263899 table
+   {width: 100%;  display: flex; flex-flow: column nowrap; justify-content: space-between;margin: 0;}
+   #modulePage12263899 .jurisdictionTable tr:nth-child(odd),#modulePage12263899 .jurisdictionTable tr:nth-child(even) 
+   {display: flex; flex-flow: row nowrap;}
+    #modulePage12263899 .jurisdictionTable td {font-size: 90%; display: flex; flex-flow: row nowrap;    flex-grow: 1;
+    flex-basis: 0;
+    padding: 0.5em;
+       word-break: break-word;}
+   /**end leitfaden-firmengruendung-usa***/
  
 }
 
@@ -908,6 +918,11 @@ width: 34%;
  /***virtual-office-auckland-old*virtual-office-toronto-old*virtual-office-durban-old*virtual-office-auckland-old*/
    #gallery1154199 a img, #gallery1154209 a img,#gallery1154258  a img,#gallery1154199  a img{width: auto;}
     /***end virtual-office-auckland-old*virtual-office-toronto-old**/
+   
+   /**leitfaden-firmengruendung-usa***/
+   
+    #modulePage12263899 .jurisdictionTable td {font-size: 70%; }
+   /**end leitfaden-firmengruendung-usa***/
 
 }
 
