@@ -929,7 +929,14 @@ width: 34%;
    .jurisdictionTable td:nth-child(3){    flex-grow: 2.1;}
    .jurisdictionTable td{font-size:65%}
     /**end leitfaden-firmengruendung-usa*us-corporation-besteuerung**/
-    
+   
+     /**us-corporation-virtual-office****/
+   #modulePage19651007 .thumbnail-container{width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+    border-top: 1px solid #cacaca;
+    padding-top: 20px;}
+   /**end us-corporation-virtual-office****/
 
 }
 
