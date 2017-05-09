@@ -956,6 +956,12 @@ width: 34%;
 /***bestehende-us-gesellschaft***/
    #modulePage19652810 img{width: 100%}
 /***end bestehende-us-gesellschaft***/
+   
+   /**us-corporation-banking***/
+   #modulePage19645384 .bankTable, #modulePage19645384 .bankTable tbody{     justify-content: center;}
+   #modulePage19645384 .bankTable tr{   flex-direction:column;  }
+
+ /**end us-corporation-banking***/
 }
 
 
