@@ -571,7 +571,14 @@ width: 34%;
    /**us-corporation-website-service***/
    #modulePage19651865 #gallery1159215-img{width:100%}
    /**end us-corporation-website-service***/
- 
+   /**us-corporation-banking***/
+   #modulePage19645384 .bankTable, #modulePage19645384 .bankTable tbody{    display: flex;}
+   #modulePage19645384 .bankTable tr{    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;}
+   #modulePage19645384 .bankTable td img{    width: 100%;}
+ /**end us-corporation-banking***/
 }
 
 
