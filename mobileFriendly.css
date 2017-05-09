@@ -555,7 +555,7 @@ width: 34%;
    /**leitfaden-firmengruendung-usa*us-corporation-besteuerung**/
    .jurisdictionTable tbody,.jurisdictionTable 
    {width: 100%;  display: flex; flex-flow: column nowrap; justify-content: space-between;margin: 0;}
-    .jurisdictionTable tr:nth-child(odd),#modulePage12263899 .jurisdictionTable tr:nth-child(even) 
+    .jurisdictionTable tr:nth-child(odd), .jurisdictionTable tr:nth-child(even) 
    {display: flex; flex-flow: row nowrap;}
      .jurisdictionTable td {font-size: 90%; display: flex; flex-flow: row nowrap;    flex-grow: 1;
     flex-basis: 0;
