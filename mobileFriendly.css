@@ -579,6 +579,12 @@ width: 34%;
     justify-content: space-between;}
    #modulePage19645384 .bankTable td img{    width: 100%;}
  /**end us-corporation-banking***/
+   
+   /**bahamas-offshore-gesellschaft****/
+   #modulePage11551717 table,#modulePage11551717 table tbody{    width: 100%;    flex-direction: column; display: flex;}
+   #modulePage11551717 tbody tr{text-align: center; display: flex; justify-content: space-around;}
+   #modulePage11551717 tbody img{    width: 100px!important;}
+  /**end bahamas-offshore-gesellschaft****/
 }
 
 
