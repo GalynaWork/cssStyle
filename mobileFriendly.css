@@ -769,7 +769,17 @@ width: 34%;
    /**kontaktformular**/
    .wForm select{margin-top:15px}
     /**end kontaktformular**/
+   
+   /**wohnadresse-irland-bestellen*wohnadresse-england-bestellen*wohnadresse-usa-bestellen*wohnadresse-malta-bestellen*****/
+   #html-tmp-4669635544164 img{width:100%}
+   .wForm form .actions .primaryAction{    width: 100%;}
+   /**end wohnadresse-irland-bestellen***/
 }
+
+
+
+
+
 @media (max-width:556px){
 /****texas-c-corporation & same****/ 
     .bottomTeasers tbody tr {
