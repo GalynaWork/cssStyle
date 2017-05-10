@@ -804,6 +804,17 @@ width: 34%;
     min-height: 455px;}
    #modulePage5652115 a img{width:auto}
    /******end limited-gruendung-betreuung********/
+   
+    /**bahamas-offshore-gesellschaft*isle-of-man-gesellschaft***/
+    #modulePage11551717 tbody tr:first-child td, #modulePage11551727 tbody tr:first-child td { height: 366px;}
+   #modulePage11551717 tbody tr, #modulePage11551727 tbody tr{    flex-direction: column; }
+    #modulePage11551717 tbody tr:last-child, #modulePage11551727 tbody tr:last-child { position: absolute; width: 90%;}
+   #modulePage11551717 tbody img,#modulePage11551727 tbody img  {  width: 200px!important;  border: 1px solid #cacaca;}
+   #modulePage11551717 tbody tr:last-child td:nth-child(1),#modulePage11551727 tbody tr:last-child td:nth-child(1) { top: 70px; position: absolute; width: 100%;}
+   #modulePage11551717 tbody tr:last-child td:nth-child(2),#modulePage11551727 tbody tr:last-child td:nth-child(2) { top: 400px; position: absolute; width: 100%;}
+   #modulePage11551717 tbody tr:last-child td:nth-child(3),#modulePage11551727 tbody tr:last-child td:nth-child(3) { top: 730px; position: absolute; width: 100%;}
+   #modulePage11551717 tbody tr:last-child td:nth-child(4),#modulePage11551727 tbody tr:last-child td:nth-child(4) { top: 1060px; position: absolute; width: 100%;}
+  /**end bahamas-offshore-gesellschaft****/
 }
 
 
