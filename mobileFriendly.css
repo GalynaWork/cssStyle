@@ -585,6 +585,7 @@ width: 34%;
    #modulePage11551717 tbody tr,#modulePage11551727 .table_img_isle tbody tr{text-align: center; display: flex; justify-content: space-around;font-size: 15px;}
    #modulePage11551717 tbody img,#modulePage11551727 .table_img_isle tbody img{    width: 100px!important;}
   /**end bahamas-offshore-gesellschaft****/
+    .imgTable td { vertical-align: top;   padding: 10px;  }
 }
 
 
@@ -834,7 +835,8 @@ width: 34%;
     .exampleTable2 tr td:last-child,.exampleTable tr td:last-child,.imgTable tr td:last-child{border-top:none;padding-top:0}
     .exampleTable2 tr td:last-child h3,.exampleTable tr td:last-child h3,.imgTable tr td:last-child h3{margin-top: -37px;}
     .exampleTable2 tr td:first-child,..exampleTable tr td:first-child,.imgTable tr td:first-child {padding-bottom:0;    padding-top: 23px;}
-     /****end texas-c-corporation & same****/
+     .imgTable td { vertical-align: top;     border-top: 1px solid silver;    padding: 10px;  }
+   /****end texas-c-corporation & same****/
   /**head-office-london**/
    #modulePage3794294 .thumbnail-image-float-left.ssNonEditable img{width:100%}
    #modulePage3794294 td .thumbnail-image-float-left.ssNonEditable img {
