@@ -581,9 +581,9 @@ width: 34%;
  /**end us-corporation-banking***/
    
    /**bahamas-offshore-gesellschaft*isle-of-man-gesellschaft***/
-   #modulePage11551717 table,#modulePage11551717 table tbody,#modulePage11551727 table,#modulePage11551727 table tbody{    width: 100%;    flex-direction: column; display: flex;}
-   #modulePage11551717 tbody tr,#modulePage11551727 tbody tr{text-align: center; display: flex; justify-content: space-around;font-size: 15px;}
-   #modulePage11551717 tbody img,#modulePage11551727 tbody img{    width: 100px!important;}
+   #modulePage11551717 table,#modulePage11551717 table tbody,#modulePage11551727 .table_img_isle,#modulePage11551727 .table_img_isle tbody{    width: 100%;    flex-direction: column; display: flex;}
+   #modulePage11551717 tbody tr,#modulePage11551727 .table_img_isle tbody tr{text-align: center; display: flex; justify-content: space-around;font-size: 15px;}
+   #modulePage11551717 tbody img,#modulePage11551727 .table_img_isle tbody img{    width: 100px!important;}
   /**end bahamas-offshore-gesellschaft****/
 }
 
@@ -806,14 +806,14 @@ width: 34%;
    /******end limited-gruendung-betreuung********/
    
     /**bahamas-offshore-gesellschaft*isle-of-man-gesellschaft***/
-    #modulePage11551717 tbody tr:first-child td, #modulePage11551727 tbody tr:first-child td { height: 350px;}
-   #modulePage11551717 tbody tr, #modulePage11551727 tbody tr{    flex-direction: column; }
-    #modulePage11551717 tbody tr:last-child, #modulePage11551727 tbody tr:last-child { position: absolute; width: 90%;}
-   #modulePage11551717 tbody img,#modulePage11551727 tbody img  {  width: 200px!important;  border: 1px solid #cacaca;}
-   #modulePage11551717 tbody tr:last-child td:nth-child(1),#modulePage11551727 tbody tr:last-child td:nth-child(1) { top: 70px; position: absolute; width: 100%;}
-   #modulePage11551717 tbody tr:last-child td:nth-child(2),#modulePage11551727 tbody tr:last-child td:nth-child(2) { top: 400px; position: absolute; width: 100%;}
-   #modulePage11551717 tbody tr:last-child td:nth-child(3),#modulePage11551727 tbody tr:last-child td:nth-child(3) { top: 744px; position: absolute; width: 100%;}
-   #modulePage11551717 tbody tr:last-child td:nth-child(4),#modulePage11551727 tbody tr:last-child td:nth-child(4) { top: 1094px; position: absolute; width: 100%;}
+    #modulePage11551717 tbody tr:first-child td, #modulePage11551727 .table_img_isle tbody tr:first-child td { height: 350px;}
+   #modulePage11551717 tbody tr, #modulePage11551727 .table_img_isle tbody tr{    flex-direction: column; }
+    #modulePage11551717 tbody tr:last-child, #modulePage11551727 .table_img_isle tbody tr:last-child { position: absolute; width: 90%;}
+   #modulePage11551717 tbody img,#modulePage11551727 .table_img_isle tbody img  {  width: 200px!important;  border: 1px solid #cacaca;}
+   #modulePage11551717 tbody tr:last-child td:nth-child(1),#modulePage11551727 .table_img_isle tbody tr:last-child td:nth-child(1) { top: 70px; position: absolute; width: 100%;}
+   #modulePage11551717 tbody tr:last-child td:nth-child(2),#modulePage11551727 .table_img_isle tbody tr:last-child td:nth-child(2) { top: 400px; position: absolute; width: 100%;}
+   #modulePage11551717 tbody tr:last-child td:nth-child(3),#modulePage11551727 .table_img_isle tbody tr:last-child td:nth-child(3) { top: 744px; position: absolute; width: 100%;}
+   #modulePage11551717 tbody tr:last-child td:nth-child(4),#modulePage11551727 .table_img_isle tbody tr:last-child td:nth-child(4) { top: 1094px; position: absolute; width: 100%;}
   /**end bahamas-offshore-gesellschaft****/
 }
 
