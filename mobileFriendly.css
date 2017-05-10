@@ -777,7 +777,7 @@ width: 34%;
     /**end kontaktformular**/
    
    /**wohnadresse-irland-bestellen*wohnadresse-england-bestellen*wohnadresse-usa-bestellen*wohnadresse-malta-bestellen*****/
-   #html-tmp-4669635544164 img{width:100%}
+   #html-tmp-4669635544164 img,#html-tmp-2331920814245 img{width:100%}
    .wForm form .actions .primaryAction{    width: 100%;    padding: 4px 8px;    font-size: 16px;}
    
    /**end wohnadresse-irland-bestellen***/
