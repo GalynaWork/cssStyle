@@ -773,9 +773,7 @@ width: 34%;
    /**wohnadresse-irland-bestellen*wohnadresse-england-bestellen*wohnadresse-usa-bestellen*wohnadresse-malta-bestellen*****/
    #html-tmp-4669635544164 img{width:100%}
    .wForm form .actions .primaryAction{    width: 100%;    padding: 4px 8px;}
-   .wForm form{    display: flex;align-items: center;
-    flex-direction: column;
-    justify-content: center;}
+   
    /**end wohnadresse-irland-bestellen***/
 }
 
@@ -1090,5 +1088,16 @@ width: 34%;
 /***7-malta-limited-steuerfallen**/
    #modulePage11671633 .thumbnail-image-float-left.ssNonEditable img {     width: 100%; }
     #modulePage11671633 strong .thumbnail-image-float-left.ssNonEditable img {     width: auto; }
+   
    /***7-malta-limited-steuerfallen**/
+   
+   /**wohnadresse-irland-bestellen*wohnadresse-england-bestellen*wohnadresse-usa-bestellen*wohnadresse-malta-bestellen*****/
+      .wForm form{    display: flex;align-items: center;
+    flex-direction: column;
+    justify-content: center;}
+   /**end wohnadresse-irland-bestellen***/
+   
+   
+   
+   
 }
