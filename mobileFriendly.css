@@ -586,6 +586,11 @@ width: 34%;
    #modulePage11551717 tbody img,#modulePage11551727 .table_img_isle tbody img{    width: 100px!important;}
   /**end bahamas-offshore-gesellschaft****/
     .imgTable td { vertical-align: top;   padding: 10px;  }
+   
+   /***us-corporation-compliance*us-corporation-rechtsform**/
+   .llcTable {    display: flex;}
+   .llcTable tbody{  width: 100%; display: block; overflow-x: scroll;   position: relative;}
+    /*** end us-corporation-compliance*us-corporation-rechtsform**/
 }
 
 
