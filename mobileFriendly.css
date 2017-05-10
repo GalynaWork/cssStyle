@@ -580,10 +580,10 @@ width: 34%;
    #modulePage19645384 .bankTable td img{    width: 100%;}
  /**end us-corporation-banking***/
    
-   /**bahamas-offshore-gesellschaft****/
-   #modulePage11551717 table,#modulePage11551717 table tbody{    width: 100%;    flex-direction: column; display: flex;}
-   #modulePage11551717 tbody tr{text-align: center; display: flex; justify-content: space-around;font-size: 15px;}
-   #modulePage11551717 tbody img{    width: 100px!important;}
+   /**bahamas-offshore-gesellschaft*isle-of-man-gesellschaft***/
+   #modulePage11551717 table,#modulePage11551717 table tbody,#modulePage11551727 table,#modulePage11551727 table tbody{    width: 100%;    flex-direction: column; display: flex;}
+   #modulePage11551717 tbody tr,#modulePage11551727 tbody tr{text-align: center; display: flex; justify-content: space-around;font-size: 15px;}
+   #modulePage11551717 tbody img,#modulePage11551727 tbody img{    width: 100px!important;}
   /**end bahamas-offshore-gesellschaft****/
 }
 
