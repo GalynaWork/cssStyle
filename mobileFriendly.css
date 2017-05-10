@@ -826,14 +826,14 @@ width: 34%;
    /****end digitaler-nomade*****/
     
      /**** texas-c-corporation & same**head-office-london**/
-    .exampleTable2,.exampleTable{display: flex;}
-    .exampleTable2 tr,.exampleTable tr{    display: flex;
+    .exampleTable2,.exampleTable,.imgTable{display: flex;}
+    .exampleTable2 tr,.exampleTable tr,.imgTable tr{    display: flex;
     flex-direction: column;
     width: 100%;}
-    .exampleTable2 tr td,.exampleTable tr td{text-align:center;}
-    .exampleTable2 tr td:last-child,.exampleTable tr td:last-child{border-top:none;padding-top:0}
-    .exampleTable2 tr td:last-child h3,.exampleTable tr td:last-child h3{margin-top: -37px;}
-    .exampleTable2 tr td:first-child,..exampleTable tr td:first-child{padding-bottom:0;    padding-top: 23px;}
+    .exampleTable2 tr td,.exampleTable tr td,.imgTable tr td{text-align:center;}
+    .exampleTable2 tr td:last-child,.exampleTable tr td:last-child,.imgTable tr td:last-child{border-top:none;padding-top:0}
+    .exampleTable2 tr td:last-child h3,.exampleTable tr td:last-child h3,.imgTable tr td:last-child h3{margin-top: -37px;}
+    .exampleTable2 tr td:first-child,..exampleTable tr td:first-child,.imgTable tr td:first-child {padding-bottom:0;    padding-top: 23px;}
      /****end texas-c-corporation & same****/
   /**head-office-london**/
    #modulePage3794294 .thumbnail-image-float-left.ssNonEditable img{width:100%}
