@@ -839,6 +839,7 @@ width: 34%;
     
      /**** texas-c-corporation & same**head-office-london**/
     .exampleTable2,.exampleTable,.imgTable{display: flex;}
+   .exampleTable2 tbody,.exampleTable tbody,.imgTable tbody{width:100%}
     .exampleTable2 tr,.exampleTable tr,.imgTable tr{    display: flex;
     flex-direction: column;
     width: 100%;}
