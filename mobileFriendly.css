@@ -590,6 +590,7 @@ width: 34%;
    /***us-corporation-compliance*us-corporation-rechtsform**/
    .llcTable {    display: flex;}
    .llcTable tbody{  width: 100%; display: block; overflow-x: scroll;   position: relative;}
+   .llcTable td p{font-size: 10px!importnat;}
     /*** end us-corporation-compliance*us-corporation-rechtsform**/
 }
 
