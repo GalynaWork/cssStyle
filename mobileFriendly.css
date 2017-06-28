@@ -1014,6 +1014,8 @@ width: 34%;
    #modulePage19645384 .bankTable tr{   flex-direction:column;  }
 
  /**end us-corporation-banking***/
+   form.search input{    
+      width: 98%;}
 }
 
 
