@@ -96,9 +96,9 @@ honorarsaetze*vat-registrierung*gruendungsdokumente*fragen-und-antworten****/
 
 
 /**search****/
-form.search{    text-align: right;
+.search{    text-align: right;
     margin-top: 13px;}
-form.search input{    max-width: 420px;
+.search input{    max-width: 420px;
     width: 100%;
     height: 32px;
     
