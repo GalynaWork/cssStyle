@@ -790,6 +790,8 @@ width: 34%;
 @media (max-width:600px){
     #addsearch-results-mid{    width: 95%!important;
     margin: 0 auto!important;}
+   .addsearch-result-item-container{    margin-top: 10px;}
+   .addsearch-result-item-sub h1 a{    padding-top: 6px!important;}
    /***die-kanzlei**/
    #modulePage3806752 .full-image-block.ssNonEditable img{width:100%}
    /**end die-kanzlei***/
