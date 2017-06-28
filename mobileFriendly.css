@@ -810,6 +810,8 @@ width: 34%;
 
 
 @media (max-width:556px){
+   #addsearch-results-mid{    width: 95%;
+    margin: 0 auto;}
 /****texas-c-corporation & same****/ 
     .bottomTeasers tbody tr {
     
