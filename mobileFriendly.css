@@ -5,9 +5,10 @@
 /***phone number***/
 .phone {
     float: left;
-    height: 74px;
-    line-height: 77px;
-    vertical-align: middle;
+       display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-items: center;
 }
 
 .phone a {
@@ -23,7 +24,7 @@
     line-height: inherit;}
 .phone p a:hover {
     color: #005B7F;
-    text-decoration: underline;}
+        border-bottom: 1px solid #005B7F;}
 
 .phone img {
     width: 25px;
@@ -32,9 +33,9 @@
 .phone p {
     display: inline-block;
     font-weight: bold;
-    font-family: Times New Roman;
+    
     font-size: 16px;
-    color: #000;
+    color: #000;    margin: 0;
 }
 
 /***end phone number***/
