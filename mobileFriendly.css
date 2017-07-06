@@ -5,7 +5,7 @@
     line-height: 77px;
     vertical-align: middle;}
 .phone a{float:left;display:block;    line-height: 94px;
-    margin-right: 8px;    color: #000;}
+    margin-right: 8px;    color: #000;text-decoration:none}
 .phone img{ width: 25px;}
 .phone p{display: inline-block;
     font-weight: bold;
