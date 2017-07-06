@@ -1,5 +1,19 @@
    .fw-image{width:100%!important}
 
+/***phone number***/
+.phone{float:left;    height: 74px;
+    line-height: 77px;
+    vertical-align: middle;}
+.phone a{float:left;display:block;    line-height: 94px;
+    margin-right: 8px;}
+.phone img{ width: 25px;}
+.phone p{display: inline-block;
+    font-weight: bold;
+    font-family: Times New Roman;
+    font-size: 16px;
+    color: #000;}
+/***end phone number***/
+
 /****digitaler-nomade*******/
 body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 auto;background-position:50% 50%!important}
 #canvasWrapper{max-width:981px;width:100%;padding:0}
