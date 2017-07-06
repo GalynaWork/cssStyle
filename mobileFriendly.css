@@ -230,10 +230,12 @@ form.search input {
     border-color: silver;
     border-radius: 8px;
 }
+.phone{display:none}
 
 /***end search***/
 
 @media (max-width: 992px) {
+    .phone{display:block}
     /*   .fw-image{width:100%!important}
 
    /****digitaler-nomade*****/
