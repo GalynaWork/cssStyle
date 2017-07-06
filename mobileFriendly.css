@@ -21,6 +21,9 @@
 .phone p a{    display: inline-block;
     float: none;
     line-height: inherit;}
+.phone p a:hover {
+    color: #005B7F;
+    text-decoration: underline;
 
 .phone img {
     width: 25px;
