@@ -6,9 +6,11 @@
 .phone {
     float: left;
        display: flex;
+     display: -webkit-flex;
     margin-top: 10px;
     margin-bottom: 10px;
     align-items: center;
+    -webkit-align-items: center;
 }
 
 .phone a {
@@ -239,7 +241,7 @@ form.search input {
 /***end search***/
 
 @media (max-width: 992px) {
-    .phone{display:block}
+    .phone{display:flex;display:-webkit-flex;}
     /*   .fw-image{width:100%!important}
 
    /****digitaler-nomade*****/
