@@ -22,8 +22,8 @@
     text-decoration: none
 }
 .phone p a{    display: inline-block;
-    float: none;
-    line-height: inherit;}
+    float: none;margin-right:0;
+    }
 .phone p a:hover {
     color: #005B7F;
         border-bottom: 1px solid #005B7F;padding-bottom:3px}
@@ -2115,7 +2115,7 @@ form.search input {
 
     /**end wohnadresse-irland-bestellen***/
     .phone p {
-        font-size: 14px;
+        font-size: 12px;
     }
 
    
