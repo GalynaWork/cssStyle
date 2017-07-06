@@ -1,1176 +1,2116 @@
-   .fw-image{width:100%!important}
+.fw-image {
+    width: 100% !important
+}
 
 /***phone number***/
-.phone{float:left;    height: 74px;
+.phone {
+    float: left;
+    height: 74px;
     line-height: 77px;
-    vertical-align: middle;}
-.phone a{float:left;display:block;    line-height: 94px;
-    margin-right: 8px;    color: #000;text-decoration:none}
-.phone img{ width: 25px;}
-.phone p{display: inline-block;
+    vertical-align: middle;
+}
+
+.phone a {
+    float: left;
+    display: block;
+    line-height: 94px;
+    margin-right: 8px;
+    color: #000;
+    text-decoration: none
+}
+
+.phone img {
+    width: 25px;
+}
+
+.phone p {
+    display: inline-block;
     font-weight: bold;
-    
+    font-family: Times New Roman;
     font-size: 16px;
-    color: #000;}
+    color: #000;
+}
+
 /***end phone number***/
 
 /****digitaler-nomade*******/
-body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 auto;background-position:50% 50%!important}
-#canvasWrapper{max-width:981px;width:100%;padding:0}
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    margin: 0 auto;
+    background-position: 50% 50% !important
+}
+
+#canvasWrapper {
+    max-width: 981px;
+    width: 100%;
+    padding: 0
+}
+
 #navigationBottom .horizontalNavigationBar {
     max-width: 961px;
     width: 100%;
 }
-#bannerWrapper #banner{    max-width: 100%;
-  width: 100%;}
-#contentWrapper{max-width:881px;width:100%;    margin: 0 auto;
-    margin-top: 15px;}
-#pageHeader{padding:0 50px}
-#navigationBottom .content-navigation{display:block}
-#navigationBottom .horizontalNavigationBar{padding-left:0;padding-right:0}
-#content{width:100%!important}
-.full-image-block img{  width: 100%;}
-#navigationBottom .horizontalNavigationBar .content-navigation{width: 100%;
-    display: flex;
-   display: -webkit-flex;
-    justify-content: space-around;
-   -webkit-justify-content: space-around;
+
+#bannerWrapper #banner {
+    max-width: 100%;
+    width: 100%;
 }
 
-.horizontalNavigationBar .module a{     margin-left: 0px; }
- /****end digitaler-nomade*****/
+#contentWrapper {
+    max-width: 881px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+#pageHeader {
+    padding: 0 50px
+}
+
+#navigationBottom .content-navigation {
+    display: block
+}
+
+#navigationBottom .horizontalNavigationBar {
+    padding-left: 0;
+    padding-right: 0
+}
+
+#content {
+    width: 100% !important
+}
+
+.full-image-block img {
+    width: 100%;
+}
+
+#navigationBottom .horizontalNavigationBar .content-navigation {
+    width: 100%;
+    display: flex;
+    display: -webkit-flex;
+    justify-content: space-around;
+    -webkit-justify-content: space-around;
+}
+
+.horizontalNavigationBar .module a {
+    margin-left: 0px;
+}
+
+/****end digitaler-nomade*****/
 /****texas-c-corporation & same****/
- .exampleTable2 .full-image-block img,.exampleTable .full-image-block img,.imgTable .full-image-block img{width: auto;}
-.full-image-block.ssNonEditable img{width:auto}
+.exampleTable2 .full-image-block img, .exampleTable .full-image-block img, .imgTable .full-image-block img {
+    width: auto;
+}
+
+.full-image-block.ssNonEditable img {
+    width: auto
+}
+
 /****end texas-c-corporation & same****/
 
 /*******die-kanzlei** news-archiv**aktuelles*kontakt*rechnung-bezahlen*kanzlei-geschichte*companies-house*mandantenmeinungen*name*
 honorarsaetze*vat-registrierung*gruendungsdokumente*fragen-und-antworten****/
-#modulePage3806752 #pageBodyWrapper,#modulePage5644014 #pageBodyWrapper,#modulePage3780154 #pageBodyWrapper,
-#modulePage3780380 #pageBodyWrapper,#modulePage3810862 #pageBodyWrapper,#modulePage3810605 #pageBodyWrapper,
-#modulePage5653760 #pageBodyWrapper,#modulePage19439151 #pageBodyWrapper,#modulePage3818344 #pageBodyWrapper,
-#modulePage19604768 #pageBodyWrapper,#modulePage4015597 #pageBodyWrapper,#modulePage5655935 #pageBodyWrapper,
-#modulePage11737671 #pageBodyWrapper{
+#modulePage3806752 #pageBodyWrapper, #modulePage5644014 #pageBodyWrapper, #modulePage3780154 #pageBodyWrapper,
+#modulePage3780380 #pageBodyWrapper, #modulePage3810862 #pageBodyWrapper, #modulePage3810605 #pageBodyWrapper,
+#modulePage5653760 #pageBodyWrapper, #modulePage19439151 #pageBodyWrapper, #modulePage3818344 #pageBodyWrapper,
+#modulePage19604768 #pageBodyWrapper, #modulePage4015597 #pageBodyWrapper, #modulePage5655935 #pageBodyWrapper,
+#modulePage11737671 #pageBodyWrapper {
     position: relative;
     overflow: hidden;
     display: flex;
+    display: -webkit-flex;
     flex-direction: row;
+    -webkit-flex-direction: row;
     justify-content: space-around;
+    -webkit-justify-content: space-around;
 }
-#modulePage3806752 #contentWrapper,#modulePage5644014 #contentWrapper,#modulePage3780154 #contentWrapper,
-#modulePage3780380 #contentWrapper,#modulePage3810862 #contentWrapper,#modulePage3810605 #contentWrapper,
-#modulePage5653760 #contentWrapper,#modulePage19439151 #contentWrapper,#modulePage3818344 #contentWrapper,
-#modulePage19604768 #contentWrapper,#modulePage4015597 #contentWrapper,#modulePage5655935 #contentWrapper,
-#modulePage11737671 #contentWrapper
-{    width: 656px;
+
+#modulePage3806752 #contentWrapper, #modulePage5644014 #contentWrapper, #modulePage3780154 #contentWrapper,
+#modulePage3780380 #contentWrapper, #modulePage3810862 #contentWrapper, #modulePage3810605 #contentWrapper,
+#modulePage5653760 #contentWrapper, #modulePage19439151 #contentWrapper, #modulePage3818344 #contentWrapper,
+#modulePage19604768 #contentWrapper, #modulePage4015597 #contentWrapper, #modulePage5655935 #contentWrapper,
+#modulePage11737671 #contentWrapper {
+    width: 656px;
     margin-right: 10px;
-    margin-left: 35px;}
+    margin-left: 35px;
+}
+
 #modulePage3806752 p:first-child {
     text-align: center;
 }
+
 #modulePage3806752 p:first-child .full-image-block img {
-    width: 88%!important;
+    width: 88% !important;
 }
-#modulePage4015597 #sidebar1,#modulePage11737671 #sidebar1{    margin-top: 20px;}
-#modulePage3810862 .content-passthrough{margin-top:20px}
-#modulePage5655935 #moduleContent5751736{text-align: center;  margin-top: 20px;}
+
+#modulePage4015597 #sidebar1, #modulePage11737671 #sidebar1 {
+    margin-top: 20px;
+}
+
+#modulePage3810862 .content-passthrough {
+    margin-top: 20px
+}
+
+#modulePage5655935 #moduleContent5751736 {
+    text-align: center;
+    margin-top: 20px;
+}
+
 /*******end die-kanzlei*** news-archiv*****/
 
-
 /******eu-vat*expansion-in-den-uk***/
-.lpRight p{    margin-bottom:0;}
+.lpRight p {
+    margin-bottom: 0;
+}
 
 /******end eu-vat*expansion-in-den-uk***/
 
 /*****limited-gruendung-betreuung****/
-.wButton {  margin-top: -64px;}
+.wButton {
+    margin-top: -64px;
+}
+
 /*****end limited-gruendung-betreuung****/
 
 /***boersengang-gxg-london***/
 #modulePage19184644 .lpRight {
-   height: 401px;}
+    height: 401px;
+}
+
 /***end boersengang-gxg-london***/
 
 /***uk-lohnbuchhaltung****/
-#modulePage19185454 .lpRight + div + h2{ margin-top: 68px;}
+#modulePage19185454 .lpRight + div + h2 {
+    margin-top: 68px;
+}
+
 /***end uk-lohnbuchhaltung****/
 
 /*dutch-sandwich-double-irish*****/
-#modulePage19184653 .onThisPage{margin-top: 60px;}
+#modulePage19184653 .onThisPage {
+    margin-top: 60px;
+}
+
 /*end dutch-sandwich-double-irish*****/
 /**gmbh-sitzverlegung-ins-ausland***/
 /*#modulePage11540639 .onThisPage{    margin-top: 110px;}*/
 /**end gmbh-sitzverlegung-ins-ausland***/
 
 /**uk-unternehmensbewertung***/
-#modulePage19434643 .onThisPage{    margin-top: 60px;}
+#modulePage19434643 .onThisPage {
+    margin-top: 60px;
+}
+
 /**end uk-unternehmensbewertung***/
 
 /**wohnsitz-london-firma-in-malta***/
-   #modulePage19434641 .thumbnail-caption{width:100%!important;text-align:center}
-   /**end wohnsitz-london-firma-in-malta***/
+#modulePage19434641 .thumbnail-caption {
+    width: 100% !important;
+    text-align: center
+}
 
+/**end wohnsitz-london-firma-in-malta***/
 
 /**search****/
-form.search{    text-align: right;
-    margin-top: 13px;}
-form.search input{    max-width: 420px;
+form.search {
+    text-align: right;
+    margin-top: 13px;
+}
+
+form.search input {
+    max-width: 420px;
     width: 100%;
     height: 32px;
     outline: none;
     border-color: silver;
-    border-radius: 8px;}
+    border-radius: 8px;
+}
+
 /***end search***/
 
-.phone{display:none}
+@media (max-width: 992px) {
+    /*   .fw-image{width:100%!important}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-@media (max-width:992px){
-   .phone{display:block}
- /*   .fw-image{width:100%!important}
-
-/****digitaler-nomade*****/
-/*body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 auto;background-position:50% 50%!important}
-#canvasWrapper{max-width:981px;width:100%;padding:0}
-#navigationBottom .horizontalNavigationBar {
-    max-width: 961px;
-    width: 100%;
-}
-#bannerWrapper #banner{    max-width: 100%;
-  width: 100%;}
-#contentWrapper{max-width:881px;width:100%;    margin: 0 auto;
-    margin-top: 15px;}
-#pageHeader{padding:0 50px}
-#navigationBottom .content-navigation{display:block}
-#navigationBottom .horizontalNavigationBar{padding-left:0;padding-right:0}
-#content{width:100%!important}
-.full-image-block img{  width: 100%;}
-#navigationBottom .horizontalNavigationBar .content-navigation{width: 100%;
-    display: flex;
-    justify-content: space-around;
-}
-
-.horizontalNavigationBar .module a{     margin-left: 0px; }*/
- /****end digitaler-nomade*****/
-  /****  digitaler-nomade****/
-   #modulePage19644137 .full-image-block.ssNonEditable img{width:100%}
-   
-/****head-office-london****/
-#content a img{width:auto}
-/****end head-office-london****/
-
-
-/****home page****/
-#modulePage8187337 #content a img {
-    width: 100%;
-}
-#modulePage8187337 #content a{display:block}
-
-/****end home page****/
-
-
-/****us-corporation****/
-
-/*.full-image-block.ssNonEditable img{width:auto}*/
-/****end us-corporation****/
-     /****digitaler-nomade*****/
-  #navigationBottom .content-navigation{display: flex;
-    flex-direction: column;align-items: center;}
-  .horizontalNavigationBar .module a{font-size: 18px;margin-left: 0px;}
-  #navigationBottom .horizontalNavigationBar .content-navigation {
-    float: none; 
-}
-  #canvas{    width: 90%;
-    margin: 0 auto;}
-  #pageHeader {
-    padding: 0 ;
-}
-  .clearer{display:none}
-  #pageFooter{    font-size: 15px;}
-  .requestPA{    font-size: 16px;}
-  #content p,#content li {  font-size: 15px;    }
-  .onThisPage{font-size: 15px;}
-     /****end digitaler-nomade*****/
-    
-    /****malta****/
-
-/*#modulePage19645981 #content a img {
-    width: 100%;
-}*/
-.sectionMainPageTable,.sectionMainPageTable tbody, .sectionMainPageTable,.sectionMainPageTable tbody tr{display: block;}
-#modulePage19645981 #content .full-image-block.ssNonEditable a img {
-    width:auto;
-}
-
-
-
-/****end malta****/
-/****texas-c-corporation & same****/
-    .infoDIVleft,.infoDIVright {width:100%;    padding-left: 0;
-    padding-right: 0;
-    margin-right: 0;} 
-    .infoDIVleft ul,.infoDIVright ul{margin-right:20px}
-    .infoDIVleft strong,.infoDIVright strong{padding-left:20px}
-    .infoDIVright{margin-bottom:20px}
-    .thumbnail-image-float-left.ssNonEditable{    width: 100%;}
-    .thumbnail-image-float-left.ssNonEditable span:first-child{text-align:center;display:block}
-    .thumbnail-image-float-left.ssNonEditable span a{display:block}
-    .sectionMainPageTable{width:100%}
-  /* #content .sectionMainPageTable img{width:95%}*/
-   .sectionMainPageTable tbody tr{     display: flex;
-       justify-content: space-between;}
-    .sectionMainPageTable a{display:block}
-    #content span a{display:block}
-    .bottomTeasers{display:flex;}
-    .bottomTeasers tbody{display: flex;
-    width: 100%;
-    flex-direction: column;
-}
-    .bottomTeasers tbody tr{display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
-}
-     .bottomTeasers tbody tr td{
-width: 34%;
-    margin-right: 40px;
-         margin-left: 40px;}
-   #content .bottomTeasers tbody tr td img{width:100%}
-    
-    #content .serviceMainHeader + p .full-image-block.ssNonEditable img{width:100%}
-    #content .serviceMainHeader + p + p .full-image-block.ssNonEditable img{width:100%}
-   .exampleTable2 .full-image-block img{width: auto;}
-   iframe{    min-width: 100%;
-    width: 100px;
-    *width: 100%;;position:relative}
-
- /****end texas-c-corporation & same****/
-   /****head-office-london****/
-     #modulePage3794294 .thumbnail-image-float-left {
-    float: none;
-    margin: 0;
-} 
-  /** uk-leistungsangebot & same (table)***/
-   .container { max-width: 870px; margin: 0 auto;  width: 100%;}
-  #content .container .npost-left-sec img{width:100%}
- 
- #content .container .npost-left-sec {
-    float: left;
-    width: auto;
-    margin-right: 22px;
-}
-  #content .container .npost-right-sec {
-    float: none;
-    padding: 10px;text-decoration: none;
-      width: auto;}
-   #content .container a{text-decoration:none}
-   /**end uk-leistungsangebot & same (table)***/
- /**uk-gesellschaften***/
-    #content .sectionMainPageTable img {
-    width: 100%;
-}
-   #content .npost-right-sec h3{font-size:23px}
-   
-    #content .sectionMainPageTable td{margin-right:10px}
-   
-   #modulePage19646824 img{width:100%}
-    /**end uk-gesellschaften***/
-   /**head-office-london***/
-   #modulePage3794294 .thumbnail-image-float-left.ssNonEditable img{width:100%}
-   /**end head-office-london***/
-   /**leistungen***/
-   #modulePage19605403 table{display: flex;}
-   #modulePage19605403 table tbody{    width: 100%;}
-    #modulePage19605403 table tbody tr{      width: 100%;
-    display: flex;
-    justify-content: space-between;}
-   #modulePage19605403 table tbody .promoted-service{    padding-right:10px;}
-    #modulePage19605403 table tbody .promoted-service img{ width:100%}
-   #modulePage19605403 h2{margin-top:0px}
-   /**end leistungen***/
-   /*****beratung****/
-   
-   #modulePage19626760 img{width:100%}
-   /*****end beratung****/
-   
-   /*******die-kanzlei****news-archiv**aktuelles*kontakt*rechnung-bezahlen*kanzlei-geschichte*companies-house*mandantenmeinungen*name*
-   *honorarsaetze*vat-registrierung*gruendungsdokumente*fragen-und-antworten*/
-   #modulePage3806752 #pageBody,#modulePage5644014  #pageBody,#modulePage3780154 #pageBody,#modulePage3780380 #pageBody,
-   #modulePage3810862 #pageBody,#modulePage3810605 #pageBody,#modulePage5653760 #pageBody,#modulePage19439151 #pageBody,
-   #modulePage3818344 #pageBody,#modulePage19604768 #pageBody,#modulePage4015597 #pageBody,#modulePage5655935 #pageBody,
-   #modulePage11737671 #pageBody
-   {    display: flex;
-    flex-direction: column-reverse;width:100%}
-   #modulePage3806752 #contentWrapper,#modulePage5644014 #contentWrapper,#modulePage3780154 #contentWrapper,
-   #modulePage3780380 #contentWrapper,#modulePage3810862 #contentWrapper,#modulePage3810605 #contentWrapper,
-   #modulePage5653760 #contentWrapper,#modulePage19439151 #contentWrapper,#modulePage3818344 #contentWrapper,
-   #modulePage19604768 #contentWrapper,#modulePage4015597 #contentWrapper,#modulePage5655935 #contentWrapper,
-   #modulePage11737671 #contentWrapper{
-    width: 100%;
-      margin-right: 0;margin-left:0}
-
- #modulePage3806752  #sidebar1Wrapper, #modulePage5644014  #sidebar1Wrapper,#modulePage3780154 #sidebar1Wrapper,
-  #modulePage3780380 #sidebar1Wrapper,#modulePage3810862 #sidebar1Wrapper,#modulePage3810605 #sidebar1Wrapper,
-   #modulePage5653760 #sidebar1Wrapper,#modulePage19439151 #sidebar1Wrapper,#modulePage3818344 #sidebar1Wrapper,
-   #modulePage19604768 #sidebar1Wrapper,#modulePage4015597 #sidebar1Wrapper,#modulePage5655935 #sidebar1Wrapper,
-   #modulePage11737671 #sidebar1Wrapper{
-    display: block;
-    float: none;
-    width: 100%;
-    padding: 0;
-}
-  #modulePage3806752  .section ul li,#modulePage3806752 #moduleContent8204875,#modulePage5644014 #moduleContent8204875,
-   #modulePage3780154 #moduleContent8204875,#modulePage3780154 #moduleContent8204875, #modulePage3780380 #moduleContent8204875,
-   #modulePage3780380 .section ul li,#modulePage3810862 #moduleContent8204875,#modulePage3810605 #moduleContent8204875,
-   #modulePage3810605 .section ul li,#modulePage5653760 .section ul li,#modulePage5653760 #moduleContent8204875,
-   #modulePage19439151 #moduleContent8204875,#modulePage3818344 #moduleContent8204875,#modulePage19604768 #moduleContent8204875,
-   #modulePage4015597 #moduleContent8204875,#modulePage5655935 #moduleContent8204875,#modulePage11737671 #moduleContent8204875,
-   #modulePage11737671 .section ul li,#modulePage11737671 .caption{
-    
-      text-align: center;}
- #modulePage3806752 p:first-child .full-image-block img {
-    width: 100%!important;
-}
-   #modulePage3806752 #moduleContent8204875 img {
-    width: auto!important;
-}
-   #modulePage3810862 .content-passthrough{margin-top:0px}
-   #modulePage3810862 #content{text-align:center}
-  
-/*******end die-kanzlei********/
-   /*******aktuelles********/
- #modulePage3780154 .journal-entry-tag-post-body-line1{display: flex;    font-size: 15px;}
-  #modulePage3780154 .journal-entry-tag-post-body-line2{    display: flex;
-    font-size: 14px;
-    flex-direction: column;} 
-   #modulePage3780154 .journal-entry-tag-post-body-line2 .tagged-with{    display: flex;
-    flex-flow: row wrap;
-    flex-direction: row;}
-   #modulePage3780154 .journal-entry-tag-post-body-line2 .tagged-with span:first-child{margin-left:10px}
-   #modulePage3780154 .posted-in{display: flex;
-    flex-flow: row wrap;
-      flex-direction: row;}
-    #modulePage3780154 .posted-in span:first-child{margin-left:10px}
-   .paginationControlWrapper.journal-navigation{font-size: 22px;}
-   .paginationPageNumber {
-           font-size: 11px;
-    padding-right: 12px;
-    padding-left: 12px;
-    padding-top: 8px;
-      padding-bottom: 8px;}
-   /*******aktuelles********/
-   
-   /****wohnsitzverlagerung-ausland***/
-   #modulePage19601193 .full-image-block.ssNonEditable{text-align:center}
-   #modulePage19601193 .thumbnail-image-float-left.ssNonEditable img{width:99%}
-      /****end wohnsitzverlagerung-ausland***/
-    /*** steuergestaltung***/
-   
-    #modulePage19643085 .requestPA + h2 + p + p .full-image-block.ssNonEditable img{width:100%}
-   #modulePage19643085 .p1 + p a img {
-    width: 100%;
-}
-   /***end steuergestaltung***/
-   /***us-corporation***/
-   #modulePage19185498 .requestPA + div + h2 + p + p .full-image-block.ssNonEditable img {
-    width: 100%;
-}
-   /***end us-corporation***/
-   
-    /***uk-steuerliche-betreuung***/
-   #modulePage19646969 img{ width: 100%;}
-    /***end uk-steuerliche-betreuung***/
-   
-   /******eu-vat*expansion-in-den-uk***/
-
-.lpLeft {
-    float: none;
-    margin-right: 0;
-    margin: 0 auto;margin-bottom: 20px;
-}
-   .lpRight {
-    height: auto;
-    float: none;
-    width: 100%;
-}
-   .lpRight .full-image-block.ssNonEditable{text-align:center}
-/******end eu-vat*expansion-in-den-uk***/
-   
-   /***head-office-london-gallerie*****/
-   #gallery1153523{display: flex;
-    flex-direction: column;}
-   /***end head-office-london-gallerie*****/
-   
-   /**ablauf-ltd-co-kg-gruendung****/
-   #modulePage5072253 #content{text-align:center}
-   /**end ablauf-ltd-co-kg-gruendung****/
-   /*beratung-international-tax*beratung-uk*beratungsgespraech-holding*****/
-   #modulePage19626773 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img,
-   #modulePage19626834 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img,
-   #modulePage19631444 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img
-   {    width: 100%;}
-   /*end beratung-international-tax*beratung-uk*beratungsgespraech-holding*****/
-   
-   /******limited-gruendung-betreuung********/
-   #headerDIV{background-repeat: no-repeat;
-    background-size: cover;max-width: 870px;
-    width: 100%;
-    height: 294px;}
-   .serviceDIV3 {
-    
-      height: 165px;}
-   .h2Service {
-      font-size: 20px;}
-  #modulePage5652115 .serviceMainHeader{text-align:center}
-   /******end limited-gruendung-betreuung********/
-   /*****holding****/
-   #modulePage11932573 h2 + p + p .full-image-block.ssNonEditable img {
-     width: 100%; }
-   #modulePage11932573 .thumbnail-caption{    width: 100%!important;
-    text-align: center;}
-    #modulePage11932573 h2 + p + p + p .full-image-block.ssNonEditable img {
-     width: 100%; }
-    #modulePage11932573 h2 + p + p + p + p + p .full-image-block.ssNonEditable img {
-     width: 100%; }
-    #modulePage11932573 h2 + p + p + p + p + p .full-image-block.ssNonEditable span a img {
-     width:auto; }
-    /*****end holding****/
-   /**uk-limited-splash-page-at***/
-   #modulePage11739575 h1{text-align:center}
-   #modulePage11739575 table{display: flex;
-    flex-direction: column;position: relative;}
-   #modulePage11739575 table tr{display: flex;    height: 732px;
-    flex-direction: column;
-    text-align: center;}
-   #modulePage11739575 table tr:last-child{    height: 233px;}
-   #modulePage11739575 table tr:first-child td{   height: 435px;}
-   #modulePage11739575 table tr:last-child td:first-child{   position: absolute;
-    top: 271px;    text-align: left;
-    right: 0;
-    left: 0;
-    display: flex;
-    flex-direction: column;
-        align-items: center;}
-   #modulePage11739575 table tr:last-child td:last-child{   position: absolute;
-    top: 740px;
-    right: 0;text-align: left;
-    left: 0px;
-    display: flex; width: 100%;
-    flex-direction: column;
-        align-items: center;}
-  #modulePage11739575 strong   {   width: 100%;      text-align: center;}
-   #modulePage11739575 table tr:last-child td:last-child ul{ margin-left: 36px}
- #modulePage11739575 a img {      width: 357px;}
-   /**end uk-limited-splash-page-at***/
-   
-   
-   /**malta-strategieberatung**/
-   #modulePage19646163 .serviceMainHeader + p + p + p img{width:100%} 
-   
-    /**end malta-strategieberatung**/
-   
-   /**9-fakten-zum-offshorefirma-tod****/
-   #modulePage19644138 img{width:100%}
-    #modulePage19644138 a img{width:100%}
-   #modulePage19644138 .thumbnail-caption{width:100%!important;text-align:center}
-   /**end 9-fakten-zum-offshorefirma-tod****/
-   /**boersengang-gxg-london**/
-   #modulePage19184644 .lpRight {
-    height: auto;}
-  /**end boersengang-gxg-london**/ 
-   /**9-groessten-boersengang-luegen***/
-   #modulePage19226951 .thumbnail-caption{    width: 100%!important;
-    text-align: center;}
-   #modulePage19226951 .thumbnail-image-float-right.ssNonEditable{width: 100%;
-    text-align: center;
-    margin: 0;}
-   /**end 9-groessten-boersengang-luegen***/
-   
-   /***sebastian-sauerborn***/
-   #modulePage19596584 .serviceMainHeader + p + p .full-image-block.ssNonEditable img{    width: auto;}
-   
-   /***end sebastian-sauerborn***/
-   /***uk-lohnbuchhaltung****/
-#modulePage19185454 .lpRight + div + h2{ margin-top: 30px;}
-/***end uk-lohnbuchhaltung****/
-   
-   /*dutch-sandwich-double-irish*****/
-#modulePage19184653 .onThisPage{margin-top: 20px;}
-/*end dutch-sandwich-double-irish*****/
-   
-   /**beratungsgespraech-buchen***/
-   #modulePage10281592 h1 + p + p .full-image-block.ssNonEditable img{width:100%}
-   /**end beratungsgespraech-buchen***/
-   
-   /**die-kanzlei*****/
-   #modulePage3806752 .adminLinkTableWrapper + p .full-image-block.ssNonEditable img{width: 100%!important;}
-   /**end die-kanzlei****/
-   
-   /**beratungsgespraech-startup*digitaler-nomade-beratung***/
-   #modulePage19640479 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img,
-   #modulePage19653842 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img{width: 100%}
-   /**end beratungsgespraech-startup*digitaler-nomade-beratung***/
-   
-   /**gmbh-sitzverlegung-ins-ausland***/
-#modulePage11540639 .onThisPage{    margin-top: 20px;}
-   #modulePage11540639 .lpRight a img{width:auto}  
-  /*  #modulePage11540639 a img{width:100%}  */
-/**end gmbh-sitzverlegung-ins-ausland***/
-   /**uk-unternehmensbewertung***/
-#modulePage19434643 .onThisPage{    margin-top: 20px;}
-/**end uk-unternehmensbewertung***/
-   /**fachgebiete**/
-   #modulePage19647015 img {  width: 100%;}
-   /**end fachgebiete**/
-   
-   /**wohnsitz-london-firma-in-malta***/
-   #modulePage19434641 h3 + p + p + p .full-image-block.ssNonEditable img{width:100%}
-   /**end wohnsitz-london-firma-in-malta***/
-   
-   /***vermoegensplanung-nach-inso*7-england-insolvenz-fakten**/
-   #modulePage19647062 .serviceMainHeader + p + div + p + p + p .full-image-block.ssNonEditable img,
-   #modulePage3780401 h3 + p + p + p .full-image-block.ssNonEditable img{width:100%}
-   #modulePage3780401 .thumbnail-caption{    text-align: center;   width: 100%!important;}
-   /***end vermoegensplanung-nach-inso*7-england-insolvenz-fakten**/
-   
-   /**uk-steuersystem-steuerrecht****/
-   #modulePage4246729 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img{width:100%}
-    #modulePage4246729 h2 + p + p .full-image-block.ssNonEditable img{width:100%}
-   /**end uk-steuersystem-steuerrecht****/
-   
-   /**oecd-crs-informationsaustausch***/
-#modulePage19596091 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img,
- #modulePage19596091 h2 + p + p .full-image-block.ssNonEditable img,
- #modulePage19596091  .thumbnail-image-float-left.ssNonEditable img,
-   #modulePage19596091 h2 + p + p + p .full-image-block.ssNonEditable img,
-   #modulePage19596091 p + p + p + h3 + p + p .full-image-block.ssNonEditable img{width:100%}
-/**end oecd-crs-informationsaustausch***/
-   
-   /**inso-unternehmer-freiberufler***/
-   #modulePage19647060 h2 + p + p + p .full-image-block.ssNonEditable img,
-   #modulePage19647060 h2 + p + p + p + p + p + p + p .full-image-block.ssNonEditable img,
-   #modulePage19647060 h2 + p + p + p + p + p + p + p + p + p + p + p + p + p .full-image-block.ssNonEditable img,
-   #modulePage19647060 h2 + p + p .full-image-block.ssNonEditable img {width:100%}
-   
-   #modulePage19647060 ul + p + p + h2 + p + p .full-image-block.ssNonEditable img{width:auto}
-   
-    /**end inso-unternehmer-freiberufler***/
-   /****jochen-und-seine-uk-insolvenz***/
-   #modulePage7152818 .thumbnail-caption{ width: 100%!important;text-align:center}
-    /****end jochen-und-seine-uk-insolvenz***/
-   /***9-fakten-zur-limited-gruendung***/
-   #modulePage19639357 .thumbnail-caption{ width: 100%!important;text-align: center;}
-   #modulePage19639357 .thumbnail-image-float-left img{border:none}
-   
-   /***end 9-fakten-zur-limited-gruendung***/
-   
-   /***virtual-office-auckland-old*virtual-office-toronto-old*virtual-office-durban-old*virtual-office-auckland-old*/
-   #gallery1154199,#gallery1154209,#gallery1154258,#gallery1154199{display: flex; flex-direction: row; flex-flow: row wrap; justify-content: center;}
-   /***virtual-office-auckland-old*virtual-office-toronto-old*virtual-office-auckland-old*/
-  
-   /**leitfaden-firmengruendung-usa*us-corporation-besteuerung**/
-   .jurisdictionTable tbody,.jurisdictionTable 
-   {width: 100%;  display: flex; flex-flow: column nowrap; justify-content: space-between;margin: 0;}
-    .jurisdictionTable tr:nth-child(odd), .jurisdictionTable tr:nth-child(even) 
-   {display: flex; flex-flow: row nowrap;}
-     .jurisdictionTable td {font-size: 90%; display: flex; flex-flow: row nowrap;    flex-grow: 1;
-    flex-basis: 0;
-    padding: 0.5em;
-       word-break: break-word;}
-   #modulePage19645380 .jurisdictionTable tbody{margin-bottom:15px}
-   /**end leitfaden-firmengruendung-usa*us-corporation-besteuerung**/
-   
-   /**us-corporation-virtual-office****/
-   #modulePage19651007 .picture-gallery-list img{width:100%}
-   /**end us-corporation-virtual-office****/
-   
-   /**us-corporation-website-service***/
-   #modulePage19651865 #gallery1159215-img{width:100%}
-   /**end us-corporation-website-service***/
-   /**us-corporation-banking***/
-   #modulePage19645384 .bankTable, #modulePage19645384 .bankTable tbody{    display: flex;}
-   #modulePage19645384 .bankTable tr{    display: flex;
-    width: 100%;
-    flex-direction: row;
-    justify-content: space-between;}
-   #modulePage19645384 .bankTable td img{    width: 100%;}
- /**end us-corporation-banking***/
-   
-   /**bahamas-offshore-gesellschaft*isle-of-man-gesellschaft***/
-   #modulePage11551717 table,#modulePage11551717 table tbody,#modulePage11551727 .table_img_isle,#modulePage11551727 .table_img_isle tbody{    width: 100%;    flex-direction: column; display: flex;}
-   #modulePage11551717 tbody tr,#modulePage11551727 .table_img_isle tbody tr{text-align: center; display: flex; justify-content: space-around;font-size: 15px;}
-   #modulePage11551717 tbody img,#modulePage11551727 .table_img_isle tbody img{    width: 100px!important;}
-  /**end bahamas-offshore-gesellschaft****/
-    .imgTable td { vertical-align: top;   padding: 10px;  }
-   
-   /***us-corporation-compliance*us-corporation-rechtsform**/
-   .llcTable {    display: flex;}
-   .llcTable tbody{  width: 98%; display: block; overflow-x: scroll;   position: relative;}
-   .llcTable td p{font-size: 10px!important;}
-    /*** end us-corporation-compliance*us-corporation-rechtsform**/
-   
-   form.search input{max-width:100%}
-}
-
-
-
-
-
-
-
-
-
-
-
-@media (max-width:767px){
-  /****digitaler-nomade*****/
-  #pageFooter div{font-size:16px;text-align:center}
-  #content a img{width:65%}
-     /****end digitaler-nomade*****/
-    
-    /****home page****/
-   #modulePage8187337 #content table,#modulePage8187337 #content tbody{display:block}
-    #modulePage8187337 #content table tr:last-child,#modulePage8187337 #content table tr:nth-child(3){display:flex}
-    
-/****end home page****/ 
-    
- /****texas-c-corporation & same****/ 
-    
-    
-  #content .thumbnail-image-float-left.ssNonEditable img{    width: 99%;}
-    
-  /****end texas-c-corporation & same****/ 
-      /** uk-leistungsangebot & same (table)***/
-   #content .container .npost-left-sec{display: flex;
-    float: none;
-    align-items: center;
-    justify-content: center;
-    margin: 0;
-    margin-top: 20px;
-      margin-bottom: 3px;}
-   #content .container .npost-left-sec img{width:auto}
-   #content .container .read-more-btn{    position: relative;
-    
-    margin: 0 auto;
-   
-    width: 178px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    right: 0;
-    bottom: 0;
-    margin-bottom: 20px;}
-   #content .container .npost-sec {
+   /****digitaler-nomade*****/
+    /*body {background-repeat: no-repeat;background-size: cover;width:100%;margin:0 auto;background-position:50% 50%!important}
+    #canvasWrapper{max-width:981px;width:100%;padding:0}
+    #navigationBottom .horizontalNavigationBar {
+        max-width: 961px;
+        width: 100%;
     }
-  /** end uk-leistungsangebot & same (table)***/ 
-   /*******aktuelles********/
-   
-   
-   #modulePage3780154 .journal-entry-tag.journal-entry-tag-post-body img{width:auto}
-   /*******end aktuelles********/
-   
-   /*******uk-public-limited-company*uk-limited-by-guarantee*scottish-limited-partnership*limited-co-kg*
-   ruhende-limited*llp-mit-niederlassung*llp-ohne-niederlassung*limited-in-der-schweiz*limited-gruendung-schweiz*limited-in-deutschland
-   *limited-in-oesterreich*****/
-   #modulePage19647402 #content .thumbnail-image-float-left.ssNonEditable img,
-   #modulePage19647400 #content .thumbnail-image-float-left.ssNonEditable img,
-   #modulePage19608877 #content .thumbnail-image-float-left.ssNonEditable img,
-   #modulePage5072120 #content .thumbnail-image-float-left.ssNonEditable img,
-   #modulePage5652913 #content .thumbnail-image-float-left.ssNonEditable img,
-   #modulePage12282152 #content .thumbnail-image-float-left.ssNonEditable img,
-   #modulePage12282163 #content .thumbnail-image-float-left.ssNonEditable img,
-   #modulePage19192494 #content .thumbnail-image-float-left.ssNonEditable img,
-   #modulePage19445056 #content .thumbnail-image-float-left.ssNonEditable img,
-   #modulePage7558943 #content .thumbnail-image-float-left.ssNonEditable img,
-   #modulePage11739393 #content .thumbnail-image-float-left.ssNonEditable img
-   {    width: auto;}
-   #modulePage19647402 .full-image-float-left.ssNonEditable{width:100%}
+    #bannerWrapper #banner{    max-width: 100%;
+      width: 100%;}
+    #contentWrapper{max-width:881px;width:100%;    margin: 0 auto;
+        margin-top: 15px;}
+    #pageHeader{padding:0 50px}
+    #navigationBottom .content-navigation{display:block}
+    #navigationBottom .horizontalNavigationBar{padding-left:0;padding-right:0}
+    #content{width:100%!important}
+    .full-image-block img{  width: 100%;}
+    #navigationBottom .horizontalNavigationBar .content-navigation{width: 100%;
+        display: flex;
+        display:  -webkit-flex;
+        justify-content: space-around;
+         -webkit-justify-content: space-around;
+    }
+
+    .horizontalNavigationBar .module a{     margin-left: 0px; }*/
+    /****end digitaler-nomade*****/
+    /****  digitaler-nomade****/
+    #modulePage19644137 .full-image-block.ssNonEditable img {
+        width: 100%
+    }
+
+    /****head-office-london****/
+    #content a img {
+        width: auto
+    }
+
+    /****end head-office-london****/
+    /****home page****/
+    #modulePage8187337 #content a img {
+        width: 100%;
+    }
+
+    #modulePage8187337 #content a {
+        display: block
+    }
+
+    /****end home page****/
+    /****us-corporation****/
+    /*.full-image-block.ssNonEditable img{width:auto}*/
+    /****end us-corporation****/
+    /****digitaler-nomade*****/
+    #navigationBottom .content-navigation {
+        display: flex;
+        display: -webkit-flex;
+        flex-direction: column;
+        -webkit-flex-direction: column;
+        align-items: center;
+        -webkit-align-items: center;
+    }
+
+    .horizontalNavigationBar .module a {
+        font-size: 18px;
+        margin-left: 0px;
+    }
+
+    #navigationBottom .horizontalNavigationBar .content-navigation {
+        float: none;
+    }
+
+    #canvas {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    #pageHeader {
+        padding: 0;
+    }
+
+    .clearer {
+        display: none
+    }
+
+    #pageFooter {
+        font-size: 15px;
+    }
+
+    .requestPA {
+        font-size: 16px;
+    }
+
+    #content p, #content li {
+        font-size: 15px;
+    }
+
+    .onThisPage {
+        font-size: 15px;
+    }
+
+    /****end digitaler-nomade*****/
+    /****malta****/
+    /*#modulePage19645981 #content a img {
+        width: 100%;
+    }*/
+    .sectionMainPageTable, .sectionMainPageTable tbody, .sectionMainPageTable, .sectionMainPageTable tbody tr {
+        display: block;
+    }
+
+    #modulePage19645981 #content .full-image-block.ssNonEditable a img {
+        width: auto;
+    }
+
+    /****end malta****/
+    /****texas-c-corporation & same****/
+    .infoDIVleft, .infoDIVright {
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+        margin-right: 0;
+    }
+
+    .infoDIVleft ul, .infoDIVright ul {
+        margin-right: 20px
+    }
+
+    .infoDIVleft strong, .infoDIVright strong {
+        padding-left: 20px
+    }
+
+    .infoDIVright {
+        margin-bottom: 20px
+    }
+
+    .thumbnail-image-float-left.ssNonEditable {
+        width: 100%;
+    }
+
+    .thumbnail-image-float-left.ssNonEditable span:first-child {
+        text-align: center;
+        display: block
+    }
+
+    .thumbnail-image-float-left.ssNonEditable span a {
+        display: block
+    }
+
+    .sectionMainPageTable {
+        width: 100%
+    }
+
+    /* #content .sectionMainPageTable img{width:95%}*/
+    .sectionMainPageTable tbody tr {
+        display: flex;
+       display:  -webkit-flex;
+        justify-content: space-between;
+        -webkit-justify-content: space-between;
+    }
+
+    .sectionMainPageTable a {
+        display: block
+    }
+
+    #content span a {
+        display: block
+    }
+
+    .bottomTeasers {
+        display: flex;
+        display: -webkit-flex;
+    }
+
+    .bottomTeasers tbody {
+        display: flex;
+        display:  -webkit-flex;
+        width: 100%;
+        flex-direction: column;
+        -webkit-flex-direction: column;
+    }
+
+    .bottomTeasers tbody tr {
+        display: flex;
+        display:  -webkit-flex;
+        flex-flow: row wrap;
+        -webkit-flex-flow: row wrap;
+        justify-content: center;
+        -webkit-justify-content: center;
+    }
+
+    .bottomTeasers tbody tr td {
+        width: 34%;
+        margin-right: 40px;
+        margin-left: 40px;
+    }
+
+    #content .bottomTeasers tbody tr td img {
+        width: 100%
+    }
+
+    #content .serviceMainHeader + p .full-image-block.ssNonEditable img {
+        width: 100%
+    }
+
+    #content .serviceMainHeader + p + p .full-image-block.ssNonEditable img {
+        width: 100%
+    }
+
+    .exampleTable2 .full-image-block img {
+        width: auto;
+    }
+
+    iframe {
+        min-width: 100%;
+        width: 100px;
+        *width: 100%;;
+        position: relative
+    }
+
+    /****end texas-c-corporation & same****/
+    /****head-office-london****/
+    #modulePage3794294 .thumbnail-image-float-left {
+        float: none;
+        margin: 0;
+    }
+
+    /** uk-leistungsangebot & same (table)***/
+    .container {
+        max-width: 870px;
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    #content .container .npost-left-sec img {
+        width: 100%
+    }
+
+    #content .container .npost-left-sec {
+        float: left;
+        width: auto;
+        margin-right: 22px;
+    }
+
+    #content .container .npost-right-sec {
+        float: none;
+        padding: 10px;
+        text-decoration: none;
+        width: auto;
+    }
+
+    #content .container a {
+        text-decoration: none
+    }
+
+    /**end uk-leistungsangebot & same (table)***/
+    /**uk-gesellschaften***/
+    #content .sectionMainPageTable img {
+        width: 100%;
+    }
+
+    #content .npost-right-sec h3 {
+        font-size: 23px
+    }
+
+    #content .sectionMainPageTable td {
+        margin-right: 10px
+    }
+
+    #modulePage19646824 img {
+        width: 100%
+    }
+
+    /**end uk-gesellschaften***/
+    /**head-office-london***/
+    #modulePage3794294 .thumbnail-image-float-left.ssNonEditable img {
+        width: 100%
+    }
+
+    /**end head-office-london***/
+    /**leistungen***/
+    #modulePage19605403 table {
+        display: flex;
+    }
+
+    #modulePage19605403 table tbody {
+        width: 100%;
+    }
+
+    #modulePage19605403 table tbody tr {
+        width: 100%;
+        display: flex;
+        display:  -webkit-flex;
+        justify-content: space-between;
+        -webkit-justify-content: space-between;
+    }
+
+    #modulePage19605403 table tbody .promoted-service {
+        padding-right: 10px;
+    }
+
+    #modulePage19605403 table tbody .promoted-service img {
+        width: 100%
+    }
+
+    #modulePage19605403 h2 {
+        margin-top: 0px
+    }
+
+    /**end leistungen***/
+    /*****beratung****/
+    #modulePage19626760 img {
+        width: 100%
+    }
+
+    /*****end beratung****/
+    /*******die-kanzlei****news-archiv**aktuelles*kontakt*rechnung-bezahlen*kanzlei-geschichte*companies-house*mandantenmeinungen*name*
+    *honorarsaetze*vat-registrierung*gruendungsdokumente*fragen-und-antworten*/
+    #modulePage3806752 #pageBody, #modulePage5644014 #pageBody, #modulePage3780154 #pageBody, #modulePage3780380 #pageBody,
+    #modulePage3810862 #pageBody, #modulePage3810605 #pageBody, #modulePage5653760 #pageBody, #modulePage19439151 #pageBody,
+    #modulePage3818344 #pageBody, #modulePage19604768 #pageBody, #modulePage4015597 #pageBody, #modulePage5655935 #pageBody,
+    #modulePage11737671 #pageBody {
+        display: flex;
+        display:  -webkit-flex;
+        flex-direction: column-reverse;
+        -webkit-flex-direction: column-reverse;
+        width: 100%
+    }
+
+    #modulePage3806752 #contentWrapper, #modulePage5644014 #contentWrapper, #modulePage3780154 #contentWrapper,
+    #modulePage3780380 #contentWrapper, #modulePage3810862 #contentWrapper, #modulePage3810605 #contentWrapper,
+    #modulePage5653760 #contentWrapper, #modulePage19439151 #contentWrapper, #modulePage3818344 #contentWrapper,
+    #modulePage19604768 #contentWrapper, #modulePage4015597 #contentWrapper, #modulePage5655935 #contentWrapper,
+    #modulePage11737671 #contentWrapper {
+        width: 100%;
+        margin-right: 0;
+        margin-left: 0
+    }
+
+    #modulePage3806752 #sidebar1Wrapper, #modulePage5644014 #sidebar1Wrapper, #modulePage3780154 #sidebar1Wrapper,
+    #modulePage3780380 #sidebar1Wrapper, #modulePage3810862 #sidebar1Wrapper, #modulePage3810605 #sidebar1Wrapper,
+    #modulePage5653760 #sidebar1Wrapper, #modulePage19439151 #sidebar1Wrapper, #modulePage3818344 #sidebar1Wrapper,
+    #modulePage19604768 #sidebar1Wrapper, #modulePage4015597 #sidebar1Wrapper, #modulePage5655935 #sidebar1Wrapper,
+    #modulePage11737671 #sidebar1Wrapper {
+        display: block;
+        float: none;
+        width: 100%;
+        padding: 0;
+    }
+
+    #modulePage3806752 .section ul li, #modulePage3806752 #moduleContent8204875, #modulePage5644014 #moduleContent8204875,
+    #modulePage3780154 #moduleContent8204875, #modulePage3780154 #moduleContent8204875, #modulePage3780380 #moduleContent8204875,
+    #modulePage3780380 .section ul li, #modulePage3810862 #moduleContent8204875, #modulePage3810605 #moduleContent8204875,
+    #modulePage3810605 .section ul li, #modulePage5653760 .section ul li, #modulePage5653760 #moduleContent8204875,
+    #modulePage19439151 #moduleContent8204875, #modulePage3818344 #moduleContent8204875, #modulePage19604768 #moduleContent8204875,
+    #modulePage4015597 #moduleContent8204875, #modulePage5655935 #moduleContent8204875, #modulePage11737671 #moduleContent8204875,
+    #modulePage11737671 .section ul li, #modulePage11737671 .caption {
+
+        text-align: center;
+    }
+
+    #modulePage3806752 p:first-child .full-image-block img {
+        width: 100% !important;
+    }
+
+    #modulePage3806752 #moduleContent8204875 img {
+        width: auto !important;
+    }
+
+    #modulePage3810862 .content-passthrough {
+        margin-top: 0px
+    }
+
+    #modulePage3810862 #content {
+        text-align: center
+    }
+
+    /*******end die-kanzlei********/
+    /*******aktuelles********/
+    #modulePage3780154 .journal-entry-tag-post-body-line1 {
+        display: flex;
+        display:  -webkit-flex;
+        font-size: 15px;
+    }
+
+    #modulePage3780154 .journal-entry-tag-post-body-line2 {
+        display: flex;
+        display:  -webkit-flex;
+        font-size: 14px;
+        flex-direction: column;
+        -webkit-flex-direction: column;
+    }
+
+    #modulePage3780154 .journal-entry-tag-post-body-line2 .tagged-with {
+        display: flex;
+        display:  -webkit-flex;
+        flex-flow: row wrap;
+        -webkit-flex-flow: row wrap;
+        flex-direction: row;
+        -webkit-flex-direction: row;
+    }
+
+    #modulePage3780154 .journal-entry-tag-post-body-line2 .tagged-with span:first-child {
+        margin-left: 10px
+    }
+
+    #modulePage3780154 .posted-in {
+        display: flex;
+        display:  -webkit-flex;
+        flex-flow: row wrap;
+        -webkit-flex-flow: row wrap;
+        flex-direction: row;
+        -webkit-flex-direction: row;
+    }
+
+    #modulePage3780154 .posted-in span:first-child {
+        margin-left: 10px
+    }
+
+    .paginationControlWrapper.journal-navigation {
+        font-size: 22px;
+    }
+
+    .paginationPageNumber {
+        font-size: 11px;
+        padding-right: 12px;
+        padding-left: 12px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+    }
+
+    /*******aktuelles********/
+    /****wohnsitzverlagerung-ausland***/
+    #modulePage19601193 .full-image-block.ssNonEditable {
+        text-align: center
+    }
+
+    #modulePage19601193 .thumbnail-image-float-left.ssNonEditable img {
+        width: 99%
+    }
+
+    /****end wohnsitzverlagerung-ausland***/
+    /*** steuergestaltung***/
+    #modulePage19643085 .requestPA + h2 + p + p .full-image-block.ssNonEditable img {
+        width: 100%
+    }
+
+    #modulePage19643085 .p1 + p a img {
+        width: 100%;
+    }
+
+    /***end steuergestaltung***/
+    /***us-corporation***/
+    #modulePage19185498 .requestPA + div + h2 + p + p .full-image-block.ssNonEditable img {
+        width: 100%;
+    }
+
+    /***end us-corporation***/
+    /***uk-steuerliche-betreuung***/
+    #modulePage19646969 img {
+        width: 100%;
+    }
+
+    /***end uk-steuerliche-betreuung***/
+    /******eu-vat*expansion-in-den-uk***/
+    .lpLeft {
+        float: none;
+        margin-right: 0;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    .lpRight {
+        height: auto;
+        float: none;
+        width: 100%;
+    }
+
+    .lpRight .full-image-block.ssNonEditable {
+        text-align: center
+    }
+
+    /******end eu-vat*expansion-in-den-uk***/
+    /***head-office-london-gallerie*****/
+    #gallery1153523 {
+        display: flex;
+        display:  -webkit-flex;
+        flex-direction: column;
+        -webkit-flex-direction: column;
+    }
+
+    /***end head-office-london-gallerie*****/
+    /**ablauf-ltd-co-kg-gruendung****/
+    #modulePage5072253 #content {
+        text-align: center
+    }
+
+    /**end ablauf-ltd-co-kg-gruendung****/
+    /*beratung-international-tax*beratung-uk*beratungsgespraech-holding*****/
+    #modulePage19626773 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img,
+    #modulePage19626834 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img,
+    #modulePage19631444 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img {
+        width: 100%;
+    }
+
+    /*end beratung-international-tax*beratung-uk*beratungsgespraech-holding*****/
+    /******limited-gruendung-betreuung********/
+    #headerDIV {
+        background-repeat: no-repeat;
+        background-size: cover;
+        max-width: 870px;
+        width: 100%;
+        height: 294px;
+    }
+
+    .serviceDIV3 {
+
+        height: 165px;
+    }
+
+    .h2Service {
+        font-size: 20px;
+    }
+
+    #modulePage5652115 .serviceMainHeader {
+        text-align: center
+    }
+
+    /******end limited-gruendung-betreuung********/
+    /*****holding****/
+    #modulePage11932573 h2 + p + p .full-image-block.ssNonEditable img {
+        width: 100%;
+    }
+
+    #modulePage11932573 .thumbnail-caption {
+        width: 100% !important;
+        text-align: center;
+    }
+
+    #modulePage11932573 h2 + p + p + p .full-image-block.ssNonEditable img {
+        width: 100%;
+    }
+
+    #modulePage11932573 h2 + p + p + p + p + p .full-image-block.ssNonEditable img {
+        width: 100%;
+    }
+
+    #modulePage11932573 h2 + p + p + p + p + p .full-image-block.ssNonEditable span a img {
+        width: auto;
+    }
+
+    /*****end holding****/
+    /**uk-limited-splash-page-at***/
+    #modulePage11739575 h1 {
+        text-align: center
+    }
+
+    #modulePage11739575 table {
+        display: flex;
+        display:  -webkit-flex;
+        flex-direction: column;
+        -webkit-flex-direction: column;
+        position: relative;
+    }
+
+    #modulePage11739575 table tr {
+        display: flex;
+        display:  -webkit-flex;
+        height: 732px;
+        flex-direction: column;
+        -webkit-flex-direction: column;
+        text-align: center;
+        -webkit-text-align: center;
+    }
+
+    #modulePage11739575 table tr:last-child {
+        height: 233px;
+    }
+
+    #modulePage11739575 table tr:first-child td {
+        height: 435px;
+    }
+
+    #modulePage11739575 table tr:last-child td:first-child {
+        position: absolute;
+        top: 271px;
+        text-align: left;
+        right: 0;
+        left: 0;
+        display: flex;
+        display:  -webkit-flex;
+        flex-direction: column;
+        -webkit-flex-direction: column;
+        align-items: center;
+        -webkit-align-items: center;
+    }
+
+    #modulePage11739575 table tr:last-child td:last-child {
+        position: absolute;
+        top: 740px;
+        right: 0;
+        text-align: left;
+        left: 0px;
+        display: flex;
+        display:  -webkit-flex;
+        width: 100%;
+        flex-direction: column;
+        -webkit-flex-direction: column;
+        align-items: center;
+        -webkit-align-items: center;
+    }
+
+    #modulePage11739575 strong {
+        width: 100%;
+        text-align: center;
+    }
+
+    #modulePage11739575 table tr:last-child td:last-child ul {
+        margin-left: 36px
+    }
+
+    #modulePage11739575 a img {
+        width: 357px;
+    }
+
+    /**end uk-limited-splash-page-at***/
+    /**malta-strategieberatung**/
+    #modulePage19646163 .serviceMainHeader + p + p + p img {
+        width: 100%
+    }
+
+    /**end malta-strategieberatung**/
+    /**9-fakten-zum-offshorefirma-tod****/
+    #modulePage19644138 img {
+        width: 100%
+    }
+
+    #modulePage19644138 a img {
+        width: 100%
+    }
+
+    #modulePage19644138 .thumbnail-caption {
+        width: 100% !important;
+        text-align: center
+    }
+
+    /**end 9-fakten-zum-offshorefirma-tod****/
+    /**boersengang-gxg-london**/
+    #modulePage19184644 .lpRight {
+        height: auto;
+    }
+
+    /**end boersengang-gxg-london**/
+    /**9-groessten-boersengang-luegen***/
+    #modulePage19226951 .thumbnail-caption {
+        width: 100% !important;
+        text-align: center;
+    }
+
+    #modulePage19226951 .thumbnail-image-float-right.ssNonEditable {
+        width: 100%;
+        text-align: center;
+        margin: 0;
+    }
+
+    /**end 9-groessten-boersengang-luegen***/
+    /***sebastian-sauerborn***/
+    #modulePage19596584 .serviceMainHeader + p + p .full-image-block.ssNonEditable img {
+        width: auto;
+    }
+
+    /***end sebastian-sauerborn***/
+    /***uk-lohnbuchhaltung****/
+    #modulePage19185454 .lpRight + div + h2 {
+        margin-top: 30px;
+    }
+
+    /***end uk-lohnbuchhaltung****/
+    /*dutch-sandwich-double-irish*****/
+    #modulePage19184653 .onThisPage {
+        margin-top: 20px;
+    }
+
+    /*end dutch-sandwich-double-irish*****/
+    /**beratungsgespraech-buchen***/
+    #modulePage10281592 h1 + p + p .full-image-block.ssNonEditable img {
+        width: 100%
+    }
+
+    /**end beratungsgespraech-buchen***/
+    /**die-kanzlei*****/
+    #modulePage3806752 .adminLinkTableWrapper + p .full-image-block.ssNonEditable img {
+        width: 100% !important;
+    }
+
+    /**end die-kanzlei****/
+    /**beratungsgespraech-startup*digitaler-nomade-beratung***/
+    #modulePage19640479 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img,
+    #modulePage19653842 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img {
+        width: 100%
+    }
+
+    /**end beratungsgespraech-startup*digitaler-nomade-beratung***/
+    /**gmbh-sitzverlegung-ins-ausland***/
+    #modulePage11540639 .onThisPage {
+        margin-top: 20px;
+    }
+
+    #modulePage11540639 .lpRight a img {
+        width: auto
+    }
+
+    /*  #modulePage11540639 a img{width:100%}  */
+    /**end gmbh-sitzverlegung-ins-ausland***/
+    /**uk-unternehmensbewertung***/
+    #modulePage19434643 .onThisPage {
+        margin-top: 20px;
+    }
+
+    /**end uk-unternehmensbewertung***/
+    /**fachgebiete**/
+    #modulePage19647015 img {
+        width: 100%;
+    }
+
+    /**end fachgebiete**/
+    /**wohnsitz-london-firma-in-malta***/
+    #modulePage19434641 h3 + p + p + p .full-image-block.ssNonEditable img {
+        width: 100%
+    }
+
+    /**end wohnsitz-london-firma-in-malta***/
+    /***vermoegensplanung-nach-inso*7-england-insolvenz-fakten**/
+    #modulePage19647062 .serviceMainHeader + p + div + p + p + p .full-image-block.ssNonEditable img,
+    #modulePage3780401 h3 + p + p + p .full-image-block.ssNonEditable img {
+        width: 100%
+    }
+
+    #modulePage3780401 .thumbnail-caption {
+        text-align: center;
+        width: 100% !important;
+    }
+
+    /***end vermoegensplanung-nach-inso*7-england-insolvenz-fakten**/
+    /**uk-steuersystem-steuerrecht****/
+    #modulePage4246729 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img {
+        width: 100%
+    }
+
+    #modulePage4246729 h2 + p + p .full-image-block.ssNonEditable img {
+        width: 100%
+    }
+
+    /**end uk-steuersystem-steuerrecht****/
+    /**oecd-crs-informationsaustausch***/
+    #modulePage19596091 .serviceMainHeader + p + p + p .full-image-block.ssNonEditable img,
+    #modulePage19596091 h2 + p + p .full-image-block.ssNonEditable img,
+    #modulePage19596091 .thumbnail-image-float-left.ssNonEditable img,
+    #modulePage19596091 h2 + p + p + p .full-image-block.ssNonEditable img,
+    #modulePage19596091 p + p + p + h3 + p + p .full-image-block.ssNonEditable img {
+        width: 100%
+    }
+
+    /**end oecd-crs-informationsaustausch***/
+    /**inso-unternehmer-freiberufler***/
+    #modulePage19647060 h2 + p + p + p .full-image-block.ssNonEditable img,
+    #modulePage19647060 h2 + p + p + p + p + p + p + p .full-image-block.ssNonEditable img,
+    #modulePage19647060 h2 + p + p + p + p + p + p + p + p + p + p + p + p + p .full-image-block.ssNonEditable img,
+    #modulePage19647060 h2 + p + p .full-image-block.ssNonEditable img {
+        width: 100%
+    }
+
+    #modulePage19647060 ul + p + p + h2 + p + p .full-image-block.ssNonEditable img {
+        width: auto
+    }
+
+    /**end inso-unternehmer-freiberufler***/
+    /****jochen-und-seine-uk-insolvenz***/
+    #modulePage7152818 .thumbnail-caption {
+        width: 100% !important;
+        text-align: center
+    }
+
+    /****end jochen-und-seine-uk-insolvenz***/
+    /***9-fakten-zur-limited-gruendung***/
+    #modulePage19639357 .thumbnail-caption {
+        width: 100% !important;
+        text-align: center;
+    }
+
+    #modulePage19639357 .thumbnail-image-float-left img {
+        border: none
+    }
+
+    /***end 9-fakten-zur-limited-gruendung***/
+    /***virtual-office-auckland-old*virtual-office-toronto-old*virtual-office-durban-old*virtual-office-auckland-old*/
+    #gallery1154199, #gallery1154209, #gallery1154258, #gallery1154199 {
+        display: flex;
+        display:  -webkit-flex;
+        flex-direction: row;
+        -webkit-flex-direction: row;
+        flex-flow: row wrap;
+        -webkit-flex-flow: row wrap;
+        justify-content: center;
+        -webkit-justify-content: center;
+    }
+
+    /***virtual-office-auckland-old*virtual-office-toronto-old*virtual-office-auckland-old*/
+    /**leitfaden-firmengruendung-usa*us-corporation-besteuerung**/
+    .jurisdictionTable tbody, .jurisdictionTable {
+        width: 100%;
+        display: flex;
+        display:  -webkit-flex;
+        flex-flow: column nowrap;
+        -webkit-flex-flow: column nowrap;
+        justify-content: space-between;
+        -webkit-justify-content: space-between;
+        margin: 0;
+    }
+
+    .jurisdictionTable tr:nth-child(odd), .jurisdictionTable tr:nth-child(even) {
+        display: flex;
+        display:  -webkit-flex;
+        flex-flow: row nowrap;
+        -webkit-flex-flow: row nowrap;
+    }
+
+    .jurisdictionTable td {
+        font-size: 90%;
+        display: flex;
+        display:  -webkit-flex;
+        flex-flow: row nowrap;
+        -webkit-flex-flow: row nowrap;
+        flex-grow: 1;
+        -webkit-flex-grow: 1;
+        flex-basis: 0;
+        -webkit-flex-basis: 0;
+        padding: 0.5em;
+        word-break: break-word;
+    }
+
+    #modulePage19645380 .jurisdictionTable tbody {
+        margin-bottom: 15px
+    }
+
+    /**end leitfaden-firmengruendung-usa*us-corporation-besteuerung**/
+    /**us-corporation-virtual-office****/
+    #modulePage19651007 .picture-gallery-list img {
+        width: 100%
+    }
+
+    /**end us-corporation-virtual-office****/
+    /**us-corporation-website-service***/
+    #modulePage19651865 #gallery1159215-img {
+        width: 100%
+    }
+
+    /**end us-corporation-website-service***/
+    /**us-corporation-banking***/
+    #modulePage19645384 .bankTable, #modulePage19645384 .bankTable tbody {
+        display: flex;
+        display:  -webkit-flex;
+    }
+
+    #modulePage19645384 .bankTable tr {
+        display: flex;
+        display:  -webkit-flex;
+        width: 100%;
+        flex-direction: row;
+        -webkit-flex-direction: row;
+        justify-content: space-between;
+        -webkit-justify-content: space-between;
+    }
+
+    #modulePage19645384 .bankTable td img {
+        width: 100%;
+    }
+
+    /**end us-corporation-banking***/
+    /**bahamas-offshore-gesellschaft*isle-of-man-gesellschaft***/
+    #modulePage11551717 table, #modulePage11551717 table tbody, #modulePage11551727 .table_img_isle, #modulePage11551727 .table_img_isle tbody {
+        width: 100%;
+        flex-direction: column;
+        -webkit-flex-direction: column;
+        display: flex;
+        display:  -webkit-flex;
+    }
+
+    #modulePage11551717 tbody tr, #modulePage11551727 .table_img_isle tbody tr {
+        text-align: center;
+        display: flex;
+        display:  -webkit-flex;
+        justify-content: space-around;
+        -webkit-justify-content: space-around;
+        font-size: 15px;
+    }
+
+    #modulePage11551717 tbody img, #modulePage11551727 .table_img_isle tbody img {
+        width: 100px !important;
+    }
+
+    /**end bahamas-offshore-gesellschaft****/
+    .imgTable td {
+        vertical-align: top;
+        padding: 10px;
+    }
+
+    /***us-corporation-compliance*us-corporation-rechtsform**/
+    .llcTable {
+        display: flex;
+        display:  -webkit-flex;
+    }
+
+    .llcTable tbody {
+        width: 98%;
+        display: block;
+        overflow-x: scroll;
+        position: relative;
+    }
+
+    .llcTable td p {
+        font-size: 10px !important;
+    }
+
+    /*** end us-corporation-compliance*us-corporation-rechtsform**/
+    form.search input {
+        max-width: 100%
+    }
+}
+
+@media (max-width: 767px) {
+    /****digitaler-nomade*****/
+    #pageFooter div {
+        font-size: 16px;
+        text-align: center
+    }
+
+    #content a img {
+        width: 65%
+    }
+
+    /****end digitaler-nomade*****/
+    /****home page****/
+    #modulePage8187337 #content table, #modulePage8187337 #content tbody {
+        display: block
+    }
+
+    #modulePage8187337 #content table tr:last-child, #modulePage8187337 #content table tr:nth-child(3) {
+        display: flex;
+        display:  -webkit-flex;
+    }
+
+    /****end home page****/
+    /****texas-c-corporation & same****/
+    #content .thumbnail-image-float-left.ssNonEditable img {
+        width: 99%;
+    }
+
+    /****end texas-c-corporation & same****/
+    /** uk-leistungsangebot & same (table)***/
+    #content .container .npost-left-sec {
+        display: flex;
+        display:  -webkit-flex;
+        float: none;
+        align-items: center;
+        -webkit-align-items: center;
+        justify-content: center;
+        -webkit-justify-content: center;
+        margin: 0;
+        margin-top: 20px;
+        margin-bottom: 3px;
+    }
+
+    #content .container .npost-left-sec img {
+        width: auto
+    }
+
+    #content .container .read-more-btn {
+        position: relative;
+
+        margin: 0 auto;
+
+        width: 178px;
+        display: flex;
+        display:  -webkit-flex;
+        justify-content: center;
+        -webkit-justify-content: center;
+        align-items: center;
+        -webkit-align-items: center;
+        right: 0;
+        bottom: 0;
+        margin-bottom: 20px;
+    }
+
+    #content .container .npost-sec {
+    }
+
+    /** end uk-leistungsangebot & same (table)***/
+    /*******aktuelles********/
+    #modulePage3780154 .journal-entry-tag.journal-entry-tag-post-body img {
+        width: auto
+    }
+
+    /*******end aktuelles********/
+    /*******uk-public-limited-company*uk-limited-by-guarantee*scottish-limited-partnership*limited-co-kg*
+    ruhende-limited*llp-mit-niederlassung*llp-ohne-niederlassung*limited-in-der-schweiz*limited-gruendung-schweiz*limited-in-deutschland
+    *limited-in-oesterreich*****/
+    #modulePage19647402 #content .thumbnail-image-float-left.ssNonEditable img,
+    #modulePage19647400 #content .thumbnail-image-float-left.ssNonEditable img,
+    #modulePage19608877 #content .thumbnail-image-float-left.ssNonEditable img,
+    #modulePage5072120 #content .thumbnail-image-float-left.ssNonEditable img,
+    #modulePage5652913 #content .thumbnail-image-float-left.ssNonEditable img,
+    #modulePage12282152 #content .thumbnail-image-float-left.ssNonEditable img,
+    #modulePage12282163 #content .thumbnail-image-float-left.ssNonEditable img,
+    #modulePage19192494 #content .thumbnail-image-float-left.ssNonEditable img,
+    #modulePage19445056 #content .thumbnail-image-float-left.ssNonEditable img,
+    #modulePage7558943 #content .thumbnail-image-float-left.ssNonEditable img,
+    #modulePage11739393 #content .thumbnail-image-float-left.ssNonEditable img {
+        width: auto;
+    }
+
+    #modulePage19647402 .full-image-float-left.ssNonEditable {
+        width: 100%
+    }
+
     /*******end uk-public-limited-company*uk-limited-by-guarantee*scottish-limited-partnership*limited-co-kg*ruhende-limited
    *llp-mit-niederlassung*llp-ohne-niederlassung*limited-in-der-schweiz*limited-gruendung-schweiz***/
-   
-   /**limited-gruendung-schweiz*limited-gruendung-oesterreich***/
-   #modulePage19445056 .full-image-float-left.ssNonEditable,#modulePage19445056 .full-image-float-right.ssNonEditable,
-   #modulePage11739451 .full-image-float-left.ssNonEditable,#modulePage11739451 .full-image-float-right.ssNonEditable
-   {width: 100%;
-    text-align: center;
-    float: none;margin:0;
-    display: block;}
-   #modulePage19445056 .thumbnail-caption,#modulePage11739451 .thumbnail-caption{width: 100%!important;text-align:center}
-  #modulePage19445056 .full-image-block,#modulePage11739451 .full-image-block {     text-align: center;}
-  #modulePage19445056 #content .thumbnail-image-float-left.ssNonEditable img,#modulePage11739451 #content .thumbnail-image-float-left.ssNonEditable img
-   {width:auto}
+    /**limited-gruendung-schweiz*limited-gruendung-oesterreich***/
+    #modulePage19445056 .full-image-float-left.ssNonEditable, #modulePage19445056 .full-image-float-right.ssNonEditable,
+    #modulePage11739451 .full-image-float-left.ssNonEditable, #modulePage11739451 .full-image-float-right.ssNonEditable {
+        width: 100%;
+        text-align: center;
+        float: none;
+        margin: 0;
+        display: block;
+    }
+
+    #modulePage19445056 .thumbnail-caption, #modulePage11739451 .thumbnail-caption {
+        width: 100% !important;
+        text-align: center
+    }
+
+    #modulePage19445056 .full-image-block, #modulePage11739451 .full-image-block {
+        text-align: center;
+    }
+
+    #modulePage19445056 #content .thumbnail-image-float-left.ssNonEditable img, #modulePage11739451 #content .thumbnail-image-float-left.ssNonEditable img {
+        width: auto
+    }
+
     /**end limited-gruendung-schweiz*limited-gruendung-oesterreich***/
-   /***head-office-london-gallerie*****/
-   #gallery1153523 a img{width:auto;margin-right:20px}
-   /***end head-office-london-gallerie*****/
-   
-    /****** limited-gruendung-betreuung********/ 
-   .divH2,.divH2Right{    width: 100%;
-    float: none;
-    padding: 0;
-    text-align: center;}
-   .serviceDIV3{    width: 90%;
-    height: auto;
-    margin: 0 auto;
-        float: none;}
-   #headerDIV {
-        height: 402px;}
-   #modulePage5652115 a img{width:auto}
-/******end limited-gruendung-betreuung********/
-  /**uk-limited-splash-page-at***/
-  
- #modulePage11739575 a img {      width: 357px;}
-   /**end uk-limited-splash-page-at***/ 
-   /**9-fakten-zum-offshorefirma-tod****/
-   #modulePage19644138 img{width:100%}
-    #modulePage19644138 a img{width:100%}
-   
-   /**end 9-fakten-zum-offshorefirma-tod****/
-   /**boersengang-gxg-london**/
-   #modulePage19184644 a img{width:auto}
-    /**end boersengang-gxg-london**/
-   
-   /**kontaktformular**/
-   .wForm select{width:202px}
-    /**end kontaktformular**/
-   /**9-groessten-boersengang-luegen**/
-   #modulePage19226951 .thumbnail-image-float-left.ssNonEditable img {
-    width: auto;}
-   /**end 9-groessten-boersengang-luegen**/
-   /***sebastian-sauerborn***/
-   #modulePage19596584 .serviceMainHeader + p + p .full-image-block.ssNonEditable img{    width: 100%;}
-      /***end sebastian-sauerborn***/
-   
-   /**kooperationsanfrage****/
-   #modulePage19595664 .serviceMainHeader + p + p + p + p + p + p + p .full-image-block.ssNonEditable img{width: 100%;}
-    /**end kooperationsanfrage****/
-   /**gmbh-sitzverlegung-ins-ausland***/
+    /***head-office-london-gallerie*****/
+    #gallery1153523 a img {
+        width: auto;
+        margin-right: 20px
+    }
 
-   #modulePage11540639 .lpRight a img{width:65%}  
-  /*  #modulePage11540639 a img{width:100%}  */
-/**end gmbh-sitzverlegung-ins-ausland***/
-   /**wohnsitz-london-firma-in-malta***/
-   #modulePage19434641 .full-image-float-right {float: none; margin: 0; text-align: center; width: 100%;  display: block;}
-   #modulePage19434641 .full-image-float-right img {width: 100%!important; }
-   /**end wohnsitz-london-firma-in-malta***/
-   
-   /**inso-unternehmer-freiberufler***/
-        #modulePage19647060 ul + p + p + h2 + p + p .full-image-block.ssNonEditable img{width:65%}
-    /**end inso-unternehmer-freiberufler***/
-   
-   /****jochen-und-seine-uk-insolvenz***/
-   #modulePage7152818 .thumbnail-image-float-left.ssNonEditable img { width: auto;}
-   #modulePage7152818 h2 + p + p + p + p + p + p .full-image-block.ssNonEditable img,
-    #modulePage7152818 h2 + p + p + p + p + p + p + p + p .full-image-block.ssNonEditable img
-   {width:100%}
-    /****end jochen-und-seine-uk-insolvenz***/
-   
-   /***irland-gesellschaft**/
-   #modulePage11551793 .thumbnail-image-float-left.ssNonEditable img {width: auto;}
-   /***end irland-gesellschaft**/
-   /*britannia-quo-vadis-die-briten-ihre-brexit-extrawurst-und-wi*wichtige-neuigkeiten-zur-eu-insolvenz-2017-von-insolvenzplan***/
-   #modulePage3780154 a img,#modulePage3780154 a img {width:auto}
-    /*end britannia-quo-vadis-die-briten-ihre-brexit-extrawurst-und-wi*wichtige-neuigkeiten-zur-eu-insolvenz-2017-von-insolvenzplan***/
-   
-   /***virtual-office-auckland-old*virtual-office-toronto-old*virtual-office-durban-old*virtual-office-auckland-old*/
-   #gallery1154199 a img, #gallery1154209 a img,#gallery1154258  a img,#gallery1154199  a img{width: auto;}
-    /***end virtual-office-auckland-old*virtual-office-toronto-old**/
-   
-   /**7-malta-limited-steuerfallen***/
-   #modulePage11671633 .thumbnail-image-float-right.ssNonEditable{display: flex; flex-direction: column; float: none; justify-content: center; margin: 0;
-    align-items: center;}
-   #modulePage11671633 .thumbnail-caption{    width: 100%!important; text-align: center;}
-  #modulePage11671633 .thumbnail-image-float-left.ssNonEditable img{ width:auto}
-   #modulePage11671633 .thumbnail-image-float-right.ssNonEditable img{    width: auto;}
-   /**end 7-malta-limited-steuerfallen***/
-   /***malta-limited-company**/
-   #modulePage11551789 .thumbnail-image-float-left.ssNonEditable img {  width: auto;}
-   /***end malta-limited-company**/
-   /***isle-of-man-gesellschaft***/
-   #modulePage11551727 .thumbnail-image-float-left.ssNonEditable img {  width: auto;}
-   /***end isle-of-man-gesellschaft***/
-}
-
-
-
-
-
-@media (max-width:600px){
-    #addsearch-results-mid{    width: 95%!important;
-    margin: 0 auto!important;}
-   .addsearch-result-item-container{    margin-top: 10px!important;}
-   .addsearch-result-item-sub h1 a{    padding-top: 6px!important;}
-   #addsearch-demo span{    display: none!important;}
-   /***die-kanzlei**/
-   #modulePage3806752 .full-image-block.ssNonEditable img{width:100%}
-   /**end die-kanzlei***/
-}
-
-@media (max-width:558px){
-   /**kontaktformular**/
-   .wForm select{margin-top:15px}
-    /**end kontaktformular**/
-   
-   /**wohnadresse-irland-bestellen*wohnadresse-england-bestellen*wohnadresse-usa-bestellen*wohnadresse-malta-bestellen*****/
-   #html-tmp-4669635544164 img,#html-tmp-2331920814245 img{width:100%}
-   .wForm form .actions .primaryAction{    width: 100%;    padding: 4px 8px;    font-size: 16px;white-space: normal;}
-   
-   /**end wohnadresse-irland-bestellen***/
-}
-
-
-
-
-
-@media (max-width:556px){
-   #addsearch-results-mid{    width: 95%!important;
-    margin: 0 auto!important;}
-/****texas-c-corporation & same****/ 
-    .bottomTeasers tbody tr {
-    
-    justify-content: space-around;
-}
-    .bottomTeasers tbody tr td {
-    width: 45%;
-     margin-right: 0px; 
-     margin-left: 0px; 
-}
- /****end texas-c-corporation & same****/
-   /****** limited-gruendung-betreuung********/
- #headerDIV {
-    min-height: 455px;}
-   #modulePage5652115 a img{width:auto}
-   /******end limited-gruendung-betreuung********/
-   
-    /**bahamas-offshore-gesellschaft*isle-of-man-gesellschaft***/
-    #modulePage11551717 tbody tr:first-child td, #modulePage11551727 .table_img_isle tbody tr:first-child td { height: 350px;}
-   #modulePage11551717 tbody tr, #modulePage11551727 .table_img_isle tbody tr{    flex-direction: column; }
-    #modulePage11551717 tbody tr:last-child, #modulePage11551727 .table_img_isle tbody tr:last-child { position: absolute; width: 90%;}
-   #modulePage11551717 tbody img,#modulePage11551727 .table_img_isle tbody img  {  width: 200px!important;  border: 1px solid #cacaca;}
-   #modulePage11551717 tbody tr:last-child td:nth-child(1),#modulePage11551727 .table_img_isle tbody tr:last-child td:nth-child(1) { top: 70px; position: absolute; width: 100%;}
-   #modulePage11551717 tbody tr:last-child td:nth-child(2),#modulePage11551727 .table_img_isle tbody tr:last-child td:nth-child(2) { top: 400px; position: absolute; width: 100%;}
-   #modulePage11551717 tbody tr:last-child td:nth-child(3),#modulePage11551727 .table_img_isle tbody tr:last-child td:nth-child(3) { top: 744px; position: absolute; width: 100%;}
-   #modulePage11551717 tbody tr:last-child td:nth-child(4),#modulePage11551727 .table_img_isle tbody tr:last-child td:nth-child(4) { top: 1094px; position: absolute; width: 100%;}
-  /**end bahamas-offshore-gesellschaft****/
-}
-
-
-@media (max-width:500px){
-  /****digitaler-nomade*****/
-  #content a img{width:80%}
-  .horizontalNavigationBar .module a {
-    font-size: 15px;}
-   /****end digitaler-nomade*****/
-    
-     /**** texas-c-corporation & same**head-office-london**/
-    .exampleTable2,.exampleTable,.imgTable{display: flex;}
-   .exampleTable2 tbody,.exampleTable tbody,.imgTable tbody{width:100%}
-    .exampleTable2 tr,.exampleTable tr,.imgTable tr{    display: flex;
-    flex-direction: column;
-    width: 100%;}
-    .exampleTable2 tr td,.exampleTable tr td,.imgTable tr td{text-align:center;}
-    .exampleTable2 tr td:last-child,.exampleTable tr td:last-child,.imgTable tr td:last-child{border-top:none;padding-top:0}
-    .exampleTable2 tr td:last-child h3,.exampleTable tr td:last-child h3,.imgTable tr td:last-child h3{margin-top: -37px;}
-    .exampleTable2 tr td:first-child,..exampleTable tr td:first-child,.imgTable tr td:first-child {padding-bottom:0;    padding-top: 23px;}
-     .imgTable td { vertical-align: top;     border-top: 1px solid silver;    padding: 10px;  }
-   /****end texas-c-corporation & same****/
-  /**head-office-london**/
-   #modulePage3794294 .thumbnail-image-float-left.ssNonEditable img{width:100%}
-   #modulePage3794294 td .thumbnail-image-float-left.ssNonEditable img {
-    width: auto;
-}
-   .exampleTable tr td:last-child h3{margin-top: 0px;}
-   #modulePage3794294 .full-image-float-left{float:none}
-  #modulePage3794294 .exampleTable img {
-    border: none; 
-}
- /**leistungen******/  
-   #modulePage19605403 table tbody tr {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-}
-   #modulePage19605403 table tbody .promoted-service {
-    padding-right: 0;    padding-top: 25px;
-}
-   #modulePage19605403 table tbody .promoted-service img {
-    width: auto;
-}
-    #modulePage19605403 table tbody tr:last-child .promoted-service {
-    padding-top:0;
-}
-    #modulePage19605403 table tbody tr:last-child .promoted-service:first-child {
-       padding-top: 25px;
-}
-   /****end leistungen****/
- /*******aktuelles********/
-   
-   
-   #modulePage3780154 .journal-entry-tag.journal-entry-tag-post-body img{width:auto}
-   /*******end aktuelles********/
-   /**limited-gruendung-schweiz*limited-gruendung-oesterreich***/
-   
-    #modulePage19445056 .full-image-float-left.ssNonEditable img,#modulePage19445056 .full-image-float-right.ssNonEditable img,
-    #modulePage11739451 .full-image-float-left.ssNonEditable img,#modulePage11739451 .full-image-float-right.ssNonEditable img
-   {width:100%}
-    /**end limited-gruendung-schweiz*limited-gruendung-oesterreich***/
-   
-   /***head-office-london-gallerie*****/
-   #gallery1153523 li{    border-top: 1px solid #cacaca;
-    padding-top: 20px;
-    margin-bottom: 20px;}
-   #gallery1153523 .thumbnail-container-with-description{width: 100%!important;
-    float: none;
-    text-align: center;}
-   #gallery1153523 a img{width:auto;margin:0px}
-   #gallery1153523 .description{    text-align: center;}
-   #gallery1153523 .description h3{ font-size: 20px;}
-   
-   /***end head-office-london-gallerie*****/
-   .exampleTable img {
-     border: none;/
-}
-   .thumbnail-image-float-left img, .thumbnail-image-float-right img, .thumbnail-image-float-none img {
-      border: none; }
-   
-   /**300-millionen-inder***/
-   #modulePage4264096 .full-image-float-left.ssNonEditable{    margin: 0;
-    width: 100%;
-    text-align: center;}
-   #modulePage4264096 .thumbnail-caption{    width: 100%!important;}
-    /**end 300-millionen-inder***/
-   
-    /**ablauf-ltd-co-kg-gruendung****/
-   #modulePage5072253 .full-image-block.ssNonEditable img{    width: 100%;}
-   /**end ablauf-ltd-co-kg-gruendung****/
-   
-   /***was-taxibelege-usw***/
-   #modulePage19631621 .full-image-block.ssNonEditable img { width: 100%;}
-   /***end was-taxibelege-usw***/
+    /***end head-office-london-gallerie*****/
     /****** limited-gruendung-betreuung********/
- #headerDIV {
-    min-height: 566px;}
-   #modulePage5652115 a img{width:auto}
-   /******end limited-gruendung-betreuung********/
-   /**holding***/
- #modulePage11932573 h2 + p + p + p + p + p .full-image-block.ssNonEditable span a img {
-     width:80%; }
-     /**end holding***/
+    .divH2, .divH2Right {
+        width: 100%;
+        float: none;
+        padding: 0;
+        text-align: center;
+    }
+
+    .serviceDIV3 {
+        width: 90%;
+        height: auto;
+        margin: 0 auto;
+        float: none;
+    }
+
+    #headerDIV {
+        height: 402px;
+    }
+
+    #modulePage5652115 a img {
+        width: auto
+    }
+
+    /******end limited-gruendung-betreuung********/
     /**uk-limited-splash-page-at***/
-   #modulePage11739575 table tr:last-child td:last-child { left: 0px;  width: 100%;}
-   #modulePage11739575 table tr:last-child td:last-child ul{ margin-left: 25px}
-   #modulePage11739575 a img {  width: 357px;}
-   
+    #modulePage11739575 a img {
+        width: 357px;
+    }
+
     /**end uk-limited-splash-page-at***/
     /**9-fakten-zum-offshorefirma-tod****/
-   #modulePage19644138 img{width:100%}
-    #modulePage19644138 a img{width:100%}
-   
-   /**end 9-fakten-zum-offshorefirma-tod****/
-   /**kontaktformular*****/
-  fieldset.captcha{ display: flex;
-        padding-left: 5px;
-     padding-right: 5px;}
-   /**end kontaktformular*****/
-   /***sebastian-sauerborn***/
-   #modulePage19596584 .full-image-block.ssNonEditable img{    width:100%;}
-   
-   /***end sebastian-sauerborn***/
+    #modulePage19644138 img {
+        width: 100%
+    }
+
+    #modulePage19644138 a img {
+        width: 100%
+    }
+
+    /**end 9-fakten-zum-offshorefirma-tod****/
+    /**boersengang-gxg-london**/
+    #modulePage19184644 a img {
+        width: auto
+    }
+
+    /**end boersengang-gxg-london**/
+    /**kontaktformular**/
+    .wForm select {
+        width: 202px
+    }
+
+    /**end kontaktformular**/
+    /**9-groessten-boersengang-luegen**/
+    #modulePage19226951 .thumbnail-image-float-left.ssNonEditable img {
+        width: auto;
+    }
+
+    /**end 9-groessten-boersengang-luegen**/
+    /***sebastian-sauerborn***/
+    #modulePage19596584 .serviceMainHeader + p + p .full-image-block.ssNonEditable img {
+        width: 100%;
+    }
+
+    /***end sebastian-sauerborn***/
+    /**kooperationsanfrage****/
+    #modulePage19595664 .serviceMainHeader + p + p + p + p + p + p + p .full-image-block.ssNonEditable img {
+        width: 100%;
+    }
+
+    /**end kooperationsanfrage****/
     /**gmbh-sitzverlegung-ins-ausland***/
+    #modulePage11540639 .lpRight a img {
+        width: 65%
+    }
 
-   #modulePage11540639 .lpRight a img{width:80%}  
-   #modulePage11540639 a img{width:100%}  
-/**end gmbh-sitzverlegung-ins-ausland***/
-   /***irland-gesellschaft**/
-   #modulePage11551793 .imgTable {    display: flex;}
-    #modulePage11551793 .imgTable tr {    display: flex;flex-direction: column; width: 100%;border-top: 1px solid silver;text-align: center;}
-   #modulePage11551793 .imgTable td:last-child {  margin-bottom: 18px;}
-   /***end irland-gesellschaft**/
-      /*llc***/
-   #modulePage19646369 img {width:100%}
-    /*end llc***/
-   /*britannia-quo-vadis-die-briten-ihre-brexit-extrawurst-und-wi*wichtige-neuigkeiten-zur-eu-insolvenz-2017-von-insolvenzplan***/
-   #modulePage3780154 a img,#modulePage3780154 a img {width:auto}
+    /*  #modulePage11540639 a img{width:100%}  */
+    /**end gmbh-sitzverlegung-ins-ausland***/
+    /**wohnsitz-london-firma-in-malta***/
+    #modulePage19434641 .full-image-float-right {
+        float: none;
+        margin: 0;
+        text-align: center;
+        width: 100%;
+        display: block;
+    }
+
+    #modulePage19434641 .full-image-float-right img {
+        width: 100% !important;
+    }
+
+    /**end wohnsitz-london-firma-in-malta***/
+    /**inso-unternehmer-freiberufler***/
+    #modulePage19647060 ul + p + p + h2 + p + p .full-image-block.ssNonEditable img {
+        width: 65%
+    }
+
+    /**end inso-unternehmer-freiberufler***/
+    /****jochen-und-seine-uk-insolvenz***/
+    #modulePage7152818 .thumbnail-image-float-left.ssNonEditable img {
+        width: auto;
+    }
+
+    #modulePage7152818 h2 + p + p + p + p + p + p .full-image-block.ssNonEditable img,
+    #modulePage7152818 h2 + p + p + p + p + p + p + p + p .full-image-block.ssNonEditable img {
+        width: 100%
+    }
+
+    /****end jochen-und-seine-uk-insolvenz***/
+    /***irland-gesellschaft**/
+    #modulePage11551793 .thumbnail-image-float-left.ssNonEditable img {
+        width: auto;
+    }
+
+    /***end irland-gesellschaft**/
+    /*britannia-quo-vadis-die-briten-ihre-brexit-extrawurst-und-wi*wichtige-neuigkeiten-zur-eu-insolvenz-2017-von-insolvenzplan***/
+    #modulePage3780154 a img, #modulePage3780154 a img {
+        width: auto
+    }
+
     /*end britannia-quo-vadis-die-briten-ihre-brexit-extrawurst-und-wi*wichtige-neuigkeiten-zur-eu-insolvenz-2017-von-insolvenzplan***/
+    /***virtual-office-auckland-old*virtual-office-toronto-old*virtual-office-durban-old*virtual-office-auckland-old*/
+    #gallery1154199 a img, #gallery1154209 a img, #gallery1154258 a img, #gallery1154199 a img {
+        width: auto;
+    }
 
-/***9-fakten-zur-limited-gruendung**/
-   #modulePage19639357 img{width:100%}
-/**9-fakten-zur-limited-gruendung***/
- /***virtual-office-auckland-old*virtual-office-toronto-old*virtual-office-durban-old*virtual-office-auckland-old*/
-   #gallery1154199 a img, #gallery1154209 a img,#gallery1154258  a img,#gallery1154199  a img{width: auto;}
     /***end virtual-office-auckland-old*virtual-office-toronto-old**/
-   
-   /**leitfaden-firmengruendung-usa*us-corporation-besteuerung**/
-   
-   .jurisdictionTable td:nth-child(3){    flex-grow: 2.1;}
-   .jurisdictionTable td{font-size:65%}
-    /**end leitfaden-firmengruendung-usa*us-corporation-besteuerung**/
-   
-     /**us-corporation-virtual-office****/
-   #modulePage19651007 .thumbnail-container{width: 100%!important;
-    text-align: center;
-    margin-bottom: 10px;
-    border-top: 1px solid #cacaca;
-    padding-top: 20px;}
-   #modulePage19651865 .thumbnail-container{width: 100%!important;
-    text-align: center;
-    margin-bottom: 10px;
-   
-    padding-top: 20px;}
-   /**end us-corporation-virtual-office****/
-/***bestehende-us-gesellschaft***/
-   #modulePage19652810 img{width: 100%}
-/***end bestehende-us-gesellschaft***/
-   
-   /**us-corporation-banking***/
-   #modulePage19645384 .bankTable, #modulePage19645384 .bankTable tbody{     justify-content: center;}
-   #modulePage19645384 .bankTable tr{   flex-direction:column;  }
+    /**7-malta-limited-steuerfallen***/
+    #modulePage11671633 .thumbnail-image-float-right.ssNonEditable {
+        display: flex;
+        display:  -webkit-flex;
+        flex-direction: column;
+        -webkit-flex-direction: column;
+        float: none;
+        justify-content: center;
+        -webkit-justify-content: center;
+        margin: 0;
+        align-items: center;
+        -webkit-align-items: center;
+    }
 
- /**end us-corporation-banking***/
-   form.search input{    
-      width: 98%;}
-    .phone p{    font-size: 12px;}
+    #modulePage11671633 .thumbnail-caption {
+        width: 100% !important;
+        text-align: center;
+    }
+
+    #modulePage11671633 .thumbnail-image-float-left.ssNonEditable img {
+        width: auto
+    }
+
+    #modulePage11671633 .thumbnail-image-float-right.ssNonEditable img {
+        width: auto;
+    }
+
+    /**end 7-malta-limited-steuerfallen***/
+    /***malta-limited-company**/
+    #modulePage11551789 .thumbnail-image-float-left.ssNonEditable img {
+        width: auto;
+    }
+
+    /***end malta-limited-company**/
+    /***isle-of-man-gesellschaft***/
+    #modulePage11551727 .thumbnail-image-float-left.ssNonEditable img {
+        width: auto;
+    }
+
+    /***end isle-of-man-gesellschaft***/
 }
 
+@media (max-width: 600px) {
+    #addsearch-results-mid {
+        width: 95% !important;
+        margin: 0 auto !important;
+    }
 
+    .addsearch-result-item-container {
+        margin-top: 10px !important;
+    }
 
+    .addsearch-result-item-sub h1 a {
+        padding-top: 6px !important;
+    }
 
+    #addsearch-demo span {
+        display: none !important;
+    }
 
-@media (max-width:400px){
+    /***die-kanzlei**/
+    #modulePage3806752 .full-image-block.ssNonEditable img {
+        width: 100%
+    }
+
+    /**end die-kanzlei***/
+}
+
+@media (max-width: 558px) {
+    /**kontaktformular**/
+    .wForm select {
+        margin-top: 15px
+    }
+
+    /**end kontaktformular**/
+    /**wohnadresse-irland-bestellen*wohnadresse-england-bestellen*wohnadresse-usa-bestellen*wohnadresse-malta-bestellen*****/
+    #html-tmp-4669635544164 img, #html-tmp-2331920814245 img {
+        width: 100%
+    }
+
+    .wForm form .actions .primaryAction {
+        width: 100%;
+        padding: 4px 8px;
+        font-size: 16px;
+        white-space: normal;
+    }
+
+    /**end wohnadresse-irland-bestellen***/
+}
+
+@media (max-width: 556px) {
+    #addsearch-results-mid {
+        width: 95% !important;
+        margin: 0 auto !important;
+    }
+
+    /****texas-c-corporation & same****/
+    .bottomTeasers tbody tr {
+
+        justify-content: space-around;
+    }
+
+    .bottomTeasers tbody tr td {
+        width: 45%;
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+
+    /****end texas-c-corporation & same****/
+    /****** limited-gruendung-betreuung********/
+    #headerDIV {
+        min-height: 455px;
+    }
+
+    #modulePage5652115 a img {
+        width: auto
+    }
+
+    /******end limited-gruendung-betreuung********/
+    /**bahamas-offshore-gesellschaft*isle-of-man-gesellschaft***/
+    #modulePage11551717 tbody tr:first-child td, #modulePage11551727 .table_img_isle tbody tr:first-child td {
+        height: 350px;
+    }
+
+    #modulePage11551717 tbody tr, #modulePage11551727 .table_img_isle tbody tr {
+        flex-direction: column;
+        -webkit-flex-direction: column;
+    }
+
+    #modulePage11551717 tbody tr:last-child, #modulePage11551727 .table_img_isle tbody tr:last-child {
+        position: absolute;
+        width: 90%;
+    }
+
+    #modulePage11551717 tbody img, #modulePage11551727 .table_img_isle tbody img {
+        width: 200px !important;
+        border: 1px solid #cacaca;
+    }
+
+    #modulePage11551717 tbody tr:last-child td:nth-child(1), #modulePage11551727 .table_img_isle tbody tr:last-child td:nth-child(1) {
+        top: 70px;
+        position: absolute;
+        width: 100%;
+    }
+
+    #modulePage11551717 tbody tr:last-child td:nth-child(2), #modulePage11551727 .table_img_isle tbody tr:last-child td:nth-child(2) {
+        top: 400px;
+        position: absolute;
+        width: 100%;
+    }
+
+    #modulePage11551717 tbody tr:last-child td:nth-child(3), #modulePage11551727 .table_img_isle tbody tr:last-child td:nth-child(3) {
+        top: 744px;
+        position: absolute;
+        width: 100%;
+    }
+
+    #modulePage11551717 tbody tr:last-child td:nth-child(4), #modulePage11551727 .table_img_isle tbody tr:last-child td:nth-child(4) {
+        top: 1094px;
+        position: absolute;
+        width: 100%;
+    }
+
+    /**end bahamas-offshore-gesellschaft****/
+}
+
+@media (max-width: 500px) {
     /****digitaler-nomade*****/
-  #content a img{width:100%}
+    #content a img {
+        width: 80%
+    }
+
+    .horizontalNavigationBar .module a {
+        font-size: 15px;
+    }
+
     /****end digitaler-nomade*****/
-    
-    
-     /****texas-c-corporation & same****/
-    
+    /**** texas-c-corporation & same**head-office-london**/
+    .exampleTable2, .exampleTable, .imgTable {
+        display: flex;
+        display:  -webkit-flex;
+    }
+
+    .exampleTable2 tbody, .exampleTable tbody, .imgTable tbody {
+        width: 100%
+    }
+
+    .exampleTable2 tr, .exampleTable tr, .imgTable tr {
+        display: flex;
+        display:  -webkit-flex;
+        flex-direction: column;
+        -webkit-flex-direction: column;
+        width: 100%;
+    }
+
+    .exampleTable2 tr td, .exampleTable tr td, .imgTable tr td {
+        text-align: center;
+    }
+
+    .exampleTable2 tr td:last-child, .exampleTable tr td:last-child, .imgTable tr td:last-child {
+        border-top: none;
+        padding-top: 0
+    }
+
+    .exampleTable2 tr td:last-child h3, .exampleTable tr td:last-child h3, .imgTable tr td:last-child h3 {
+        margin-top: -37px;
+    }
+
+    .exampleTable2 tr td:first-child, ..exampleTable tr td:first-child, .imgTable tr td:first-child {
+        padding-bottom: 0;
+        padding-top: 23px;
+    }
+
+    .imgTable td {
+        vertical-align: top;
+        border-top: 1px solid silver;
+        padding: 10px;
+    }
+
+    /****end texas-c-corporation & same****/
+    /**head-office-london**/
+    #modulePage3794294 .thumbnail-image-float-left.ssNonEditable img {
+        width: 100%
+    }
+
+    #modulePage3794294 td .thumbnail-image-float-left.ssNonEditable img {
+        width: auto;
+    }
+
+    .exampleTable tr td:last-child h3 {
+        margin-top: 0px;
+    }
+
+    #modulePage3794294 .full-image-float-left {
+        float: none
+    }
+
+    #modulePage3794294 .exampleTable img {
+        border: none;
+    }
+
+    /**leistungen******/
+    #modulePage19605403 table tbody tr {
+        width: 100%;
+        display: flex;
+        display:  -webkit-flex;
+        justify-content: center;
+        -webkit-justify-content: center;
+        flex-direction: column;
+        -webkit-flex-direction: column;
+        align-items: center;
+        -webkit-align-items: center;
+    }
+
+    #modulePage19605403 table tbody .promoted-service {
+        padding-right: 0;
+        padding-top: 25px;
+    }
+
+    #modulePage19605403 table tbody .promoted-service img {
+        width: auto;
+    }
+
+    #modulePage19605403 table tbody tr:last-child .promoted-service {
+        padding-top: 0;
+    }
+
+    #modulePage19605403 table tbody tr:last-child .promoted-service:first-child {
+        padding-top: 25px;
+    }
+
+    /****end leistungen****/
+    /*******aktuelles********/
+    #modulePage3780154 .journal-entry-tag.journal-entry-tag-post-body img {
+        width: auto
+    }
+
+    /*******end aktuelles********/
+    /**limited-gruendung-schweiz*limited-gruendung-oesterreich***/
+    #modulePage19445056 .full-image-float-left.ssNonEditable img, #modulePage19445056 .full-image-float-right.ssNonEditable img,
+    #modulePage11739451 .full-image-float-left.ssNonEditable img, #modulePage11739451 .full-image-float-right.ssNonEditable img {
+        width: 100%
+    }
+
+    /**end limited-gruendung-schweiz*limited-gruendung-oesterreich***/
+    /***head-office-london-gallerie*****/
+    #gallery1153523 li {
+        border-top: 1px solid #cacaca;
+        padding-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    #gallery1153523 .thumbnail-container-with-description {
+        width: 100% !important;
+        float: none;
+        text-align: center;
+    }
+
+    #gallery1153523 a img {
+        width: auto;
+        margin: 0px
+    }
+
+    #gallery1153523 .description {
+        text-align: center;
+    }
+
+    #gallery1153523 .description h3 {
+        font-size: 20px;
+    }
+
+    /***end head-office-london-gallerie*****/
+    .exampleTable img {
+        border: none;
+    /
+    }
+
+    .thumbnail-image-float-left img, .thumbnail-image-float-right img, .thumbnail-image-float-none img {
+        border: none;
+    }
+
+    /**300-millionen-inder***/
+    #modulePage4264096 .full-image-float-left.ssNonEditable {
+        margin: 0;
+        width: 100%;
+        text-align: center;
+    }
+
+    #modulePage4264096 .thumbnail-caption {
+        width: 100% !important;
+    }
+
+    /**end 300-millionen-inder***/
+    /**ablauf-ltd-co-kg-gruendung****/
+    #modulePage5072253 .full-image-block.ssNonEditable img {
+        width: 100%;
+    }
+
+    /**end ablauf-ltd-co-kg-gruendung****/
+    /***was-taxibelege-usw***/
+    #modulePage19631621 .full-image-block.ssNonEditable img {
+        width: 100%;
+    }
+
+    /***end was-taxibelege-usw***/
+    /****** limited-gruendung-betreuung********/
+    #headerDIV {
+        min-height: 566px;
+    }
+
+    #modulePage5652115 a img {
+        width: auto
+    }
+
+    /******end limited-gruendung-betreuung********/
+    /**holding***/
+    #modulePage11932573 h2 + p + p + p + p + p .full-image-block.ssNonEditable span a img {
+        width: 80%;
+    }
+
+    /**end holding***/
+    /**uk-limited-splash-page-at***/
+    #modulePage11739575 table tr:last-child td:last-child {
+        left: 0px;
+        width: 100%;
+    }
+
+    #modulePage11739575 table tr:last-child td:last-child ul {
+        margin-left: 25px
+    }
+
+    #modulePage11739575 a img {
+        width: 357px;
+    }
+
+    /**end uk-limited-splash-page-at***/
+    /**9-fakten-zum-offshorefirma-tod****/
+    #modulePage19644138 img {
+        width: 100%
+    }
+
+    #modulePage19644138 a img {
+        width: 100%
+    }
+
+    /**end 9-fakten-zum-offshorefirma-tod****/
+    /**kontaktformular*****/
+    fieldset.captcha {
+        display: flex;
+        display:  -webkit-flex;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    /**end kontaktformular*****/
+    /***sebastian-sauerborn***/
+    #modulePage19596584 .full-image-block.ssNonEditable img {
+        width: 100%;
+    }
+
+    /***end sebastian-sauerborn***/
+    /**gmbh-sitzverlegung-ins-ausland***/
+    #modulePage11540639 .lpRight a img {
+        width: 80%
+    }
+
+    #modulePage11540639 a img {
+        width: 100%
+    }
+
+    /**end gmbh-sitzverlegung-ins-ausland***/
+    /***irland-gesellschaft**/
+    #modulePage11551793 .imgTable {
+        display: flex;
+        display:  -webkit-flex;
+    }
+
+    #modulePage11551793 .imgTable tr {
+        display: flex;
+        display:  -webkit-flex;
+        flex-direction: column;
+        -webkit-flex-direction: column;
+        width: 100%;
+        border-top: 1px solid silver;
+        text-align: center;
+    }
+
+    #modulePage11551793 .imgTable td:last-child {
+        margin-bottom: 18px;
+    }
+
+    /***end irland-gesellschaft**/
+    /*llc***/
+    #modulePage19646369 img {
+        width: 100%
+    }
+
+    /*end llc***/
+    /*britannia-quo-vadis-die-briten-ihre-brexit-extrawurst-und-wi*wichtige-neuigkeiten-zur-eu-insolvenz-2017-von-insolvenzplan***/
+    #modulePage3780154 a img, #modulePage3780154 a img {
+        width: auto
+    }
+
+    /*end britannia-quo-vadis-die-briten-ihre-brexit-extrawurst-und-wi*wichtige-neuigkeiten-zur-eu-insolvenz-2017-von-insolvenzplan***/
+    /***9-fakten-zur-limited-gruendung**/
+    #modulePage19639357 img {
+        width: 100%
+    }
+
+    /**9-fakten-zur-limited-gruendung***/
+    /***virtual-office-auckland-old*virtual-office-toronto-old*virtual-office-durban-old*virtual-office-auckland-old*/
+    #gallery1154199 a img, #gallery1154209 a img, #gallery1154258 a img, #gallery1154199 a img {
+        width: auto;
+    }
+
+    /***end virtual-office-auckland-old*virtual-office-toronto-old**/
+    /**leitfaden-firmengruendung-usa*us-corporation-besteuerung**/
+    .jurisdictionTable td:nth-child(3) {
+        flex-grow: 2.1;
+        -webkit-flex-grow: 2.1;
+    }
+
+    .jurisdictionTable td {
+        font-size: 65%
+    }
+
+    /**end leitfaden-firmengruendung-usa*us-corporation-besteuerung**/
+    /**us-corporation-virtual-office****/
+    #modulePage19651007 .thumbnail-container {
+        width: 100% !important;
+        text-align: center;
+        margin-bottom: 10px;
+        border-top: 1px solid #cacaca;
+        padding-top: 20px;
+    }
+
+    #modulePage19651865 .thumbnail-container {
+        width: 100% !important;
+        text-align: center;
+        margin-bottom: 10px;
+
+        padding-top: 20px;
+    }
+
+    /**end us-corporation-virtual-office****/
+    /***bestehende-us-gesellschaft***/
+    #modulePage19652810 img {
+        width: 100%
+    }
+
+    /***end bestehende-us-gesellschaft***/
+    /**us-corporation-banking***/
+    #modulePage19645384 .bankTable, #modulePage19645384 .bankTable tbody {
+        justify-content: center;
+    }
+
+    #modulePage19645384 .bankTable tr {
+        flex-direction: column;
+        -webkit-flex-direction: column;
+    }
+
+    /**end us-corporation-banking***/
+    form.search input {
+        width: 98%;
+    }
+}
+
+@media (max-width: 400px) {
+    /****digitaler-nomade*****/
+    #content a img {
+        width: 100%
+    }
+
+    /****end digitaler-nomade*****/
+    /****texas-c-corporation & same****/
     .sectionMainPageTable tbody tr {
-        flex-direction: column;}
+        flex-direction: column;
+        -webkit-flex-direction: column;
+    }
+
     .sectionMainPageTable tbody tr a {
-           text-align: center;}
+        text-align: center;
+    }
+
     #content .sectionMainPageTable img {
-    width: 55%;
-}
-   #content .sectionMainPageTable td {
-   
-    margin-right: 0px;
-}
-    
-     /****end texas-c-corporation & same****/
-   /**uk-leistungsangebot & same (table)***/
-   #content .container .npost-right-sec h3{    font-size: 23px;}
-      /**end uk-leistungsangebot & same (table)***/
-      
-  /*** uk-gesellschaften**malta*/
-   
- #modulePage19646824  #content .sectionMainPageTable img,#modulePage19645981  #content .sectionMainPageTable img {
-    width: 100%;}
-   /***end uk-gesellschaften**/
-   /****england-insolvenz*brexit***/
-   #modulePage19647040 #content .sectionMainPageTable img,#modulePage19656980 #content .sectionMainPageTable img {
-     width: 100%; 
-}
+        width: 55%;
+    }
+
+    #content .sectionMainPageTable td {
+
+        margin-right: 0px;
+    }
+
+    /****end texas-c-corporation & same****/
+    /**uk-leistungsangebot & same (table)***/
+    #content .container .npost-right-sec h3 {
+        font-size: 23px;
+    }
+
+    /**end uk-leistungsangebot & same (table)***/
+    /*** uk-gesellschaften**malta*/
+    #modulePage19646824 #content .sectionMainPageTable img, #modulePage19645981 #content .sectionMainPageTable img {
+        width: 100%;
+    }
+
+    /***end uk-gesellschaften**/
+    /****england-insolvenz*brexit***/
+    #modulePage19647040 #content .sectionMainPageTable img, #modulePage19656980 #content .sectionMainPageTable img {
+        width: 100%;
+    }
+
     /****end england-insolvenz*brexit***/
     /*******aktuelles********/
-   
-   #modulePage3780154 .journal-entry-tag-post-body-line1 {
-    
-    font-size: 13px;
-}
-   #modulePage3780154 .journal-entry-tag-post-body-line2 {
-    
-    font-size: 12px;
-   
-}
-   #modulePage3780154 .journal-entry-tag.journal-entry-tag-post-body img{width:auto}
-   /*******end aktuelles********/
-  
-   /*** steuergestaltung*uk-steuerliche-betreuung**/
-   
-    #modulePage19643085 .sectionMainPageTable img,#modulePage19646969 .sectionMainPageTable img{width:100%}
-   /***end steuergestaltung*uk-steuerliche-betreuung**/
-   /****us-corporation****/
-   #modulePage19185498 .sectionMainPageTable img{width:100%}
-   /****end us-corporation****/
-   /***head-office-london-gallerie*****/
-      #gallery1153523 a img{width:auto;}
-    /***end head-office-london-gallerie*****/
-   
-     /****** limited-gruendung-betreuung********/
-    #modulePage5652115 a img{width:auto}
-   /******end limited-gruendung-betreuung********/
-    /**holding***/
- #modulePage11932573 h2 + p + p + p + p + p .full-image-block.ssNonEditable span a img {
-     width:100%; }
-     /**end holding***/
-   
-   /**uk-limited-splash-page-at***/
-   #modulePage11739575 table tr:last-child td:first-child {   top: 216px;}
-   #modulePage11739575 a img {     width: 287px;}
-   #modulePage11739575 table tr:last-child td:last-child {
-    position: absolute;
-    top: 707px;
-      left: 0px;}
-   #modulePage11739575 table tr:last-child td:last-child ul{ margin-left: 0px}
-   /**end uk-limited-splash-page-at***/
-    /**9-fakten-zum-offshorefirma-tod****/
-   #modulePage19644138 img{width:100%}
-    #modulePage19644138 a img{width:100%}
-   
-   /**end 9-fakten-zum-offshorefirma-tod****/
-   /**9-groessten-boersengang-luegen****/
-   #modulePage19226951 .thumbnail-image-float-left.ssNonEditable img {
-      width: 100%; }
-    /**end 9-groessten-boersengang-luegen****/
-   /**gmbh-sitzverlegung-ins-ausland***/
+    #modulePage3780154 .journal-entry-tag-post-body-line1 {
 
-   #modulePage11540639 .lpRight a img{width:100%}  
-   
-/**end gmbh-sitzverlegung-ins-ausland***/
-   
-   /***eu-insolvenz*fachgebiete**/
-   #modulePage19683927 .sectionMainPageTable img,#modulePage19647015 .sectionMainPageTable img{width: 100%;}
-   /***end eu-insolvenz**fachgebiete*/
-   /*britannia-quo-vadis-die-briten-ihre-brexit-extrawurst-und-wi*wichtige-neuigkeiten-zur-eu-insolvenz-2017-von-insolvenzplan***/
-   #modulePage3780154 a img,#modulePage3780154 a img {width:auto}
+        font-size: 13px;
+    }
+
+    #modulePage3780154 .journal-entry-tag-post-body-line2 {
+
+        font-size: 12px;
+
+    }
+
+    #modulePage3780154 .journal-entry-tag.journal-entry-tag-post-body img {
+        width: auto
+    }
+
+    /*******end aktuelles********/
+    /*** steuergestaltung*uk-steuerliche-betreuung**/
+    #modulePage19643085 .sectionMainPageTable img, #modulePage19646969 .sectionMainPageTable img {
+        width: 100%
+    }
+
+    /***end steuergestaltung*uk-steuerliche-betreuung**/
+    /****us-corporation****/
+    #modulePage19185498 .sectionMainPageTable img {
+        width: 100%
+    }
+
+    /****end us-corporation****/
+    /***head-office-london-gallerie*****/
+    #gallery1153523 a img {
+        width: auto;
+    }
+
+    /***end head-office-london-gallerie*****/
+    /****** limited-gruendung-betreuung********/
+    #modulePage5652115 a img {
+        width: auto
+    }
+
+    /******end limited-gruendung-betreuung********/
+    /**holding***/
+    #modulePage11932573 h2 + p + p + p + p + p .full-image-block.ssNonEditable span a img {
+        width: 100%;
+    }
+
+    /**end holding***/
+    /**uk-limited-splash-page-at***/
+    #modulePage11739575 table tr:last-child td:first-child {
+        top: 216px;
+    }
+
+    #modulePage11739575 a img {
+        width: 287px;
+    }
+
+    #modulePage11739575 table tr:last-child td:last-child {
+        position: absolute;
+        top: 707px;
+        left: 0px;
+    }
+
+    #modulePage11739575 table tr:last-child td:last-child ul {
+        margin-left: 0px
+    }
+
+    /**end uk-limited-splash-page-at***/
+    /**9-fakten-zum-offshorefirma-tod****/
+    #modulePage19644138 img {
+        width: 100%
+    }
+
+    #modulePage19644138 a img {
+        width: 100%
+    }
+
+    /**end 9-fakten-zum-offshorefirma-tod****/
+    /**9-groessten-boersengang-luegen****/
+    #modulePage19226951 .thumbnail-image-float-left.ssNonEditable img {
+        width: 100%;
+    }
+
+    /**end 9-groessten-boersengang-luegen****/
+    /**gmbh-sitzverlegung-ins-ausland***/
+    #modulePage11540639 .lpRight a img {
+        width: 100%
+    }
+
+    /**end gmbh-sitzverlegung-ins-ausland***/
+    /***eu-insolvenz*fachgebiete**/
+    #modulePage19683927 .sectionMainPageTable img, #modulePage19647015 .sectionMainPageTable img {
+        width: 100%;
+    }
+
+    /***end eu-insolvenz**fachgebiete*/
+    /*britannia-quo-vadis-die-briten-ihre-brexit-extrawurst-und-wi*wichtige-neuigkeiten-zur-eu-insolvenz-2017-von-insolvenzplan***/
+    #modulePage3780154 a img, #modulePage3780154 a img {
+        width: auto
+    }
+
     /*end britannia-quo-vadis-die-briten-ihre-brexit-extrawurst-und-wi*wichtige-neuigkeiten-zur-eu-insolvenz-2017-von-insolvenzplan***/
-  
-   /**irland**/
-   #modulePage19683959 .sectionMainPageTable img { width: 100%; }
-   /**end irland**/
-     /***virtual-office-auckland-old*virtual-office-toronto-old*virtual-office-durban-old*virtual-office-auckland-old*/
-   #gallery1154199 a img, #gallery1154209 a img,#gallery1154258  a img,#gallery1154199  a img{width: auto;}
+    /**irland**/
+    #modulePage19683959 .sectionMainPageTable img {
+        width: 100%;
+    }
+
+    /**end irland**/
+    /***virtual-office-auckland-old*virtual-office-toronto-old*virtual-office-durban-old*virtual-office-auckland-old*/
+    #gallery1154199 a img, #gallery1154209 a img, #gallery1154258 a img, #gallery1154199 a img {
+        width: auto;
+    }
+
     /***end virtual-office-auckland-old*virtual-office-toronto-old**/
-   
-/***7-malta-limited-steuerfallen**/
-   #modulePage11671633 .thumbnail-image-float-left.ssNonEditable img {     width: 100%; }
-    #modulePage11671633 strong .thumbnail-image-float-left.ssNonEditable img {     width: auto; }
-   
-   /***7-malta-limited-steuerfallen**/
-   
-   /**wohnadresse-irland-bestellen*wohnadresse-england-bestellen*wohnadresse-usa-bestellen*wohnadresse-malta-bestellen*****/
-      .wForm form{    display: flex;align-items: center;
-    flex-direction: column;
-    justify-content: center;}
-   /**end wohnadresse-irland-bestellen***/
-   .phone p{    font-size: 12px;}
-   .phone a{    line-height: 63px;}
-   .phone{    height: 46px;
-    line-height: 50px;}
-   
-   
-   
+    /***7-malta-limited-steuerfallen**/
+    #modulePage11671633 .thumbnail-image-float-left.ssNonEditable img {
+        width: 100%;
+    }
+
+    #modulePage11671633 strong .thumbnail-image-float-left.ssNonEditable img {
+        width: auto;
+    }
+
+    /***7-malta-limited-steuerfallen**/
+    /**wohnadresse-irland-bestellen*wohnadresse-england-bestellen*wohnadresse-usa-bestellen*wohnadresse-malta-bestellen*****/
+    .wForm form {
+        display: flex;
+        display:  -webkit-flex;
+        align-items: center;
+        -webkit-align-items: center;
+        flex-direction: column;
+        -webkit-flex-direction: column;
+        justify-content: center;
+        -webkit-justify-content: center;
+    }
+
+    /**end wohnadresse-irland-bestellen***/
+    .phone p {
+        font-size: 14px;
+    }
+
+    .phone a {
+        line-height: 63px;
+    }
+
+    .phone {
+        height: 46px;
+        line-height: 50px;
+    }
+
 }
