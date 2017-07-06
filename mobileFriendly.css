@@ -1162,7 +1162,10 @@ width: 34%;
     flex-direction: column;
     justify-content: center;}
    /**end wohnadresse-irland-bestellen***/
-   
+   .phone p{    font-size: 14px;}
+   .phone a{    line-height: 63px;}
+   .phone{    height: 46px;
+    line-height: 50px;}
    
    
    
