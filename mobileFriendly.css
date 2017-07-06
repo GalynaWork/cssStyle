@@ -26,7 +26,7 @@
     line-height: inherit;}
 .phone p a:hover {
     color: #005B7F;
-        border-bottom: 1px solid #005B7F;}
+        border-bottom: 1px solid #005B7F;padding-bottom:3px}
 
 .phone img {
     width: 25px;
@@ -37,7 +37,7 @@
     font-weight: bold;
     
     font-size: 16px;
-    color: #000;    margin-bottom:6px;
+    color: #000;    margin-bottom:0px;
 }
 
 /***end phone number***/
