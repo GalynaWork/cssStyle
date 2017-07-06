@@ -1928,6 +1928,9 @@ form.search input {
     form.search input {
         width: 98%;
     }
+     .phone p {
+        font-size: 14px;
+    }
 }
 
 @media (max-width: 400px) {
