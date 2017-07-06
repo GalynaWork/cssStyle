@@ -21,7 +21,8 @@
     text-decoration: none
 }
 .phone p a{    display: inline-block;
-    float: none;margin-right:0;
+    float: none;margin-right:0; color: #000;
+        border-bottom: none;
     }
 .phone p a:hover {
     color: #005B7F;
