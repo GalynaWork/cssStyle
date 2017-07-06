@@ -29,7 +29,7 @@
         border-bottom: 1px solid #005B7F;padding-bottom:3px}
 
 .phone img {
-    width: 25px;
+    width: 25px!important;
 }
 
 .phone p {
