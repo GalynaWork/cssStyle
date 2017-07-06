@@ -18,6 +18,9 @@
     color: #000;
     text-decoration: none
 }
+.phone p a{    display: inline-block;
+    float: none;
+    line-height: inherit;}
 
 .phone img {
     width: 25px;
