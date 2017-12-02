@@ -1654,6 +1654,8 @@ form.search input {
             content: "London";
             display: block;
         }
+    table.responsive tbody td.contentCellRight.first{border-bottom:none}
+     table.responsive tbody td.contentCellRight:last-child{border-top:none}
         table.responsive tbody td.contentCellRight.first:before {
             content: "Freiburg";
             display: block;
