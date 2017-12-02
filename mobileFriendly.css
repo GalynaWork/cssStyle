@@ -1660,11 +1660,11 @@ form.search input {
             display: block;
         }
       
-    table.responsive .descCellLeft{width:100%;background: #fff;}
+    table.responsive .descCellLeft{width:auto;background: #fff;}
     .contentCellRight{text-align:left;}
     .priceCompareTable.responsive{border:none}
     .priceCompareTable tr:nth-child(odd){background: #fff;}
-    table.responsive tr td{    max-width: 97%;}
+    table.responsive tr td{   }
     }
 
 @media (max-width: 500px) {
