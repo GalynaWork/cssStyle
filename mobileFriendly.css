@@ -1588,6 +1588,64 @@ form.search input {
 
     /**end bahamas-offshore-gesellschaft****/
 }
+@media (max-width: 500px) {
+        table.responsiveTable {
+            width: 100%;
+        }
+        table.responsiveTable thead {
+            position: relative !important;
+
+            overflow: visible;
+            height: auto;
+            width: auto;
+            padding: 0;
+            margin: 0;
+        }
+        table.responsiveTable tr:nth-of-type(2n) {
+            background-color: inherit;
+        }
+        table.responsiveTable tr td:first-child {
+            background: #fff;
+            font-weight: inherit;
+        }
+        table.responsiveTable tbody th {
+            vertical-align: bottom;
+        }
+        table.responsiveTable tbody td {
+            display: table-cell;
+        }
+        table.responsiveTable tbody td:before {
+            content: none;
+        }
+        table.responsiveTable thead {
+            position: absolute !important;
+            clip: rect(1px 1px 1px 1px);
+            overflow: hidden;
+            height: 1px;
+            width: 1px;
+        }
+        table.responsiveTable tr:nth-of-type(2n) {
+            background-color: inherit;
+        }
+        table.responsiveTable tr td:first-child {
+            background: #ccc;
+            font-weight: bold;
+            margin-top: 1em;
+        }
+        table.responsiveTable tr:first-of-type td:first-child {
+            margin-top: 0;
+        }
+        table.responsiveTable tbody th {
+            vertical-align: top;
+        }
+        table.responsiveTable tbody td {
+            display: block;
+        }
+        table.responsiveTable tbody td:before {
+            content: attr(data-th);
+            display: block;
+        }
+    }
 
 @media (max-width: 500px) {
     /****digitaler-nomade*****/
