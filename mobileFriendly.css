@@ -1588,7 +1588,7 @@ form.search input {
 
     /**end bahamas-offshore-gesellschaft****/
 }
-@media (max-width: 500px) {
+@media (max-width: 550px) {
         table.responsive {
             width: 100%;
         }
@@ -1641,10 +1641,21 @@ form.search input {
         table.responsive tbody td {
             display: block;
         }
-        table.responsive tbody td:before {
-            content: attr(data-th);
+    table.responsive tbody td.contentCellRight:before {
+            content: "London";
             display: block;
         }
+        table.responsive tbody td.contentCellRight:first-child:before {
+            content: "Freiburg";
+            display: block;
+        }
+    table.responsive tbody td.contentCellRight:last-child:before {
+            content: "Austin, TX";
+            display: block;
+        }
+    table.responsive .descCellLeft{width:100%;background: #fff;}
+    .contentCellRight{text-align:left;}
+        
     }
 
 @media (max-width: 500px) {
