@@ -1588,7 +1588,10 @@ form.search input {
 
     /**end bahamas-offshore-gesellschaft****/
 }
-@media (max-width: 550px) {
+@media(max-width:992px) and (min-width:767px){
+    .priceCompareTable.responsive{font-size:16px}
+}
+@media (max-width: 767px) {
         table.responsive {
             width: 100%;
         }
@@ -1648,7 +1651,7 @@ form.search input {
             content: "London";
             display: block;
         }
-        table.responsive tbody td.contentCellRight.second:before {
+        table.responsive tbody td.contentCellRight.first:before {
             content: "Freiburg";
             display: block;
         }
