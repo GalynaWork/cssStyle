@@ -1591,10 +1591,10 @@ form.search input {
 @media(max-width:992px) and (min-width:767px){
     .priceCompareTable.responsive{font-size:16px}
 }
-@media(max-width:767px) and (min-width:600px){
+@media(max-width:767px) and (min-width:656px){
     .priceCompareTable.responsive{font-size:14px}
 }
-@media (max-width: 600px) {
+@media (max-width: 656px) {
         table.responsive {
             width: 100%;
         }
