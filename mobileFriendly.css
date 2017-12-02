@@ -1641,16 +1641,19 @@ form.search input {
         table.responsive tbody td {
             display: block;
         }
-    table.responsive tbody td.contentCellRight:before {
-            content: "London";
-            display: block;
-        }
+    table.responsive tbody td.contentCellRight:before{
+            font-weight: bold;
+    }
         table.responsive tbody td.contentCellRight:nth-child(1):before {
             content: "Freiburg";
             display: block;
         }
     table.responsive tbody td.contentCellRight:last-child:before {
             content: "Austin, TX";
+            display: block;
+        }
+      table.responsive tbody td.contentCellRightnth-child(2):before {
+            content: "London";
             display: block;
         }
     table.responsive .descCellLeft{width:100%;background: #fff;}
